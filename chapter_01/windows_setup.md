@@ -1,18 +1,13 @@
-<<<<<<< HEAD
 ---
 layout: default
 title: "Setup Instructions: Windows"
 ---
-=======
-Setup Instructions: Windows
-===
->>>>>>> 7d67f0238b7c252b7959ba1f2b5516064ac05a7c
 
-- [Checking your current version of Python](#current_version)
-- [Installing Python 3.5](#python3.5)
-- [Adding Python to Your Path Variable](#path_variable)
-- [Installing Geany](#installing_geany)
-    - [Configuring Geany](#configuring_geany)
+- [<a name='current_version'></a>Checking your current version of Python](#checking-your-current-version-of-python)
+- [<a name='python3.5'></a>Installing Python 3.5](#installing-python-35)
+- [<a name='path_variable'></a>Adding Python to Your Path Variable](#adding-python-to-your-path-variable)
+- [<a name='installing_geany'></a>Installing Geany](#installing-geany)
+  - [Configuring Geany](#configuring-geany)
 
 <a name='current_version'></a>Checking your current version of Python
 ---

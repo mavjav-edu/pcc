@@ -1,17 +1,12 @@
-<<<<<<< HEAD
 ---
 layout: default
 title: "Setup Instructions: OS X"
 ---
-=======
-Setup Instructions: OS X
-===
->>>>>>> 7d67f0238b7c252b7959ba1f2b5516064ac05a7c
 
-- [Checking your current version of Python](#current_version)
-- [Installing Python 3.5](#python3.5)
-- [Installing Sublime Text](#installing_st)
-    - [Configuring Sublime Text](#configuring_st)
+- [<a name='current_version'></a>Checking your current version of Python](#checking-your-current-version-of-python)
+- [<a name='python3.5'></a>Installing Python 3.5](#installing-python-35)
+- [<a name='installing_st'></a>Installing Sublime Text](#installing-sublime-text)
+  - [Configuring Sublime Text for Python 3](#configuring-sublime-text-for-python-3)
 
 <a name='current_version'></a>Checking your current version of Python
 ---
