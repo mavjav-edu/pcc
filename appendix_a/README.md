@@ -29,9 +29,9 @@ Python is included by default on almost every Linux system, but you might want t
 This shows that the default version is Python 2.7.6. However, you might have a version of Python 3 installed as well. To check, issue the following command:
 
     $ python3 --version
-    Python 3.5.0
+    Python 3.10.0
 
-Python 3.5.0 is also installed. It's worth running both commands before you attempt to install a new version.
+Python 3.10.0 is also installed. It's worth running both commands before you attempt to install a new version.
 
 ### Installing Python 3 on Linux
 
@@ -39,9 +39,9 @@ If you don't have Python 3 or if you want to install a newer version of Python 3
 
     sudo add-apt-repository ppa:fkrull/deadsnakes
     sudo apt-get update
-    sudo apt-get install python3.5
+    sudo apt-get install python3.10
 
-These commands will install Python 3.5 to your system. The following command will start a terminal session running Python 3.5:
+These commands will install Python 3.10 to your system. The following command will start a terminal session running Python 3.10:
 
     $ python3.5
     >>>
@@ -90,7 +90,7 @@ To install the latest version of Python 3, enter the following:
 You can check which version was installed:
 
     $ python3 --version
-    Python 3.5.0
+    Python 3.10.0
     $
 
 Now you can start a Python 3 terminal session using the command `python3`, and you can ues the `python3` command to configure your text editor so it runs Python programs with Python 3 instead of Python 2.
@@ -103,7 +103,7 @@ Python on Windows
 Python isn't usually included by default on Windows, but it's worth checking to see if it exists on your system. Open a command window and run the following command:
 
     > python --version
-    Python 3.5.0
+    Python 3.10.0
 
 If you see output like this, Python is already installed, but you might want to install a newer version if your version is not up to date. If you see an error message, you'll need to download and install Python.
 
@@ -117,8 +117,8 @@ If you've installed Python and the simple command `python` doesn't work, you'll 
 
 In the terminal window, use the path to confirm the version you just installed:
 
-    $ C:\\Python35\python --version
-    Python 3.5.0
+    $ C:\\Python310\python --version
+    Python 3.10.0
 
 ### Adding Python to your Path variable
 
@@ -126,7 +126,7 @@ It's annoying to type the full path each time you want to start a Python termina
 
 Open your system's **Control Panel**, choose **System and Security**, and then choose **System**. Click **Advanced System Settings**. In the window that pops up, click **Environment Variables**. In the box labeled *System variables*, look for a variable called `Path`. click **Edit**. In the box that pops up, click in the box labeled *Variable value* and use the right arrow key to scroll all the way to the right. Be careful not to overwrite the existing variable; if you do, click Cancel and try again. Add a semicolon and the path to your *python.exe* file to the existing variable:
 
-    %SystemRoot%\system32\...\System32\WindowsPowerShell\v1.0\;C:\Python35
+    %SystemRoot%\system32\...\System32\WindowsPowerShell\v1.0\;C:\Python310
 
 Close your terminal window and open a new one. This will load the new `Path` variable into your terminal session. Now when you enter `python --version`, you should see the version of Python you just set in your `Path` variable. You can now start a Python terminal sesion by just entering `python` at a command prompt.
 
