@@ -3,17 +3,16 @@ layout: default
 title: Chapter 20
 ---
 
-- [- Questions](#ulliquestionsliul)
-- [Chapter 20](#chapter-20)
-  - [Deploying a Project to Heroku](#deploying-a-project-to-heroku)
-    - [Making a Heroku Account](#making-a-heroku-account)
-    - [Installing the Heroku Toolbelt](#installing-the-heroku-toolbelt)
-    - [Installing required packages](#installing-required-packages)
-  - [Updates](#updates)
-    - [Checking for the /tmp directory](#checking-for-the-tmp-directory)
-    - [Using WhiteNoise to manage static files](#using-whitenoise-to-manage-static-files)
-  - [Resources](#resources)
-  - [Questions](#questions)
+- [Deploying a Project to Heroku](#deploying-a-project-to-heroku)
+  - [Making a Heroku Account](#making-a-heroku-account)
+  - [Installing the Heroku Toolbelt](#installing-the-heroku-toolbelt)
+  - [Installing required packages](#installing-required-packages)
+- [Updates](#updates)
+  - [Checking for the /tmp directory](#checking-for-the-tmp-directory)
+  - [Using WhiteNoise to manage static files](#using-whitenoise-to-manage-static-files)
+- [Resources](#resources)
+- [Questions](#questions)
+- [TRY IT YOURSELF](#try-it-yourself)
 
 Deploying a Project to Heroku
 ---
@@ -140,4 +139,4 @@ changes to the rest of the form-based pages: `new_entry` and
 `edit_entry`, and `register`.
 
 <a id="#ch20exe2"></a>**20-2. Stylish Blog:** Use Bootstrap to style the Blog
-project you created in [Chapter 19](ch19.html#ch19).
+project you created in [Chapter 19](..\chapter_19\README.md#ch19).

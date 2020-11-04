@@ -16,7 +16,7 @@ TRY IT YOURSELF
 ---------------
 
 The exercises in this chapter are exploratory in nature. Starting in
-[Chapter 2](ch02.html#ch02), the challenges you'll solve will be based
+[Chapter 2](..\chapter_02\README.md#ch02), the challenges you'll solve will be based
 on what you've learned.
 
 <a id="#ch1exe1"></a>**1-1. python.org:** Explore the Python home page
