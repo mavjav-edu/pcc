@@ -239,3 +239,19 @@ Then you write this as a string, with any variables in the URL inside angle brac
 ### Next
 
 [Updates for Chapter 19](../chapter_19/README.html)
+
+TRY IT YOURSELF
+---------------
+
+<a id="#ch18exe1"></a>**18-1. New Projects:** To get a better idea of what Django
+does, build a couple of empty projects and look at what it creates. Make
+a new folder with a simple name, like *InstaBook* or *FaceGram* (outside
+of your *learning_log* directory), navigate to that folder in a
+terminal, and create a virtual environment. Install Django, and run the
+command `django-admin.py startproject instabook.` (make sure
+you include the dot at the end of the command).
+
+Look at the files and folders this command creates, and compare them to
+Learning Log. Do this a few times until you're familiar with what Django
+creates when starting a new project. Then delete the project directories
+if you wish.

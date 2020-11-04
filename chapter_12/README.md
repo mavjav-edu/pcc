@@ -118,3 +118,14 @@ You can test if the installation was successful by starting a new Python termina
     >>>
 
 If this works, you're ready to start building Alien Invasion!
+
+TRY IT YOURSELF
+---------------
+
+<a id="#ch12exe1"></a>**12-1. Blue Sky:** Make a Pygame window with a blue
+background.
+
+<a id="#ch12exe2"></a>**12-2. Game Character:** Find a bitmap image of a game
+character you like or convert an image to a bitmap. Make a class that
+draws the character at the center of the screen and match the background
+color of the image to the background color of the screen, or vice versa.
