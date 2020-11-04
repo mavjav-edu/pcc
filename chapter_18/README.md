@@ -236,10 +236,6 @@ In this new `path()`-based approach you figure out what you want the URL to look
 
 Then you write this as a string, with any variables in the URL inside angle brackets. In the angle brackets you describe the type of variable to expect, `int` in this case, and provide a name for the value in the URL. This is much simpler than writing a regular expression to capture the value in the URL.
 
-### Next
-
-[Updates for Chapter 19](../chapter_19/README.html)
-
 TRY IT YOURSELF
 ---------------
 
@@ -255,3 +251,7 @@ Look at the files and folders this command creates, and compare them to
 Learning Log. Do this a few times until you're familiar with what Django
 creates when starting a new project. Then delete the project directories
 if you wish.
+
+### Next
+
+[Updates for Chapter 19](../chapter_19/README.html)
