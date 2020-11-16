@@ -29,9 +29,9 @@ Python is included by default on almost every Linux system, but you might want t
 This shows that the default version is Python 2.7.6. However, you might have a version of Python 3 installed as well. To check, issue the following command:
 
     $ python3 --version
-    Python 3.10.0
+    Python 3.10
 
-Python 3.10.0 is also installed. It's worth running both commands before you attempt to install a new version.
+Python 3.10 is also installed. It's worth running both commands before you attempt to install a new version.
 
 ### Installing Python 3 on Linux
 
@@ -43,7 +43,7 @@ If you don't have Python 3 or if you want to install a newer version of Python 3
 
 These commands will install Python 3.10 to your system. The following command will start a terminal session running Python 3.10:
 
-    $ python3.5
+    $ python3.10
     >>>
 
 You'll also use this command when you configure your text editor to use Python 3, and when you run programs from a terminal.
@@ -90,7 +90,7 @@ To install the latest version of Python 3, enter the following:
 You can check which version was installed:
 
     $ python3 --version
-    Python 3.10.0
+    Python 3.10
     $
 
 Now you can start a Python 3 terminal session using the command `python3`, and you can ues the `python3` command to configure your text editor so it runs Python programs with Python 3 instead of Python 2.
@@ -103,7 +103,7 @@ Python on Windows
 Python isn't usually included by default on Windows, but it's worth checking to see if it exists on your system. Open a command window and run the following command:
 
     > python --version
-    Python 3.10.0
+    Python 3.10
 
 If you see output like this, Python is already installed, but you might want to install a newer version if your version is not up to date. If you see an error message, you'll need to download and install Python.
 
@@ -118,7 +118,7 @@ If you've installed Python and the simple command `python` doesn't work, you'll 
 In the terminal window, use the path to confirm the version you just installed:
 
     $ C:\\Python310\python --version
-    Python 3.10.0
+    Python 3.10
 
 ### Adding Python to your Path variable
 

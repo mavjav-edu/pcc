@@ -39,12 +39,12 @@ Add the *deadsnakes* package, and then install Python 3.10:
 You can confirm that the installation was successful:
 
     $ python3.10 --version
-    Python 3.10.0
+    Python 3.10
 
 Now to start a Python terminal session, you'll use the command `python3.10`:
 
     $ python3.10
-    Python 3.10.0 (default, Sep 17 2015, 00:00:00) 
+    Python 3.10 (default, Sep 17 2015, 00:00:00) 
     [GCC 4.8.4] on linux
     Type "help", "copyright", "credits" or "license" for more information.
     >>>

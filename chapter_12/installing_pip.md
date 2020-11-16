@@ -32,7 +32,7 @@ Pip on Linux
 First, check whether pip is installed on your system:
 
     $ pip --version
-    pip 7.0.3 from /usr/local/lib/python3.5/dist-packages (python 3.5)
+    pip 7.0.3 from /usr/local/lib/python3.10/dist-packages (python 3.10)
 
 The output of `pip --version` tells you which version of pip is currently installed, and which version of Python it's set up to install packages for. This is especially helpful if you have more than one version of Python installed on your system.
 
@@ -41,7 +41,7 @@ If you have only one version of Python installed on your system, you can use pip
 If you have more than one version of Python installed on your system, you should also try the command pip3:
 
     $ pip3 --version
-    pip 7.0.3 from /usr/local/lib/python3.5/dist-packages (python 3.5)
+    pip 7.0.3 from /usr/local/lib/python3.10/dist-packages (python 3.10)
 
 
 Here pip3 is set up to install to the same version of Python, but often times pip will install to Python 2. pip3, if you have it set up, should always install packages to the version of Python 3 you have installed.
@@ -122,7 +122,7 @@ If you ever want to uninstall a package, you can use requests to do so as well:
 
     $ pip uninstall requests
     Uninstalling requests-2.8.1:
-      /home/ehmatthes/.local/lib/python3.5/site-packages/requests-2.8.1.dist-info/DESCRIPTION.rst
+      /home/ehmatthes/.local/lib/python3.10/site-packages/requests-2.8.1.dist-info/DESCRIPTION.rst
       ...
     Proceed (y/n)? y
       Successfully uninstalled requests-2.8.1
@@ -139,7 +139,7 @@ Pip on OS X
 First, check whether pip is installed on your system:
 
     $ pip --version
-    pip 7.0.3 from /usr/local/lib/python3.5/dist-packages (python 3.5)
+    pip 7.0.3 from /usr/local/lib/python3.10/dist-packages (python 3.10)
 
 The output of `pip --version` tells you which version of pip is currently installed, and which version of Python it's set up to install packages for. This is especially helpful if you have more than one version of Python installed on your system.
 
@@ -148,7 +148,7 @@ If you have only one version of Python installed on your system, you can use pip
 If you have more than one version of Python installed on your system, you should also try the command pip3:
 
     $ pip3 --version
-    pip 7.0.3 from /usr/local/lib/python3.5/dist-packages (python 3.5)
+    pip 7.0.3 from /usr/local/lib/python3.10/dist-packages (python 3.10)
 
 
 Here pip3 is set up to install to the same version of Python, but often times pip will install to Python 2. pip3, if you have it set up, should always install packages to the version of Python 3 you have installed.
@@ -229,7 +229,7 @@ If you ever want to uninstall a package, you can use requests to do so as well:
 
     $ pip uninstall requests
     Uninstalling requests-2.8.1:
-      /home/ehmatthes/.local/lib/python3.5/site-packages/requests-2.8.1.dist-info/DESCRIPTION.rst
+      /home/ehmatthes/.local/lib/python3.10/site-packages/requests-2.8.1.dist-info/DESCRIPTION.rst
       ...
     Proceed (y/n)? y
       Successfully uninstalled requests-2.8.1
@@ -246,7 +246,7 @@ Pip on Windows
 First, check whether pip is installed on your system. Open a terminal window and issue the following command:
 
     > python -m pip --version
-    pip 7.0.3 from C:\Python35\lib\site-packages (python 3.5)
+    pip 7.0.3 from C:\Python310\lib\site-packages (python 3.10)
 
 The output of `pip --version` tells you which version of pip is currently installed, and which version of Python it's set up to install packages for. This is especially helpful if you have more than one version of Python installed on your system.
 
@@ -255,7 +255,7 @@ If you have only one version of Python installed on your system, you can use pip
 If you have more than one version of Python installed on your system, you should also try the command pip3:
 
     > python -m pip3 --version
-    pip 7.0.3 from C:\Python35\lib\site-packages (python 3.5)
+    pip 7.0.3 from C:\Python310\lib\site-packages (python 3.10)
 
 Here pip3 is set up to install to the same version of Python, but often times pip will install to Python 2. pip3, if you have it set up, should always install packages to the version of Python 3 you have installed.
 
