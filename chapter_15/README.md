@@ -151,12 +151,3 @@ On the latest version of Pygal, the code from Chapter 15 runs as it's written in
 
 This should upgrade your installation to the latest version of Pygal, and your code should work as it's written.
 
-TRY IT YOURSELF
----------------
-
-<a id="#ch15exe1"></a>**15-1. Cubes:** A number raised to the third power is a
-*cube*. Plot the first five cubic numbers, and then plot the first 5000
-cubic numbers.
-
-<a id="#ch15exe2"></a>**15-2. Colored Cubes:** Apply a colormap to your cubes
-plot.

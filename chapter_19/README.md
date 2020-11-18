@@ -186,16 +186,3 @@ In *learning_logs/models.py*, the line that defines the foreign key relationship
 
 This tells Django that when a user is deleted, all of the topics owned by that user should be deleted as well.
 
-TRY IT YOURSELF
----------------
-
-<a id="#ch19exe1"></a>**19-1. Blog:** Start a new Django project called *Blog*.
-Create an app called *blogs* in the project, with a model called
-`BlogPost`. The model should have fields like
-`title`, `text`, and `date_added`. Create
-a superuser for the project, and use the admin site to make a couple of
-short posts. Make a home page that shows all posts in chronological
-order.
-
-Create a form for making new posts and another for editing existing
-posts. Fill in your forms to make sure they work.

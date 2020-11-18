@@ -129,14 +129,3 @@ Twitter: [@ehmatthes](http://twitter.com/ehmatthes/)
 
 [top](#)
 
-<a id="#page_466"></a>
-TRY IT YOURSELF
----------------
-
-<a id="#ch20exe1"></a>**20-1. Other Forms:** We've applied Bootstrap's styles to
-the `login` and `add_topic` pages. Make similar
-changes to the rest of the form-based pages: `new_entry` and
-`edit_entry`, and `register`.
-
-<a id="#ch20exe2"></a>**20-2. Stylish Blog:** Use Bootstrap to style the Blog
-project you created in [Chapter 19](..\chapter_19\README.md#ch19).
