@@ -5,11 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "PowerShell Launch Script",
+            "name": "PowerShell Attach to Host Process",
             "type": "PowerShell",
-            "request": "launch",
-            "script": "enter path or command to execute e.g.: ${workspaceFolder}/src/foo.ps1 or Invoke-Pester",
-            "cwd": "${workspaceFolder}"
+            "request": "attach",
+            "runspaceId": 1
         },
         {
             "name": "PowerShell: Launch Current File",
