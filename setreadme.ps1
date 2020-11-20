@@ -24,7 +24,7 @@ foreach($htmlFile in $htmlFiles){
             Out-Host -InputObject $outStr
             pause
         } else{
-            Out-File -InputObject $outStr -FilePath  -Append $README_md -Encoding utf8
+            Out-File -InputObject $outStr -FilePath  $README_md -Append -Encoding utf8
         }
     }
 }
