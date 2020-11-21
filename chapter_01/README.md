@@ -12,10 +12,6 @@ Python runs on all modern operating systems, but the setup process is slightly d
 - [OS X](osx_setup.html)
 - [Windows](windows_setup.html)
 
-  
-
-  
-
 TRY IT YOURSELF \#1
 -------------------
 

@@ -16,11 +16,7 @@ Some of the text files from [Project Gutenberg](https://www.gutenberg.org/) are 
 
 The `encoding` argument should be added to the `open()` calls in *word_count.py* as well on pages 205-206.
 
-  
-
 <span id="page_197"></span>
-
-  
 
 <span id="page_197"></span>
 
@@ -52,8 +48,6 @@ Read in each line from the file you just created, *learning_python.txt*,
 and replace the word *Python* with the name of another language, such as
 *C*. Print each modified line to the screen.
 
-  
-
 TRY IT YOURSELF \#2
 -------------------
 
@@ -71,8 +65,6 @@ the file.
 loop that asks people why they like programming. Each time someone
 enters a reason, add their reason to a file that stores all the
 responses.
-
-  
 
 TRY IT YOURSELF \#3
 -------------------
@@ -127,8 +119,6 @@ formatted.
 
 Write a program that reads the files you found at Project Gutenberg and
 determines how many times the word `'the'` appears in each text.
-
-  
 
 TRY IT YOURSELF \#4
 -------------------

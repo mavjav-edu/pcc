@@ -37,7 +37,7 @@ input, groups, detecting collisions between game elements, and rendering text.
     - Focuses on creating visualizations with Pygal. Making line graphs, scatter plots, and bar graphs, styling plots, making multiple plots, and working with global datasets.
 - [Beginner's Python Cheat Sheet - Django](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_django.pdf)
     - Focuses on creating web apps with Django. Installing Django and starting a project, working with models, building a home page, using templates, using data, and making user accounts.
-    
+
 - - -
 
 [![Python Crash Course](../images/cover.jpg)](http://nostarchpress.com/pythoncrashcourse)Available from [No Starch Press](http://nostarchpress.com/pythoncrashcourse) and [Amazon](http://www.amazon.com/Python-Crash-Course-Project-Based-Introduction/dp/1593276036).</p>

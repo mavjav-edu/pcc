@@ -301,7 +301,7 @@ wm.title = 'Global GDP in 2014, by Country (in billions USD)'
 wm.add('0-5bn', cc_gdps_1)
 wm.add('5bn-50bn', cc_gdps_2)
 wm.add('>50bn', cc_gdps_3)
-    
+
 wm.render_to_file('global_gdp.svg')
 ```
 

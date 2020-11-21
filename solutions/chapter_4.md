@@ -45,7 +45,6 @@ pepperoni
 hawaiian
 veggie
 
-
 I really love pepperoni pizza!
 I really love hawaiian pizza!
 I really love veggie pizza!

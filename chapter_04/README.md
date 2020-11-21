@@ -1,7 +1,4 @@
 
-  
-
-  
 
 TRY IT YOURSELF \#1
 -------------------
@@ -31,8 +28,6 @@ dog would make a great pet.*
 • Add a line at the end of your program stating what these animals have
 in common. You could print a sentence such as *Any of these animals
 would make a great pet!*
-
-  
 
 TRY IT YOURSELF \#2
 -------------------
@@ -66,8 +61,6 @@ the value of each cube.
 
 <span id="ch4exe9"></span>**4-9. Cube Comprehension:** Use a list
 comprehension to generate a list of the first 10 cubes.
-
-  
 
 TRY IT YOURSELF \#3
 -------------------
@@ -105,8 +98,6 @@ stored in the appropriate list.
 to save space. Choose a version of *foods.py*, and write two `for` loops
 to print each list of foods.
 
-  
-
 TRY IT YOURSELF \#4
 -------------------
 
@@ -122,8 +113,6 @@ change.
 • The restaurant changes its menu, replacing two of the items with
 different foods. Add a block of code that rewrites the tuple, and then
 use a `for` loop to print each of the items on the revised menu.
-
-  
 
 <span id="page_74"></span>
 

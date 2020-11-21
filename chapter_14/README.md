@@ -1,7 +1,4 @@
 
-  
-
-  
 
 TRY IT YOURSELF \#1
 -------------------
@@ -21,8 +18,6 @@ target. Add a Play button that starts the game, and when the player
 misses the target three times, end the game and make the Play button
 reappear. Let the player restart the game with this Play button.
 
-  
-
 TRY IT YOURSELF \#2
 -------------------
 
@@ -30,8 +25,6 @@ TRY IT YOURSELF \#2
 with your work from [Exercise 14-2](#ch14exe2) ([page 298](#page_298)).
 Make the target move faster as the game progresses, and restart at the
 original speed when the player clicks Play.
-
-  
 
 <span id="page_317"></span>
 

@@ -119,10 +119,6 @@ You can test if the installation was successful by starting a new Python termina
 
 If this works, you're ready to start building Alien Invasion!
 
-  
-
-  
-
 TRY IT YOURSELF \#1
 -------------------
 
@@ -134,8 +130,6 @@ of a game character you like or convert an image to a bitmap. Make a
 class that draws the character at the center of the screen and match the
 background color of the image to the background color of the screen, or
 vice versa.
-
-  
 
 TRY IT YOURSELF \#2
 -------------------
@@ -149,8 +143,6 @@ rocket never moves beyond any edge of the screen.
 creates an empty screen. In the event loop, print the `event.key`
 attribute whenever a `pygame.KEYDOWN` event is detected. Run the program
 and press various keys to see how Pygame responds.
-
-  
 
 TRY IT YOURSELF \#3
 -------------------

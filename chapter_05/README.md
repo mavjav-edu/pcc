@@ -1,10 +1,6 @@
 
 
-  
-
 <span id="page_82"></span>
-
-  
 
 <span id="page_82"></span>
 
@@ -49,8 +45,6 @@ less than, greater than or equal to, and less than or equal to
 • Test whether an item is in a list
 
 • Test whether an item is not in a list
-
-  
 
 TRY IT YOURSELF \#2
 -------------------
@@ -126,8 +120,6 @@ that check for certain fruits in your list.
 of fruit is in your list. If the fruit is in your list, the `if` block
 should print a statement, such as *You really like bananas!*
 
-  
-
 <span id="page_93"></span>
 
 TRY IT YOURSELF \#3
@@ -181,8 +173,6 @@ numbers end in *th*, except 1, 2, and 3.
 ordinal ending for each number. Your output should read
 `"1st 2nd 3rd 4th 5th 6th 7th 8th 9th"`, and each result should be on a
 separate line.
-
-  
 
 TRY IT YOURSELF \#4
 -------------------

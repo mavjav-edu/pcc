@@ -1,10 +1,6 @@
 
 
-  
-
 <span id="page_222"></span>
-
-  
 
 <span id="page_222"></span>
 
@@ -38,8 +34,6 @@ Write a second test called `test_city_country_population()` that
 verifies you can call your function with the values `'santiago'`,
 `'chile'`, and `'population=5000000'`. Run *test_cities.py* again, and
 make sure this new test passes.
-
-  
 
 TRY IT YOURSELF \#2
 -------------------

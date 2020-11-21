@@ -115,7 +115,6 @@ To do this, specify the version of Django you want to install when you use pip:
 
 This should work even if you've already install a different version of Django. When you ask pip to install a specific version of a library, it will uninstall any other versions first.
 
-
 [top](#)
  
 Updates
@@ -239,9 +238,6 @@ Then you write this as a string, with any variables in the URL inside angle brac
 ### Next
 
 [Updates for Chapter 19](../chapter_19/README.html)
-  
-
-  
 
 TRY IT YOURSELF \#1
 -------------------
@@ -258,8 +254,6 @@ Look at the files and folders this command creates, and compare them to
 Learning Log. Do this a few times until you’re familiar with what Django
 creates when starting a new project. Then delete the project directories
 if you wish.
-
-  
 
 <span id="page_412"></span>
 
@@ -292,8 +286,6 @@ key to `Pizza`, and `name` should be able to hold values such as
 Register both models with the admin site, and use the site to enter some
 pizza names and toppings. Use the shell to explore the data you entered.
 
-  
-
 TRY IT YOURSELF \#3
 -------------------
 
@@ -306,8 +298,6 @@ for this project.
 <span id="ch18exe6"></span>**18-6. Pizzeria Home Page:** Add a home page
 to the *Pizzeria* project you started in [Exercise 18-4](#ch18exe4)
 ([page 412](#page_412)).
-
-  
 
 TRY IT YOURSELF \#4
 -------------------

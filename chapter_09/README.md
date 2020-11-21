@@ -1,7 +1,4 @@
 
-  
-
-  
 
 TRY IT YOURSELF \#1
 -------------------
@@ -29,8 +26,6 @@ prints a personalized greeting to the user.
 
 Create several instances representing different users, and call both
 methods for each user.
-
-  
 
 TRY IT YOURSELF \#2
 -------------------
@@ -63,8 +58,6 @@ Make an instance of the `User` class and call
 `login_attempts` to make sure it was incremented properly, and then call
 `reset_login_attempts()`. Print `login_attempts` again to make sure it
 was reset to 0.
-
-  
 
 TRY IT YOURSELF \#3
 -------------------
@@ -102,8 +95,6 @@ electric car with a default battery size, call `get_range()` once, and
 then call `get_range()` a second time after upgrading the battery. You
 should see an increase in the car’s range.
 
-  
-
 TRY IT YOURSELF \#4
 -------------------
 
@@ -123,8 +114,6 @@ show that everything is working correctly.
 class in one module, and store the `Privileges` and `Admin` classes in a
 separate module. In a separate file, create an `Admin` instance and call
 `show_privileges()` to show that everything is still working correctly.
-
-  
 
 <span id="page_186"></span>
 

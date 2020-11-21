@@ -44,7 +44,7 @@ for repo_dict in repo_dicts:
         desc = repo_dict['description']
     else:
         desc = 'No description provided.'
-    
+
     plot_dict = {
         'value': repo_dict['stargazers_count'],
         'label': desc,
@@ -106,14 +106,14 @@ for submission_id in submission_ids[:30]:
     submission_r = requests.get(url)
     print(submission_r.status_code)
     response_dict = submission_r.json()
-    
+
     submission_dict = {
         'title': response_dict['title'],
         'link': 'http://news.ycombinator.com/item?id=' + str(submission_id),
         'comments': response_dict.get('descendants', 0)
         }
     submission_dicts.append(submission_dict)
-    
+
 submission_dicts = sorted(submission_dicts, key=itemgetter('comments'),
                             reverse=True)
 
@@ -226,7 +226,6 @@ def make_visualization(names, plot_dicts):
 
     chart.add('', plot_dicts)
     chart.render_to_file('python_repos.svg')
-
 
 r = get_response()
 repo_dicts = get_repo_dicts(r)

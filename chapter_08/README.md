@@ -1,7 +1,4 @@
 
-  
-
-  
 
 TRY IT YOURSELF \#1
 -------------------
@@ -16,8 +13,6 @@ called `favorite_book()` that accepts one parameter, `title`. The
 function should print a message, such as
 `One of my favorite books is Alice in Wonderland`. Call the function,
 making sure to include a book title as an argument in the function call.
-
-  
 
 TRY IT YOURSELF \#2
 -------------------
@@ -42,8 +37,6 @@ function should print a simple sentence, such as
 `Reykjavik is in Iceland`. Give the parameter for the country a default
 value. Call your function for three different cities, at least one of
 which is not in the default country.
-
-  
 
 TRY IT YOURSELF \#3
 -------------------
@@ -79,8 +72,6 @@ enter an album’s artist and title. Once you have that information, call
 `make_album()` with the user’s input and print the dictionary that’s
 created. Be sure to include a quit value in the `while` loop.
 
-  
-
 TRY IT YOURSELF \#4
 -------------------
 
@@ -101,8 +92,6 @@ original list will be unchanged, return the new list and store it in a
 separate list. Call `show_magicians()` with each list to show that you
 have one list of the original names and one list with *the Great* added
 to each magician’s name.
-
-  
 
 <span id="page_154"></span>
 
@@ -134,8 +123,6 @@ car = make_car('subaru', 'outback', color='blue', tow_package=True)
 
 Print the dictionary that’s returned to make sure all the information
 was stored correctly.
-
-  
 
 <span id="page_159"></span>
 

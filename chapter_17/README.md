@@ -167,10 +167,6 @@ chart.add('', plot_dicts)
 chart.render_to_file('python_repos.svg')
 ```
 
-  
-
-  
-
 TRY IT YOURSELF \#1
 -------------------
 

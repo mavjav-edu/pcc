@@ -133,7 +133,7 @@ The latest version of Pygal is version 2.2.3. This is the version that will be i
 or
 
     $ python -m pip install --user pygal
-    
+
 If you use the latest version, you'll need to make some slight changes to the code in chapter 16:
 
 - [Updates to Chapter 16 Pygal code](../chapter_16/README.html#updates)
@@ -151,10 +151,6 @@ On the latest version of Pygal, the code from Chapter 15 runs as it's written in
 
 This should upgrade your installation to the latest version of Pygal, and your code should work as it's written.
 
-  
-
-  
-
 TRY IT YOURSELF \#1
 -------------------
 
@@ -164,8 +160,6 @@ first 5000 cubic numbers.
 
 <span id="ch15exe2"></span>**15-2. Colored Cubes:** Apply a colormap to
 your cubes plot.
-
-  
 
 <span id="page_339"></span>
 
@@ -199,8 +193,6 @@ y_step = get_step()
 
 This refactoring should reduce the size of `fill_walk()` and make the
 method easier to read and understand.
-
-  
 
 TRY IT YOURSELF \#3
 -------------------

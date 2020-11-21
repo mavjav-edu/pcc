@@ -1,7 +1,4 @@
 
-  
-
-  
 
 TRY IT YOURSELF \#1
 -------------------
@@ -25,8 +22,6 @@ mode of transportation, such as a motorcycle or a car, and make a list
 that stores several examples. Use your list to print a series of
 statements about these items, such as “I would like to own a Honda
 motorcycle.”
-
-  
 
 TRY IT YOURSELF \#2
 -------------------
@@ -92,8 +87,6 @@ them know they’re still invited.
 empty list. Print your list to make sure you actually have an empty list
 at the end of your program.
 
-  
-
 <span id="page_50"></span>
 
 TRY IT YOURSELF \#3
@@ -141,8 +134,6 @@ you could store in a list. For example, you could make a list of
 mountains, rivers, countries, cities, languages, or anything else you’d
 like. Write a program that creates a list containing these items and
 then uses each function introduced in this chapter at least once.
-
-  
 
 <span id="page_52"></span>
 

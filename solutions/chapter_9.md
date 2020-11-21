@@ -209,7 +209,6 @@ class Restaurant():
         """Allow user to increment the number of customers served."""
         self.number_served += additional_served
 
-
 restaurant = Restaurant('the mean queen', 'pizza')
 restaurant.describe_restaurant()
 
@@ -342,7 +341,6 @@ class Restaurant():
         """Allow user to increment the number of customers served."""
         self.number_served += additional_served
 
-
 class IceCreamStand(Restaurant):
     """Represent an ice cream stand."""
 
@@ -356,7 +354,6 @@ class IceCreamStand(Restaurant):
         print("\nWe have the following flavors available:")
         for flavor in self.flavors:
             print("- " + flavor.title())
-
 
 big_one = IceCreamStand('The Big One')
 big_one.flavors = ['vanilla', 'chocolate', 'black cherry']
@@ -415,7 +412,6 @@ class User():
         """Reset login_attempts to 0."""
         self.login_attempts = 0
 
-
 class Admin(User):
     """A user with administrative privileges."""
 
@@ -429,7 +425,6 @@ class Admin(User):
         print("\nPrivileges:")
         for privilege in self.privileges:
             print("- " + privilege)
-
 
 eric = Admin('eric', 'matthes', 'e_matthes', 'e_matthes@example.com', 'alaska')
 eric.describe_user()
@@ -496,7 +491,6 @@ class User():
         """Reset login_attempts to 0."""
         self.login_attempts = 0
 
-
 class Admin(User):
     """A user with administrative privileges."""
 
@@ -520,7 +514,6 @@ class Privileges():
                 print("- " + privilege)
         else:
             print("- This user has no privileges.")
-
 
 eric = Admin('eric', 'matthes', 'e_matthes', 'e_matthes@example.com', 'alaska')
 eric.describe_user()
@@ -573,16 +566,16 @@ class Car():
         self.model = model
         self.year = year
         self.odometer_reading = 0
-        
+
     def get_descriptive_name(self):
         """Return a neatly formatted descriptive name."""
         long_name = str(self.year) + ' ' + self.manufacturer + ' ' + self.model
         return long_name.title()
-    
+
     def read_odometer(self):
         """Print a statement showing the car's mileage."""
         print("This car has " + str(self.odometer_reading) + " miles on it.")
-        
+
     def update_odometer(self, mileage):
         """
         Set the odometer reading to the given value.
@@ -592,7 +585,7 @@ class Car():
             self.odometer_reading = mileage
         else:
             print("You can't roll back an odometer!")
-    
+
     def increment_odometer(self, miles):
         """Add the given amount to the odometer reading."""
         self.odometer_reading += miles
@@ -608,14 +601,13 @@ class Battery():
         """Print a statement describing the battery size."""
         print("This car has a " + str(self.battery_size) + "-kWh battery.")
 
-        
     def get_range(self):
         """Print a statement about the range this battery provides."""
         if self.battery_size == 60:
             range = 140
         elif self.battery_size == 85:
             range = 185
-            
+
         message = "This car can go approximately " + str(range)
         message += " miles on a full charge."
         print(message)
@@ -627,8 +619,7 @@ class Battery():
             print("Upgraded the battery to 85 kWh.")
         else:
             print("The battery is already upgraded.")
-    
-        
+
 class ElectricCar(Car):
     """Models aspects of a car, specific to electric vehicles."""
 
@@ -639,7 +630,6 @@ class ElectricCar(Car):
         """
         super().__init__(manufacturer, model, year)
         self.battery = Battery()
-
 
 print("Make an electric car, and check the battery:")
 my_tesla = ElectricCar('tesla', 'model s', 2016)
@@ -770,7 +760,6 @@ class User():
         """Reset login_attempts to 0."""
         self.login_attempts = 0
 
-
 class Admin(User):
     """A user with administrative privileges."""
 
@@ -780,7 +769,6 @@ class Admin(User):
 
         # Initialize an empty set of privileges.
         self.privileges = Privileges([])
-    
 
 class Privileges():
     """Stores privileges associated with an Admin account."""
@@ -879,7 +867,6 @@ class User():
 
 from user import User
 
-
 class Admin(User):
     """A user with administrative privileges."""
 
@@ -889,7 +876,6 @@ class Admin(User):
 
         # Initialize an empty set of privileges.
         self.privileges = Privileges([])
-    
 
 class Privileges():
     """Stores privileges associated with an Admin account."""

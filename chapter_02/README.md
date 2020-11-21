@@ -1,6 +1,4 @@
-  
 
-  
 
 TRY IT YOURSELF \#1
 -------------------
@@ -16,8 +14,6 @@ variable, and then print that message.
 <span id="ch2exe2"></span>**2-2. Simple Messages:** Store a message in a
 variable, and print that message. Then change the value of your variable
 to a new message, and print the new message.
-
-  
 
 TRY IT YOURSELF \#2
 -------------------
@@ -57,8 +53,6 @@ Print the name once, so the whitespace around the name is displayed.
 Then print the name using each of the three stripping functions,
 `lstrip()`, `rstrip()`, and `strip()`.
 
-  
-
 <span id="page_33"></span>
 
 TRY IT YOURSELF \#3
@@ -80,8 +74,6 @@ on each line.
 number in a variable. Then, using that variable, create a message that
 reveals your favorite number. Print that message.
 
-  
-
 TRY IT YOURSELF \#4
 -------------------
 
@@ -91,8 +83,6 @@ don’t have anything specific to write because your programs are too
 simple at this point, just add your name and the current date at the top
 of each program file. Then write one sentence describing what the
 program does.
-
-  
 
 TRY IT YOURSELF \#5
 -------------------

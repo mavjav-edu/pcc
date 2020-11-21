@@ -1,10 +1,6 @@
 
 
-  
-
 <span id="page_276"></span>
-
-  
 
 <span id="page_276"></span>
 
@@ -27,8 +23,6 @@ This code returns a random integer between –10 and 10. Using your code
 in [Exercise 13-1](#ch13exe1), adjust each star’s position by a random
 amount.
 
-  
-
 TRY IT YOURSELF \#2
 -------------------
 
@@ -41,8 +35,6 @@ the bottom of the screen until they disappear.
 off the bottom of the screen, a new row appears at the top of the screen
 and begins to fall.
 
-  
-
 TRY IT YOURSELF \#3
 -------------------
 
@@ -53,8 +45,6 @@ fall down the screen at a steady rate. If your character “catches” the
 ball by colliding with it, make the ball disappear. Make a new ball each
 time your character catches the ball or whenever the ball disappears off
 the bottom of the screen.
-
-  
 
 <span id="page_290"></span>
 

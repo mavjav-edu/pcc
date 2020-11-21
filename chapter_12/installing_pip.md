@@ -43,7 +43,6 @@ If you have more than one version of Python installed on your system, you should
     $ pip3 --version
     pip 7.0.3 from /usr/local/lib/python3.10/dist-packages (python 3.10)
 
-
 Here pip3 is set up to install to the same version of Python, but often times pip will install to Python 2. pip3, if you have it set up, should always install packages to the version of Python 3 you have installed.
 
 [top](#)
@@ -149,7 +148,6 @@ If you have more than one version of Python installed on your system, you should
 
     $ pip3 --version
     pip 7.0.3 from /usr/local/lib/python3.10/dist-packages (python 3.10)
-
 
 Here pip3 is set up to install to the same version of Python, but often times pip will install to Python 2. pip3, if you have it set up, should always install packages to the version of Python 3 you have installed.
 
@@ -342,24 +340,4 @@ If you ever want to uninstall a package, you can use requests to do so as well:
 Pip lists all the files that will be removed, prompts you about whether to proceed, and then uninstalls the package.
 
 [top](#)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

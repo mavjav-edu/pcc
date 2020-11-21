@@ -82,10 +82,8 @@ Output:
 Unmodified:
     Eric Matthes
 
-
 Using lstrip():
 Eric Matthes
-
 
 Using rstrip():
     Eric Matthes

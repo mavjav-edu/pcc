@@ -29,27 +29,27 @@ Once you see the data in CSV format you can either use the Save As dialog from y
 The dictionary `COUNTRIES` and the world map module have been moved to a separate package called `pygal_maps_world`. Here's how to install this package:
 
     $ pip install --user pygal_maps_world
-    
+
 On Windows, this is:
 
     $ python -m pip install --user pygal_maps_world
-    
+
 ### *countries.py*, *country_codes.py*
 
 The dictionary `COUNTRIES` needs to be imported from `pygal_maps_world` now:
 
     from pygal.maps.world import COUNTRIES
-    
+
 ### *world_populations.py*, *americas.py*, *na_populations.py*
 
 Pygal's world map has been moved and renamed, so these progams need an additional import statement. This update also affects one other line of code. Add the following import statement near the top of the file:
 
     from pygal.maps.world import World
-    
+
 In the line that creates the world map, change `Worldmap` to `World`:
 
     wm = World()
-    
+
 Page by page updates
 ---
 
@@ -77,13 +77,7 @@ Use **`from pygal.maps.world import World`** instead of `import pygal`.
 
 Use **`wm = World()`** instead of `wm = pygal.Worldmap()`.
 
-
-
-  
-
 <span id="page_362"></span>
-
-  
 
 <span id="page_362"></span>
 
@@ -117,8 +111,6 @@ working, run it for a full year’s data.
 <span id="ch16exe4"></span>**16-4. Explore:** Generate a few more
 visualizations that examine any other weather aspect you’re interested
 in for any locations you’re curious about.
-
-  
 
 <span id="page_375"></span>
 

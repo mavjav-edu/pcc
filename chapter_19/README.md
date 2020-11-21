@@ -75,7 +75,6 @@ Nothing has really changed about the way the register page is built. The only th
 
     from django.contrib.auth import login, authenticate
 
-
 Updates for Django 2.0
 ---
 
@@ -186,10 +185,6 @@ In *learning_logs/models.py*, the line that defines the foreign key relationship
 
 This tells Django that when a user is deleted, all of the topics owned by that user should be deleted as well.
 
-  
-
-  
-
 TRY IT YOURSELF \#1
 -------------------
 
@@ -203,8 +198,6 @@ posts in chronological order.
 Create a form for making new posts and another for editing existing
 posts. Fill in your forms to make sure they work.
 
-  
-
 TRY IT YOURSELF \#2
 -------------------
 
@@ -213,8 +206,6 @@ authentication and registration system to the Blog project you started
 in [Exercise 19-1](#ch19exe1) ([page 438](#page_438)). Make sure
 logged-in users see their username somewhere on the screen and
 unregistered users see a link to the registration page.
-
-  
 
 <span id="page_454"></span>
 
