@@ -14,31 +14,31 @@ Twitter: [@ehmatthes](http://twitter.com/ehmatthes/)
 
 <img src="https://pbs.twimg.com/profile_images/1153801365543538688/6ZRVUWah.png"  width="60vw">
 
-<a href="try_it_yourself"></a>Try It Yourself Exercises
+<a href="try_it_yourself"></a>Exercises
 ---
 The book has several sections that reinforce learning through exercises. Practice what you just read where you see:
 &#8220;<img src="./tiy.svg"   width="188vw" alt="Try It Yourself in Adobe Dogma font"/>&#8221;
 
-- Try It Yourself exercises for [Chapter 01](/chapter_01/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 02](/chapter_02/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 03](/chapter_03/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 04](/chapter_04/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 05](/chapter_05/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 06](/chapter_06/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 07](/chapter_07/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 08](/chapter_08/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 09](/chapter_09/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 10](/chapter_10/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 11](/chapter_11/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 12](/chapter_12/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 13](/chapter_13/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 14](/chapter_14/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 15](/chapter_15/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 16](/chapter_16/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 17](/chapter_17/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 18](/chapter_18/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 19](/chapter_19/README.md#try-it-yourself-\#1)
-- Try It Yourself exercises for [Chapter 20](/chapter_20/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 01](/chapter_01/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 02](/chapter_02/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 03](/chapter_03/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 04](/chapter_04/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 05](/chapter_05/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 06](/chapter_06/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 07](/chapter_07/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 08](/chapter_08/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 09](/chapter_09/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 10](/chapter_10/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 11](/chapter_11/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 12](/chapter_12/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 13](/chapter_13/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 14](/chapter_14/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 15](/chapter_15/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 16](/chapter_16/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 17](/chapter_17/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 18](/chapter_18/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 19](/chapter_19/README.md#try-it-yourself-\#1)
+- Exercises for [Chapter 20](/chapter_20/README.md#try-it-yourself-\#1)
 
 <a href="setup_instructions"></a>Setup Instructions
 ---
