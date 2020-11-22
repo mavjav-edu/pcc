@@ -44,13 +44,13 @@ The book has several sections that reinforce learning through exercises. Practic
 ---
 Here you can find instructions for:
 
-- [Installing and configuring Python]([Chapter 01](/chapter_01/README.md)) (Chapter 1)
-- [Installing and using pip](/chapter_12/installing_pip.md) (Chapter 12)
-- [Installing Pygame]([Chapter 12](/chapter_12/README.md)) (Chapter 12)
-- [Installing matplotlib and Pygal]([Chapter 15](/chapter_15/README.md)) (Chapter 15)
-- [Creating a Virtual Environment]([Chapter 18](/chapter_18/README.md)) (Chapter 18)
-- [Deploying a Project to Heroku]([Chapter 20](/chapter_20/README.md)) (Chapter 20)
-- [Installing Python](/appendix_a/README.md) (Appendix A)
+- [Installing and configuring Python](/chapter_01/README.md)&#09;(Chapter 1)
+- [Installing and using pip](/chapter_12/installing_pip.md)&#09;(Chapter 12)
+- [Installing Pygame](/chapter_12/README.md)&#09;(Chapter 12)
+- [Installing matplotlib and Pygal](/chapter_15/README.md) &#09;(Chapter 15)
+- [Creating a Virtual Environment](/chapter_18/README.md)&#09;(Chapter 18)
+- [Deploying a Project to Heroku](/chapter_20/README.md)&#09;(Chapter 20)
+- [Installing Python](/appendix_a/README.md)&#09;(Appendix A)
 
 <a href="source_code"></a>Downloading source code
 ---
