@@ -15,8 +15,9 @@ Python has several different versions and a number of ways it can be set up on e
     - [Installing Python 3](#installing-python-3)
   - [Python on Windows](#python-on-windows)
     - [Installing Python 3 on Windows](#installing-python-3-on-windows)
-    - [Finding the Python interpreter](#finding-the-python-interpreter)
-    - [Adding Python to your Path variable](#adding-python-to-your-path-variable)
+      - [Installing Chocolatey](#installing-chocolatey)
+      - [Installing `pyenv-win`](#installing-pyenv-win)
+      - [Installing Python using `pyenv-win`](#installing-python-using-pyenv-win)
 
 Python on Linux
 ---
@@ -35,9 +36,10 @@ Python 3.10 is also installed. It's worth running both commands before you attem
 
 ### Installing Python 3 on Linux
 
-If you don't have Python 3 or if you want to install a newer version of Python 3, you can use a package called `deadsnakes`, which makes it easy to install multiple versions of Python:
+If you don't have Python 3 or if you want to install a newer version of Python 3, you can use [a package called `deadsnakes`](https://github.com/deadsnakes), which makes it easy to install multiple versions of Python:
 
-    sudo add-apt-repository ppa:fkrull/deadsnakes
+    sudo add-apt-repository ppa:deadsnakes/nightly
+    sudo apt update
     sudo apt-get update
     sudo apt-get install python3.10
 
@@ -67,12 +69,13 @@ If you only have Python 2 installed, or if you have an older version of Python 3
 Homebrew depends on Apple's Xcode package, so open a terminal and run the following command:
 
     $ xcode-select --install
+    xcode-select: note: install requested for command line developer tools
 
 Click through the confirmation dialogs that pop up. Next, install Homebrew with the following command:
 
-    $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
-Make sure you include a space between `curl -fsSL` and the URL. The `-e` in this command tells Ruby (the programming language Homebrew is written in) to execute the code that's downloaded here. You should only run commands like this from sources you trust.
+Make sure you include a space between `curl -fsSL` and the URL. The `-c` in this command tells bash (the default shell for macOS) to execute the code that's downloaded here. You should only run commands like this from sources you trust.
 
 To confirm that Homebrew was installed correctly, run the following command:
 
@@ -109,25 +112,39 @@ If you see output like this, Python is already installed, but you might want to 
 
 ### Installing Python 3 on Windows
 
-Go to [http://python.org/downloads/](http://python.org/downloads/) and click the version of Python you want. Download the installer, and when you run it make sure to check the *Add Python to PATH* option. This will let you use the `python` command instead of having to enter your system’s full path to python, and you won’t have to modify your system’s environment variables manually. After you’ve installed Python, issue the `python --version` command in a new terminal window. If it works, you’re done.
+If you don't have Python 3 or if you want to install a newer version of Python 3, you can use [a tool called `pyenv`](https://github.com/pyenv-win/pyenv-win), which makes it easy to install multiple versions of Python in Windows.
 
-### Finding the Python interpreter
+The easiest way is to first install [Chocolatey package manager](https://github.com/chocolatey/chocolatey.org) for Windows and then to install `pyenv-win`.
 
-If you've installed Python and the simple command `python` doesn't work, you'll need to tell Windows where to find the Python interpreter. To find it, open your C drive and find the folder with a name starting with *Python* (you might need to enter the word `python` in the Windows Explorer search bar to find the right folder). Open the folder, and look for a file with the lowercase name *python*. Right-click this file and choose **Properties**; you'll see the path to this file under the heading *Location*.
+#### Installing Chocolatey
 
-In the terminal window, use the path to confirm the version you just installed:
+To install Chocolatey package manager, open an elevated PowerShell session ("Run as administrator") and use the following command in that session:
 
-    $ C:\\Python310\python --version
-    Python 3.10
+```powershell
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+```
 
-### Adding Python to your Path variable
+#### Installing `pyenv-win`
 
-It's annoying to type the full path each time you want to start a Python terminal session. If you add the path to the system you can just use the command `python`. (If you already check the *Add Python to PATH* box when installing, you can skip this step.)
+Then, in the same elevated session, install `pyenv-win` using:
 
-Open your system's **Control Panel**, choose **System and Security**, and then choose **System**. Click **Advanced System Settings**. In the window that pops up, click **Environment Variables**. In the box labeled *System variables*, look for a variable called `Path`. click **Edit**. In the box that pops up, click in the box labeled *Variable value* and use the right arrow key to scroll all the way to the right. Be careful not to overwrite the existing variable; if you do, click Cancel and try again. Add a semicolon and the path to your *python.exe* file to the existing variable:
+```powershell
+choco install pyenv-win
+```
 
-    %SystemRoot%\system32\...\System32\WindowsPowerShell\v1.0\;C:\Python310
+#### Installing Python using `pyenv-win`
 
-Close your terminal window and open a new one. This will load the new `Path` variable into your terminal session. Now when you enter `python --version`, you should see the version of Python you just set in your `Path` variable. You can now start a Python terminal sesion by just entering `python` at a command prompt.
+Lastly, again in the elevated session:
+
+    pyenv install -l
+
+These commands will install Python 3.10 to your system. The following command will start a terminal session running Python 3.10:
+
+    $ python3.10
+    >>>
+
+You'll also use this command when you configure your text editor to use Python 3, and when you run programs from a terminal.
+
+Close your PowerShell window and open a new one. This will load the new `Path` variable into your terminal session. Now when you enter `python --version`, you should see the version of Python you just set in your `Path` variable. You can now start a Python shell session by just entering `python` at a command prompt.
 
 [top](#)
