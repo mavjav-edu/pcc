@@ -4,9 +4,9 @@ Python Crash Course
 A Hands-On, Project-Based Introduction to Programming
 ---
 
-This is a collection of resources for [Python Crash Course](http://www.nostarch.com/pythoncrashcourse/), an introductory programming book from [No Starch Press](http://www.nostarch.com) by Eric Matthes. Click [here](https://mavaddat-javid-education.github.io/pcc/) for a visually ti presentation of these online resources.
+This is a collection of resources for [Python Crash Course](http://www.nostarch.com/pythoncrashcourse/), an introductory programming book from [No Starch Press](http://www.nostarch.com) by Eric Matthes. Click [here](https://mavaddat-javid-education.github.io/pcc/) for a tidier visual presentation of these online resources.
 
-If you have any questions about Python Crash Course, feel free to get in touch:
+If you have any questions about Python Crash Course, feel free to get in touch with the author:
 
 Email: ehmatthes@gmail.com
 
@@ -14,31 +14,63 @@ Twitter: [@ehmatthes](http://twitter.com/ehmatthes/)
 
 <img src="https://pbs.twimg.com/profile_images/1153801365543538688/6ZRVUWah.png"  width="60vw">
 
-<a href="try_it_yourself"></a>Exercises
+<a href="try_it_yourself"></a>Exercises ✍🏽
 ---
 The book has several sections that reinforce learning through exercises. Practice what you just read where you see:
-&#8220;<img src="./tiy.svg"   width="188vw" alt="Try It Yourself in Adobe Dogma font"/>&#8221;
+&#8220;&#8205;<img src="./tiy.svg"   width="188vw" alt="Try It Yourself in Adobe Dogma font"/>&#8205;&#8221;
 
-- Exercises for [Chapter 01](/chapter_01/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 02](/chapter_02/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 03](/chapter_03/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 04](/chapter_04/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 05](/chapter_05/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 06](/chapter_06/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 07](/chapter_07/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 08](/chapter_08/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 09](/chapter_09/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 10](/chapter_10/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 11](/chapter_11/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 12](/chapter_12/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 13](/chapter_13/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 14](/chapter_14/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 15](/chapter_15/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 16](/chapter_16/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 17](/chapter_17/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 18](/chapter_18/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 19](/chapter_19/README.md#try-it-yourself-\#1)
-- Exercises for [Chapter 20](/chapter_20/README.md#try-it-yourself-\#1)
+- Getting Started
+    [Chapter 1](/chapter_01/README.md#try-it-yourself-\#1)
+
+- Variables And Simple Data Types
+    [Chapter 2](/chapter_02/README.md#try-it-yourself-\#1)
+
+- Introducing Lists
+    [Chapter 3](/chapter_03/README.md#try-it-yourself-\#1)
+
+- Working With Lists
+    [Chapter 4](/chapter_04/README.md#try-it-yourself-\#1)
+
+- If Statements [Chapter 5](/chapter_05/README.md#try-it-yourself-\#1)
+
+- Dictionaries [Chapter 6](/chapter_06/README.md#try-it-yourself-\#1)
+
+- User Input And While Loops
+    [Chapter 7](/chapter_07/README.md#try-it-yourself-\#1)
+
+- Functions [Chapter 8](/chapter_08/README.md#try-it-yourself-\#1)
+
+- Classes [Chapter 9](/chapter_09/README.md#try-it-yourself-\#1)
+
+- Files And Exceptions
+    [Chapter 10](/chapter_10/README.md#try-it-yourself-\#1)
+
+- Testing Your Code
+    [Chapter 11](/chapter_11/README.md#try-it-yourself-\#1)
+
+- A Ship That Fires Bullets
+    [Chapter 12](/chapter_12/README.md#try-it-yourself-\#1)
+
+- Aliens! [Chapter 13](/chapter_13/README.md#try-it-yourself-\#1)
+
+- Scoring [Chapter 14](/chapter_14/README.md#try-it-yourself-\#1)
+
+- Generating Data
+    [Chapter 15](/chapter_15/README.md#try-it-yourself-\#1)
+
+- Downloading Data
+    [Chapter 16](/chapter_16/README.md#try-it-yourself-\#1)
+
+- Working With Apis
+    [Chapter 17](/chapter_17/README.md#try-it-yourself-\#1)
+
+- Getting Started With Django
+    [Chapter 18](/chapter_18/README.md#try-it-yourself-\#1)
+
+- User Accounts [Chapter 19](/chapter_19/README.md#try-it-yourself-\#1)
+
+- Styling And Deploying An App
+    [Chapter 20](/chapter_20/README.md#try-it-yourself-\#1)
 
 <a href="setup_instructions"></a>Setup Instructions
 ---

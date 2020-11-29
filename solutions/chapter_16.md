@@ -83,7 +83,7 @@ def get_weather_data(filename, dates, highs, lows):
         reader = csv.reader(f)
         header_row = next(reader)
 
-        # dates, highs, lows = [], [], []
+    # dates, highs, lows = [], [], []
         for row in reader:
             try:
                 current_date = datetime.strptime(row[0], "%Y-%m-%d")
@@ -130,7 +130,7 @@ plt.show()
 
 ![Chart of high and low temperatures in Sitka, AK and Death Valley, CA](../images/sitka_death_valley.png)
 
-[top](#)
+[top 🔝](#)
 
 16-3: Rainfall
 ---
@@ -183,7 +183,7 @@ Output:
 
 ![Daily rainfall amounts for Sitka, AK in 2015](../images/sitka_rainfall_2015.png)
 
-[top](#)
+[top 🔝](#)
 
 16-4: Explore
 ---
@@ -243,7 +243,7 @@ Output:
 
 ![Cumulative rainfall for Sitka, AK for 2015](../images/sitka_rainfall_2015_cumulative.png)
 
-[top](#)
+[top 🔝](#)
 
 16-6: Gross Domestic Product
 ---
@@ -309,7 +309,7 @@ Output:
 
 ![World map of GDP data, by country](../images/global_gdp.png)
 
-[top](#)
+[top 🔝](#)
 
 16-8: Testing the `country_codes` Module
 ---
@@ -347,4 +347,4 @@ Ran 1 test in 0.000s
 OK
 ```
 
-[top](#)
+[top 🔝](#)

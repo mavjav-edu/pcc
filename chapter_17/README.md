@@ -1,5 +1,12 @@
 ---
 layout: default
+title: Working With Apis
+---
+
+# Working With Apis
+
+---
+layout: default
 title: Chapter 17
 ---
 
@@ -73,7 +80,7 @@ names, plot_dicts = [], []
 for repo_dict in repo_dicts:
     names.append(repo_dict['name'])
 
-    # Get the project description, if one is available.
+# Get the project description, if one is available.
     description = repo_dict['description']
     if not description:
         description = "No description provided."
@@ -96,7 +103,7 @@ names, plot_dicts = [], []
 for repo_dict in repo_dicts:
     names.append(repo_dict['name'])
 
-    # Get the project description, if one is available.
+# Get the project description, if one is available.
     description = repo_dict['description']
     if not description:
         description = "No description provided."
@@ -134,7 +141,7 @@ names, plot_dicts = [], []
 for repo_dict in repo_dicts:
     names.append(repo_dict['name'])
 
-    # Get the project description, if one is available.
+# Get the project description, if one is available.
     description = repo_dict['description']
     if not description:
         description = "No description provided."

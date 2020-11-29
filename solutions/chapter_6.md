@@ -45,7 +45,7 @@ matthes
 sitka
 ```
 
-[top](#)
+[top 🔝](#)
 
 6-2: Favorite Numbers
 ---
@@ -87,7 +87,7 @@ Hank's favorite number is 1000000.
 Maggie's favorite number is 0.
 ```
 
-[top](#)
+[top 🔝](#)
 
 6-3: Glossary
 ---
@@ -136,7 +136,7 @@ Loop: Work through a collection of items, one at a time.
 Dictionary: A collection of key-value pairs.
 ```
 
-[top](#)
+[top 🔝](#)
 
 6-4: Glossary 2
 ---
@@ -185,7 +185,7 @@ Key: The first item in a key-value pair in a dictionary.
 Float: A numerical value with a decimal component.
 ```
 
-[top](#)
+[top 🔝](#)
 
 6-5: Rivers
 ---
@@ -243,7 +243,7 @@ The following countries are included in this data set:
 
 *Sometimes we like to think of Alaska as our own separate country.
 
-[top](#)
+[top 🔝](#)
 
 6-6: Polling
 ---
@@ -292,7 +292,7 @@ Matt, what's your favorite programming language?
 Danielle, what's your favorite programming language?
 ```
 
-[top](#)
+[top 🔝](#)
 
 6-7: People
 ---
@@ -345,7 +345,7 @@ Ever Matthes, of Sitka, is 5 years old.
 Willie Matthes, of Sitka, is 8 years old.
 ```
 
-[top](#)
+[top 🔝](#)
 
 6-8: Pets
 ---
@@ -419,7 +419,7 @@ Here's what I know about Peso:
     eats: shoes
 ```
 
-[top](#)
+[top 🔝](#)
 
 6-9: Favorite Places
 ---
@@ -457,7 +457,7 @@ Eric likes the following places:
 - Tierra Del Fuego
 ```
 
-[top](#)
+[top 🔝](#)
 
 6-10: Favorite Numbers
 ---
@@ -494,7 +494,7 @@ Gus likes the following numbers:
   12
 ```
 
-[top](#)
+[top 🔝](#)
 
 6-11: Cities
 ---
@@ -546,4 +546,4 @@ Talkeetna is in Alaska.
   The Alaska Range mountains are nearby.
 ```
 
-[top](#)
+[top 🔝](#)

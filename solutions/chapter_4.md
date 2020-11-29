@@ -52,7 +52,7 @@ I really love veggie pizza!
 I really love pizza!
 ```
 
-[top](#)
+[top 🔝](#)
 
 4-3: Counting to Twenty
 ---
@@ -91,7 +91,7 @@ Output:
 20
 ```
 
-[top](#)
+[top 🔝](#)
 
 4-5: Summing a Million
 ---
@@ -114,7 +114,7 @@ Output:
 500000500000
 ```
 
-[top](#)
+[top 🔝](#)
 
 4-7: Threes
 ---
@@ -143,7 +143,7 @@ Output:
 30
 ```
 
-[top](#)
+[top 🔝](#)
 
 4-8: Cubes
 ---
@@ -175,7 +175,7 @@ Output:
 1000
 ```
 
-[top](#)
+[top 🔝](#)
 
 4-9: Cube Comprehension
 ---
@@ -204,7 +204,7 @@ Output:
 1000
 ```
 
-[top](#)
+[top 🔝](#)
 
 4-11: My Pizzas, Your Pizzas
 ---
@@ -247,7 +247,7 @@ My friend's favorite pizzas are:
 - pesto
 ```
 
-[top](#)
+[top 🔝](#)
 
 4-13: Buffet
 ---
@@ -298,4 +298,4 @@ You can now choose from the following items:
 - king crab legs
 ```
 
-[top](#)
+[top 🔝](#)

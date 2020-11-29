@@ -37,9 +37,9 @@ names, plot_dicts = [], []
 for repo_dict in repo_dicts:
     names.append(repo_dict['name'])
 
-    # When a project is removed, it's still listed with stars.
-    #   So it's in the top projects, but has no description. The description
-    #   is None, which causes an exception when being used as a label.
+# When a project is removed, it's still listed with stars.
+#   So it's in the top projects, but has no description. The description
+#   is None, which causes an exception when being used as a label.
     if repo_dict['description']:
         desc = repo_dict['description']
     else:
@@ -77,7 +77,7 @@ Output:
 
 ![Chart of the most popular JavaScript projects on GitHub](../images/js_repos.png)
 
-[top](#)
+[top 🔝](#)
 
 17-2: Active Discussions
 ---
@@ -100,7 +100,7 @@ print("Status code:", r.status_code)
 submission_ids = r.json()
 submission_dicts = []
 for submission_id in submission_ids[:30]:
-    # Make a separate API call for each submission.
+# Make a separate API call for each submission.
     url = ('https://hacker-news.firebaseio.com/v0/item/' +
             str(submission_id) + '.json')
     submission_r = requests.get(url)
@@ -158,7 +158,7 @@ Output:
 
 ![Chart of the most active discussions on Hacker News](../images/hn_discussions.png)
 
-[top](#)
+[top 🔝](#)
 
 17-3: Testing *python_repos.py*
 ---
@@ -192,8 +192,8 @@ def get_names_plot_dicts(repo_dicts):
     for repo_dict in repo_dicts:
         names.append(repo_dict['name'])
 
-        # Some projects lack a description, which causes an error when 
-        #  labeling bars. Specify a label if there's no description.
+    # Some projects lack a description, which causes an error when 
+    #  labeling bars. Specify a label if there's no description.
         description = repo_dict['description']
         if not description:
             description = "No description provided."
@@ -256,10 +256,10 @@ class PythonReposTestCase(unittest.TestCase):
 
     def test_repo_dicts(self):
         """Test that we're getting the data we think we are."""
-        # We should get dicts for 30 repositories.
+    # We should get dicts for 30 repositories.
         self.assertEqual(len(self.repo_dicts), 30)
 
-        # Repositories should have required keys.
+    # Repositories should have required keys.
         required_keys = ['name', 'owner', 'stargazers_count', 'html_url']
         for key in required_keys:
             self.assertTrue(key in self.repo_dict.keys())
@@ -277,4 +277,4 @@ Ran 2 tests in 1.969s
 OK
 ```
 
-[top](#)
+[top 🔝](#)

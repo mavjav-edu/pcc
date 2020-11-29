@@ -1,4 +1,9 @@
+---
+layout: default
+title: Working With Lists
+---
 
+# Working With Lists
 
 TRY IT YOURSELF \#1
 -------------------

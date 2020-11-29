@@ -1,5 +1,12 @@
 ---
 layout: default
+title: Files And Exceptions
+---
+
+# Files And Exceptions
+
+---
+layout: default
 title: Chapter 10
 ---
 

@@ -1,4 +1,9 @@
+---
+layout: default
+title: Classes
+---
 
+# Classes
 
 TRY IT YOURSELF \#1
 -------------------

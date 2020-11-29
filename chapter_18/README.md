@@ -1,5 +1,12 @@
 ---
 layout: default
+title: Getting Started With Django
+---
+
+# Getting Started With Django
+
+---
+layout: default
 title: Chapter 18
 ---
 
@@ -33,7 +40,7 @@ This command runs the *venv* module and uses it to create a virtual environment 
 
 If this works, move on to [Activating the Virtual Environment](#activating-the-virtual-environment). If it didn't work, go to [Installing virtualenv](#installing-virtualenv).
 
-[top](#)
+[top 🔝](#)
 
 Activating the Virtual Environment
 ---
@@ -59,7 +66,7 @@ To stop using a virtual environment, enter **deactivate**:
 
 The environment will also become inactive if you close the terminal it's running in.
 
-[top](#)
+[top 🔝](#)
 
 Installing virtualenv
 ---
@@ -85,7 +92,7 @@ If this works, move on to [Activating the virtual environment](#activating-the-v
 
 If you have more than one version of Python installed on your system, you should specify the version for virtualenv to use. For example, the command **virtualenv ll_env --python=python3** wil create a virtual environment that uses Python 3.
 
-[top](#)
+[top 🔝](#)
 
 Installing Django
 ---
@@ -115,7 +122,7 @@ To do this, specify the version of Django you want to install when you use pip:
 
 This should work even if you've already install a different version of Django. When you ask pip to install a specific version of a library, it will uninstall any other versions first.
 
-[top](#)
+[top 🔝](#)
  
 Updates
 ---
@@ -203,7 +210,7 @@ Here's what the *learning_logs/urls.py* file should look like:
 
 	app_name = 'learning_logs'
 	urlpatterns = [
-	    # Home page.
+	# Home page.
 	    path('', views.index, name='index'),
 	]
 
@@ -215,7 +222,7 @@ The topics URL pattern should look like this:
 
 	urlpatterns = [
 	    --snip--
-	    # Show all topics.
+	# Show all topics.
 	    path('topics/', views.topics, name='topics'),
 	]
 
@@ -225,7 +232,7 @@ The topic URL pattern should look like this:
 
 	urlpatterns = [
 	    --snip--
-	    # Detail page for a single topic.
+	# Detail page for a single topic.
         path('topics/<int:topic_id>/', views.topic, name='topic'),
 	]
 

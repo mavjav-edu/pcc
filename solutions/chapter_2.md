@@ -30,7 +30,7 @@ I love learning to use Python.
 It's really satisfying!
 ```
 
-[top](#)
+[top 🔝](#)
 
 2-5: Famous Quote
 ---
@@ -51,7 +51,7 @@ Albert Einstein once said, "A person who never made a mistake
 never tried anything new."
 ```
 
-[top](#)
+[top 🔝](#)
 
 2-7: Stripping Names
 ---
@@ -92,7 +92,7 @@ Using strip():
 Eric Matthes
 ```
 
-[top](#)
+[top 🔝](#)
 
 2-9: Favorite Number
 ---
@@ -112,4 +112,4 @@ Output:
 My favorite number is 42.
 ```
 
-[top](#)
+[top 🔝](#)

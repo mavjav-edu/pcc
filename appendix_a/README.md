@@ -50,7 +50,7 @@ These commands will install Python 3.10 to your system. The following command wi
 
 You'll also use this command when you configure your text editor to use Python 3, and when you run programs from a terminal.
 
-[top](#)
+[top 🔝](#)
 
 Python on OS X
 ---
@@ -73,7 +73,9 @@ Homebrew depends on Apple's Xcode package, so open a terminal and run the follow
 
 Click through the confirmation dialogs that pop up. Next, install Homebrew with the following command:
 
-    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
 
 Make sure you include a space between `curl -fsSL` and the URL. The `-c` in this command tells bash (the default shell for macOS) to execute the code that's downloaded here. You should only run commands like this from sources you trust.
 
@@ -98,7 +100,7 @@ You can check which version was installed:
 
 Now you can start a Python 3 terminal session using the command `python3`, and you can ues the `python3` command to configure your text editor so it runs Python programs with Python 3 instead of Python 2.
 
-[top](#)
+[top 🔝](#)
 
 Python on Windows
 ---
@@ -134,7 +136,7 @@ choco install pyenv-win
 
 #### Installing Python using `pyenv-win`
 
-Lastly, again in the elevated session:
+Lastly, to actually get Python installed, again in the elevated session, run:
 
     pyenv install -l
 
@@ -147,4 +149,4 @@ You'll also use this command when you configure your text editor to use Python 3
 
 Close your PowerShell window and open a new one. This will load the new `Path` variable into your terminal session. Now when you enter `python --version`, you should see the version of Python you just set in your `Path` variable. You can now start a Python shell session by just entering `python` at a command prompt.
 
-[top](#)
+[top 🔝](#)

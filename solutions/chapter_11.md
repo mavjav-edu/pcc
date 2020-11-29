@@ -56,7 +56,7 @@ Ran 1 test in 0.000s
 OK
 ```
 
-[top](#)
+[top 🔝](#)
 
 11-2: Population
 ---
@@ -155,7 +155,7 @@ Ran 2 tests in 0.000s
 OK
 ```
 
-[top](#)
+[top 🔝](#)
 
 11-3: Employee
 ---
@@ -218,4 +218,4 @@ Ran 2 tests in 0.000s
 OK
 ```
 
-[top](#)
+[top 🔝](#)

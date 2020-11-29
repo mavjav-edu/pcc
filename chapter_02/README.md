@@ -1,4 +1,9 @@
+---
+layout: default
+title: Variables And Simple Data Types
+---
 
+# Variables And Simple Data Types
 
 TRY IT YOURSELF \#1
 -------------------

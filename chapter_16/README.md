@@ -1,5 +1,12 @@
 ---
 layout: default
+title: Downloading Data
+---
+
+# Downloading Data
+
+---
+layout: default
 title: Chapter 16
 ---
 

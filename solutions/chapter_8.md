@@ -40,7 +40,7 @@ Output:
 I'm learning to store code in functions.
 ```
 
-[top](#)
+[top 🔝](#)
 
 8-2: Favorite Book
 ---
@@ -61,7 +61,7 @@ Output:
 The Abstract Wild is one of my favorite books.
 ```
 
-[top](#)
+[top 🔝](#)
 
 8-3: T-Shirt
 ---
@@ -90,7 +90,7 @@ I'm going to make a medium t-shirt.
 It will say, "Readability counts."
 ```
 
-[top](#)
+[top 🔝](#)
 
 8-4: Large Shirts
 ---
@@ -121,7 +121,7 @@ I'm going to make a small t-shirt.
 It will say, "Programmers are loopy."
 ```
 
-[top](#)
+[top 🔝](#)
 
 8-5: Cities
 ---
@@ -147,7 +147,7 @@ Reykjavik is in Iceland.
 Punta Arenas is in Chile.
 ```
 
-[top](#)
+[top 🔝](#)
 
 8-6: City Names
 ---
@@ -181,7 +181,7 @@ Ushuaia, Argentina
 Longyearbyen, Svalbard
 ```
 
-[top](#)
+[top 🔝](#)
 
 8-7: Album
 ---
@@ -254,7 +254,7 @@ Output:
 {'tracks': 8, 'artist': 'Iron Maiden', 'title': 'Piece Of Mind'}
 </pre>
 
-[top](#)
+[top 🔝](#)
 
 8-8: User Albums
 ---
@@ -316,7 +316,7 @@ What album are you thinking of? <b>quit</b>
 Thanks for responding!
 </pre>
 
-[top](#)
+[top 🔝](#)
 
 8-9: Magicians
 ---
@@ -341,7 +341,7 @@ David Blaine
 Teller
 ```
 
-[top](#)
+[top 🔝](#)
 
 8-10: Great Magicians
 ---
@@ -356,16 +356,16 @@ def show_magicians(magicians):
 
 def make_great(magicians):
     """Add 'the Great!' to each magician's name."""
-    # Build a new list to hold the great musicians.
+# Build a new list to hold the great musicians.
     great_magicians = []
 
-    # Make each magician great, and add it to great_magicians.
+# Make each magician great, and add it to great_magicians.
     while magicians:
         magician = magicians.pop()
         great_magician = magician + ' the Great'
         great_magicians.append(great_magician)
 
-    # Add the great magicians back into magicians.
+# Add the great magicians back into magicians.
     for great_magician in great_magicians:
         magicians.append(great_magician)
 
@@ -389,7 +389,7 @@ David Blaine the Great
 Harry Houdini the Great
 ```
 
-[top](#)
+[top 🔝](#)
 
 8-11: Unchanged Magicians
 ---
@@ -404,16 +404,16 @@ def show_magicians(magicians):
 
 def make_great(magicians):
     """Add 'the Great!' to each magician's name."""
-    # Build a new list to hold the great musicians.
+# Build a new list to hold the great musicians.
     great_magicians = []
 
-    # Make each magician great, and add it to great_magicians.
+# Make each magician great, and add it to great_magicians.
     while magicians:
         magician = magicians.pop()
         great_magician = magician + ' the Great'
         great_magicians.append(great_magician)
 
-    # Add the great magicians back into magicians.
+# Add the great magicians back into magicians.
     for great_magician in great_magicians:
         magicians.append(great_magician)
 
@@ -448,7 +448,7 @@ David Blaine
 Teller
 ```
 
-[top](#)
+[top 🔝](#)
 
 8-12: Sandwiches
 ---
@@ -490,7 +490,7 @@ I'll make you a great sandwich:
 Your sandwich is ready!
 ```
 
-[top](#)
+[top 🔝](#)
 
 8-14: Cars
 ---
@@ -528,7 +528,7 @@ Output:
 {'year': 1991, 'manufacturer': 'Honda', 'color': 'white', 'headlights': 'popup', 'model': 'Accord'}
 </pre>
 
-[top](#)
+[top 🔝](#)
 
 8-15: Printing Models
 ---
@@ -550,7 +550,7 @@ def print_models(unprinted_designs, completed_models):
     while unprinted_designs:
         current_design = unprinted_designs.pop()
 
-        # Simulate creating a 3d print from the design.
+    # Simulate creating a 3d print from the design.
         print("Printing model: " + current_design)
         completed_models.append(current_design)
 
@@ -586,4 +586,4 @@ robot pendant
 iphone case
 ```
 
-[top](#)
+[top 🔝](#)

@@ -1,4 +1,9 @@
+---
+layout: default
+title: User Input And While Loops
+---
 
+# User Input And While Loops
 
 TRY IT YOURSELF \#1
 -------------------

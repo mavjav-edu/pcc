@@ -73,7 +73,7 @@ In Python you can connect pieces of information.
 In Python you can model real-world situations.
 </pre>
 
-[top](#)
+[top 🔝](#)
 
 10-2: Learning C
 ---
@@ -95,7 +95,7 @@ with open(filename) as f:
     lines = f.readlines()
 
 for line in lines:
-    # Get rid of newline, then replace Python with C.
+# Get rid of newline, then replace Python with C.
     line = line.rstrip()
     print(line.replace('Python', 'C'))
 ```
@@ -117,11 +117,11 @@ with open(filename) as f:
     lines = f.readlines()
 
 for line in lines:
-    # Get rid of newline, then replace Python with C.
+# Get rid of newline, then replace Python with C.
     print(line.rstrip().replace('Python', 'C'))
 ```
 
-[top](#)
+[top 🔝](#)
 
 10-3: Guest
 ---
@@ -149,7 +149,7 @@ What's your name? <b>eric</b>
 eric
 ```
 
-[top](#)
+[top 🔝](#)
 
 10-4: Guest Book
 ---
@@ -199,7 +199,7 @@ ever
 erin
 ```
 
-[top](#)
+[top 🔝](#)
 
 10-5: Programming Poll
 ---
@@ -244,7 +244,7 @@ It's really fun, and really satisfying.
 It just never gets old.
 ```
 
-[top](#)
+[top 🔝](#)
 
 10-6: Addition
 ---
@@ -283,7 +283,7 @@ Give me another number: <b>fred</b>
 Sorry, I really needed a number.
 </pre>
 
-[top](#)
+[top 🔝](#)
 
 10-7: Addition Calculator
 ---
@@ -338,7 +338,7 @@ The sum of -12 and 20 is 8.
 Give me a number: <b>q</b>
 </pre>
 
-[top](#)
+[top 🔝](#)
 
 10-8: Cats and Dogs
 ---
@@ -402,7 +402,7 @@ annahootz
 summit
 ```
 
-[top](#)
+[top 🔝](#)
 
 10-9: Silent Cats and Dogs
 ---
@@ -449,7 +449,7 @@ annahootz
 summit
 ```
 
-[top](#)
+[top 🔝](#)
 
 10-11: Favorite Number
 ---
@@ -492,7 +492,7 @@ Output:
 I know your favorite number! It's 42.
 ```
 
-[top](#)
+[top 🔝](#)
 
 10-12: Favorite Number Remembered
 ---
@@ -527,7 +527,7 @@ Output, second run:
 I know your favorite number! It's 42.
 ```
 
-[top](#)
+[top 🔝](#)
 
 10-13: Verify User
 ---
@@ -610,8 +610,8 @@ def greet_user():
             print("Welcome back, " + username + "!")
             return
 
-    # We got a username, but it's not correct.
-    # Let's prompt for a new username.
+# We got a username, but it's not correct.
+# Let's prompt for a new username.
     username = get_new_username()
     print("We'll remember you when you come back, " + username + "!")
 ```
@@ -620,4 +620,4 @@ The `return` statement means the code in the function stops running after printi
 
 The only thing left to address is the nested `if` statements. This can be cleaned up by moving the code that checks whether the username is correct to a separate function. If you're enjoying this exercise, you might try making a new function called `check_username()` and see if you can remove the nested `if` statement from `greet_user()`.
 
-[top](#)
+[top 🔝](#)

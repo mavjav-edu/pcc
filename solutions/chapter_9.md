@@ -65,7 +65,7 @@ The Mean Queen serves wonderful pizza.
 The Mean Queen is open. Come on in!
 ```
 
-[top](#)
+[top 🔝](#)
 
 9-2: Three Restaurants
 ---
@@ -111,7 +111,7 @@ Ludvig'S Bistro serves wonderful seafood.
 Mango Thai serves wonderful thai food.
 ```
 
-[top](#)
+[top 🔝](#)
 
 9-3: Users
 ---
@@ -170,7 +170,7 @@ Willie Burger
 Welcome back, willieburger!
 ```
 
-[top](#)
+[top 🔝](#)
 
 9-4: Number Served
 ---
@@ -234,7 +234,7 @@ Number served: 1257
 Number served: 1496
 ```
 
-[top](#)
+[top 🔝](#)
 
 9-5: Login Attempts
 ---
@@ -306,7 +306,7 @@ Resetting login attempts...
   Login attempts: 0
 ```
 
-[top](#)
+[top 🔝](#)
 
 9-6: Ice Cream Stand
 ---
@@ -373,7 +373,7 @@ We have the following flavors available:
 - Black Cherry
 ```
 
-[top](#)
+[top 🔝](#)
 
 9-7: Admin
 ---
@@ -452,7 +452,7 @@ Privileges:
 - can suspend accounts
 ```
 
-[top](#)
+[top 🔝](#)
 
 9-8: Privileges
 ---
@@ -498,7 +498,7 @@ class Admin(User):
         """Initialize the admin."""
         super().__init__(first_name, last_name, username, email, location)
 
-        # Initialize an empty set of privileges.
+    # Initialize an empty set of privileges.
         self.privileges = Privileges()
 
 class Privileges():
@@ -549,7 +549,7 @@ Privileges:
 - can suspend accounts
 ```
 
-[top](#)
+[top 🔝](#)
 
 9-9: Battery Upgrade
 ---
@@ -659,7 +659,7 @@ The battery is already upgraded.
 This car has a 85-kWh battery.
 ```
 
-[top](#)
+[top 🔝](#)
 
 9-10: Imported Restaurant
 ---
@@ -717,7 +717,7 @@ The Channel Club serves wonderful steak and seafood.
 The Channel Club is open. Come on in!
 ```
 
-[top](#)
+[top 🔝](#)
 
 9-11: Imported Admin
 ---
@@ -767,7 +767,7 @@ class Admin(User):
         """Initialize the admin."""
         super().__init__(first_name, last_name, username, email, location)
 
-        # Initialize an empty set of privileges.
+    # Initialize an empty set of privileges.
         self.privileges = Privileges([])
 
 class Privileges():
@@ -816,7 +816,7 @@ The admin e_matthes has these privileges:
 - can suspend accounts
 ```
 
-[top](#)
+[top 🔝](#)
 
 9-12: Multiple Modules
 ---
@@ -874,7 +874,7 @@ class Admin(User):
         """Initialize the admin."""
         super().__init__(first_name, last_name, username, email, location)
 
-        # Initialize an empty set of privileges.
+    # Initialize an empty set of privileges.
         self.privileges = Privileges([])
 
 class Privileges():
@@ -923,7 +923,7 @@ The admin e_matthes has these privileges:
 - can suspend accounts
 ```
 
-[top](#)
+[top 🔝](#)
 
 9-13: OrderedDict Rewrite
 ---
@@ -976,7 +976,7 @@ Float: A numerical value with a decimal component.
 Boolean Expression: An expression that evaluates to True or False.
 ```
 
-[top](#)
+[top 🔝](#)
 
 9-14: Dice
 ---
@@ -1050,4 +1050,4 @@ Output:
 [4, 3, 18, 17, 3, 1, 13, 12, 5, 14]
 ```
 
-[top](#)
+[top 🔝](#)

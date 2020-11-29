@@ -1,4 +1,9 @@
+---
+layout: default
+title: Functions
+---
 
+# Functions
 
 TRY IT YOURSELF \#1
 -------------------

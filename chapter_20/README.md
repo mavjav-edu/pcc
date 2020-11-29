@@ -1,5 +1,12 @@
 ---
 layout: default
+title: Styling And Deploying An App
+---
+
+# Styling And Deploying An App
+
+---
+layout: default
 title: Chapter 20
 ---
 

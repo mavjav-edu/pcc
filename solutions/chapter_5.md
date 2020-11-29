@@ -50,7 +50,7 @@ if alien_color == 'green':
 
 (no output)
 
-[top](#)
+[top 🔝](#)
 
 5-4: Alien Colors #2
 ---
@@ -95,7 +95,7 @@ Output:
 You just earned 10 points!
 ```
 
-[top](#)
+[top 🔝](#)
 
 5-5: Alien Colors #3
 ---
@@ -124,7 +124,7 @@ Output for `'red'` alien:
 You just earned 15 points!
 ```
 
-[top](#)
+[top 🔝](#)
 
 5-6: Stages of Life
 ---
@@ -161,7 +161,7 @@ Output:
 You're a teenager!
 ```
 
-[top](#)
+[top 🔝](#)
 
 5-7: Favorite Fruit
 ---
@@ -193,7 +193,7 @@ You really like blueberries!
 You really like peaches!
 ```
 
-[top](#)
+[top 🔝](#)
 
 5-8: Hello Admin
 ---
@@ -223,7 +223,7 @@ Hello erin, thank you for logging in again!
 Hello ever, thank you for logging in again!
 ```
 
-[top](#)
+[top 🔝](#)
 
 5-9: No Users
 ---
@@ -252,7 +252,7 @@ Output:
 We need to find some users!
 ```
 
-[top](#)
+[top 🔝](#)
 
 5-10: Checking Usernames
 ---
@@ -295,7 +295,7 @@ for user in current_users:
     current_users_lower.append(user.lower())
 ```
 
-[top](#)
+[top 🔝](#)
 
 5-11: Ordinal Numbers
 ---
@@ -334,4 +334,4 @@ Output:
 9th
 ```
 
-[top](#)
+[top 🔝](#)

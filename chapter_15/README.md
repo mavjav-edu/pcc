@@ -1,5 +1,12 @@
 ---
 layout: default
+title: Generating Data
+---
+
+# Generating Data
+
+---
+layout: default
 title: Chapter 15
 ---
 
@@ -67,7 +74,7 @@ Then use pip to install matplotlib:
 
 If you need help using pip, see the <a href="../chapter_12/installing_pip.html">instructions</a> in Chapter 12.
 
-[top](#)
+[top 🔝](#)
 
 Installing matplotlib on OS X
 ---
@@ -80,7 +87,7 @@ If matplotlib is not already installed and you used Homebrew to install Python, 
 
 If you need help using pip, see the <a href="../chapter_12/installing_pip.html">instructions</a> in Chapter 12. If you have trouble installing matplotlib using pip, try leaving off the `--user` flag.
 
-[top](#)
+[top 🔝](#)
 
 Installing matplotlib on Windows
 ---
@@ -98,7 +105,7 @@ Copy the *.whl* file to your project folder, open a command window, and navigate
 
 If you need help using pip, see the <a href="../chapter_12/installing_pip.html">instructions</a> in Chapter 12.
 
-[top](#)
+[top 🔝](#)
 
 Installing Pygal
 ---
@@ -138,7 +145,7 @@ If you use the latest version, you'll need to make some slight changes to the co
 
 - [Updates to Chapter 16 Pygal code](../chapter_16/README.html#updates)
 
-[top](#)
+[top 🔝](#)
 
 Updates
 ---

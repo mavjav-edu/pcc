@@ -45,7 +45,7 @@ If you have more than one version of Python installed on your system, you should
 
 Here pip3 is set up to install to the same version of Python, but often times pip will install to Python 2. pip3, if you have it set up, should always install packages to the version of Python 3 you have installed.
 
-[top](#)
+[top 🔝](#)
 
 ### Installing pip on Linux
 
@@ -69,7 +69,7 @@ Open a terminal and navigate to the folder containing *get-pip.py*, and run it w
 
 After the program runs, use the command `pip --version` (or `pip3 --version`) to make sure pip was installed correctly.
 
-[top](#)
+[top 🔝](#)
 
 ### Upgrading pip on Linux
 
@@ -87,7 +87,7 @@ Once you have pip installed, it's good to upgrade it from time to time. Usually 
            Successfully uninstalled pip-6.1.1
     Successfully installed pip-7.1.2
 
-[top](#)
+[top 🔝](#)
 
 ### Installing Python packages with pip on Linux
 
@@ -113,7 +113,7 @@ Now you can start a Python terminal session, and import requests:
 
 Here we've used requests to retrieve Google's home page, and the status code of 200 tells us that the request was successful.
 
-[top](#)
+[top 🔝](#)
 
 ### Uninstalling packages with pip on Linux
 
@@ -128,7 +128,7 @@ If you ever want to uninstall a package, you can use requests to do so as well:
 
 Pip lists all the files that will be removed, prompts you about whether to proceed, and then uninstalls the package.
 
-[top](#)
+[top 🔝](#)
 
 Pip on OS X
 ---
@@ -151,7 +151,7 @@ If you have more than one version of Python installed on your system, you should
 
 Here pip3 is set up to install to the same version of Python, but often times pip will install to Python 2. pip3, if you have it set up, should always install packages to the version of Python 3 you have installed.
 
-[top](#)
+[top 🔝](#)
 
 ### Installing pip on OS X
 
@@ -175,7 +175,7 @@ Open a terminal and navigate to the folder containing *get-pip.py*, and run it w
 
 After the program runs, use the command `pip --version` (or `pip3 --version`) to make sure pip was installed correctly.
 
-[top](#)
+[top 🔝](#)
 
 ### Upgrading pip on OS X
 
@@ -193,7 +193,7 @@ Once you have pip installed, it's good to upgrade it from time to time. Usually 
            Successfully uninstalled pip-6.1.1
     Successfully installed pip-7.1.2
 
-[top](#)
+[top 🔝](#)
 
 ### Installing Python packages with pip on OS X
 
@@ -219,7 +219,7 @@ Now you can start a Python terminal session, and import requests:
 
 Here we've used requests to retrieve Google's home page, and the status code of 200 tells us that the request was successful.
 
-[top](#)
+[top 🔝](#)
 
 ### Uninstalling packages with pip on OS X
 
@@ -234,7 +234,7 @@ If you ever want to uninstall a package, you can use requests to do so as well:
 
 Pip lists all the files that will be removed, prompts you about whether to proceed, and then uninstalls the package.
 
-[top](#)
+[top 🔝](#)
 
 Pip on Windows
 ---
@@ -257,7 +257,7 @@ If you have more than one version of Python installed on your system, you should
 
 Here pip3 is set up to install to the same version of Python, but often times pip will install to Python 2. pip3, if you have it set up, should always install packages to the version of Python 3 you have installed.
 
-[top](#)
+[top 🔝](#)
 
 ### Installing pip on Windows
 
@@ -281,7 +281,7 @@ Open a terminal and navigate to the folder containing *get-pip.py*, and run it w
 
 After the program runs, use the command `pip --version` (or `pip3 --version`) to make sure pip was installed correctly.
 
-[top](#)
+[top 🔝](#)
 
 ### Upgrading pip on Windows
 
@@ -299,7 +299,7 @@ Once you have pip installed, it's good to upgrade it from time to time. Usually 
            Successfully uninstalled pip-6.1.1
     Successfully installed pip-7.1.2
 
-[top](#)
+[top 🔝](#)
 
 ### Installing Python packages with pip on Windows
 
@@ -325,7 +325,7 @@ Now you can start a Python terminal session, and import requests:
 
 Here we've used requests to retrieve Google's home page, and the status code of 200 tells us that the request was successful.
 
-[top](#)
+[top 🔝](#)
 
 ### Uninstalling packages with pip on Windows
 
@@ -339,5 +339,5 @@ If you ever want to uninstall a package, you can use requests to do so as well:
 
 Pip lists all the files that will be removed, prompts you about whether to proceed, and then uninstalls the package.
 
-[top](#)
+[top 🔝](#)
 

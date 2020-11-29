@@ -26,7 +26,7 @@ If you have Python 3.4 or later, it's fine to start out by using the installed v
 
 If you get an error message for both of these commands, Python is not installed on your system, and you should install Python 3.10.
 
-[top](#)
+[top 🔝](#)
 
 <a name='python3.10'></a>Installing Python 3.10
 ---
@@ -51,7 +51,7 @@ Now to start a Python terminal session, you'll use the command `python`:
 
 You'll use this command when you configure your text editor, and when you run programs from the terminal.
 
-[top](#)
+[top 🔝](#)
 
 <a name='path_variable'></a>Adding Python to Your Path Variable
 ---
@@ -77,7 +77,7 @@ Close any existing terminal windows, and open a new one. Now when you enter **py
 
 You can download a Windows installer for Geany from [http://www.geany.org/Download/Releases](http://www.geany.org/Download/Releases). Download and run the installer called *geany-1.25_setup.exe*, accepting all the defaults.
 
-[top](#)
+[top 🔝](#)
 
 <a name='configuring_geany'></a>
 ### Configuring Geany
@@ -102,5 +102,5 @@ Again, you can use a full path, such as `C:\Python310\python "%f"`.
 
 Now you can run programs by selecting **Build>Execute**, clicking the Execute icon with a set of gears on it, or by pressing **F5**.
 
-[top](#)
+[top 🔝](#)
 

@@ -25,7 +25,7 @@ If you see something like this, Python 2.7 is your default version. You should a
 
 If you have Python 3.4 or later, it's fine to start out by using the installed version. If you have Python 3.3 or earlier, it's probably worth installing Python 3.10.
 
-[top](#)
+[top 🔝](#)
 
 <a name='python3.10'></a>Installing Python 3.10
 ---
@@ -54,7 +54,7 @@ You can verify that Python 3 was installed correctly:
 
 You'll use the **python3** command when you configure your text editor, when you start a Python terminal session, and when you run programs from the terminal.
 
-[top](#)
+[top 🔝](#)
 
 <a name='installing_vsc'></a>Installing VS Code
 ---
@@ -63,7 +63,7 @@ You can download an installer for Sublime Text by clicking on the OS X link at [
 
 After you've downloaded the installer, open it and then drag the Sublime Text icon into your *Applications* folder.
 
-[top](#)
+[top 🔝](#)
 
 <a name='configuring_vsc'></a>
 ### Configuring VS Code for Python 3
@@ -89,5 +89,5 @@ This tells Sublime Text to use your system's **python3** command when running pr
 
 Now you can run programs by selecting **Build>Execute**, clicking the Execute icon with a set of gears on it, or by pressing **F5**.
 
-[top](#)
+[top 🔝](#)
 

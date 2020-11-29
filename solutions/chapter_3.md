@@ -34,7 +34,7 @@ tyler
 dani
 ```
 
-[top](#)
+[top 🔝](#)
 
 3-2: Greetings
 ---
@@ -62,7 +62,7 @@ Hello, Tyler!
 Hello, Dani!
 ```
 
-[top](#)
+[top 🔝](#)
 
 3-4: Guest List
 ---
@@ -90,7 +90,7 @@ Jack Turner, please come to dinner.
 Lynn Hill, please come to dinner.
 ```
 
-[top](#)
+[top 🔝](#)
 
 3-5: Changing Guest List
 ---
@@ -146,7 +146,7 @@ Gary Snyder, please come to dinner.
 Lynn Hill, please come to dinner.
 ```
 
-[top](#)
+[top 🔝](#)
 
 3-6: More Guests
 ---
@@ -236,7 +236,7 @@ Lynn Hill, please come to dinner.
 Elizabeth Peratrovich, please come to dinner.
 ```
 
-[top](#)
+[top 🔝](#)
 
 3-7: Shrinking Guest List
 ---
@@ -363,7 +363,7 @@ Guido Van Rossum, please come to dinner.
 []
 ```
 
-[top](#)
+[top 🔝](#)
 
 3-8: Seeing the World
 ---
@@ -447,4 +447,4 @@ Reverse alphabetical
 ['tierra del fuego', 'labrador', 'himalaya', 'guam', 'andes']
 ```
 
-[top](#)
+[top 🔝](#)

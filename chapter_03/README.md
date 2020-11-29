@@ -1,4 +1,9 @@
+---
+layout: default
+title: Introducing Lists
+---
 
+# Introducing Lists
 
 TRY IT YOURSELF \#1
 -------------------

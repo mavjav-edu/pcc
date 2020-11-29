@@ -34,7 +34,7 @@ What kind of car would you like? <b>Toyota Tacoma</b>
 Let me see if I can find you a Toyota Tacoma.
 </pre>
 
-[top](#)
+[top 🔝](#)
 
 7-2: Restaurant Seating
 ---
@@ -65,7 +65,7 @@ How many people are in your dinner party tonight? <b>6</b>
 Your table is ready.
 </pre>
 
-[top](#)
+[top 🔝](#)
 
 7-3: Multiples of Ten
 ---
@@ -96,7 +96,7 @@ Give me a number, please: <b>90</b>
 90 is a multiple of 10.
 </pre>
 
-[top](#)
+[top 🔝](#)
 
 7-4: Pizza Toppings
 ---
@@ -134,7 +134,7 @@ What topping would you like on your pizza?
 Enter 'quit' when you are finished: <b>quit</b>
 </pre>
 
-[top](#)
+[top 🔝](#)
 
 7-5: Movie Tickets
 ---
@@ -178,7 +178,7 @@ How old are you?
 Enter 'quit' when you are finished. <b>quit</b>
 </pre>
 
-[top](#)
+[top 🔝](#)
 
 7-8: Deli
 ---
@@ -213,7 +213,7 @@ I made a grilled cheese sandwich.
 I made a veggie sandwich.
 ```
 
-[top](#)
+[top 🔝](#)
 
 7-9: No Pastrami
 ---
@@ -257,7 +257,7 @@ I made a grilled cheese sandwich.
 I made a veggie sandwich.
 ```
 
-[top](#)
+[top 🔝](#)
 
 7-10: Dream Vacation
 ---
@@ -273,14 +273,14 @@ continue_prompt = "\nWould you like to let someone else respond? (yes/no) "
 responses = {}
 
 while True:
-    # Ask the user where they'd like to go.
+# Ask the user where they'd like to go.
     name = input(name_prompt)
     place = input(place_prompt)
 
-    # Store the response.
+# Store the response.
     responses[name] = place
 
-    # Ask if there's anyone else responding.
+# Ask if there's anyone else responding.
     repeat = input(continue_prompt)
     if repeat != 'yes':
         break
@@ -315,4 +315,4 @@ Erin would like to visit Iceland.
 Eric would like to visit Tierra Del Fuego.
 </pre>
 
-[top](#)
+[top 🔝](#)

@@ -1,4 +1,9 @@
+---
+layout: default
+title: Scoring
+---
 
+# Scoring
 
 TRY IT YOURSELF \#1
 -------------------

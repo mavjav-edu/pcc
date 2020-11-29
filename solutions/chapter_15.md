@@ -72,7 +72,7 @@ Output:
 
 ![Plot showing 5000 cubes](../images/cubes_5000.png)
 
-[top](#)
+[top 🔝](#)
 
 15-2: Colored Cubes
 ---
@@ -104,7 +104,7 @@ Output:
 
 ![Plot showing 5000 cubes, using a colormap](../images/cubes_5000_colormap.png)
 
-[top](#)
+[top 🔝](#)
 
 15-3: Molecular Motion
 ---
@@ -118,22 +118,22 @@ from random_walk import RandomWalk
 
 # Keep making new walks, as long as the program is active.
 while True:
-    # Make a random walk, and plot the points.
+# Make a random walk, and plot the points.
     rw = RandomWalk(5000)
     rw.fill_walk()
 
-    # Set the size of the plotting window.
+# Set the size of the plotting window.
     plt.figure(dpi=128, figsize=(10, 6))
 
     point_numbers = list(range(rw.num_points))
     plt.plot(rw.x_values, rw.y_values, linewidth=1)
 
-    # Emphasize the first and last points.
+# Emphasize the first and last points.
     plt.scatter(0, 0, c='green', edgecolors='none', s=75)
     plt.scatter(rw.x_values[-1], rw.y_values[-1], c='red', edgecolors='none',
         s=75)
 
-    # Remove the axes.
+# Remove the axes.
     plt.axes().get_xaxis().set_visible(False)
     plt.axes().get_yaxis().set_visible(False)
 
@@ -157,22 +157,22 @@ from random_walk import RandomWalk
 
 # Keep making new walks, as long as the program is active.
 while True:
-    # Make a random walk, and plot the points.
+# Make a random walk, and plot the points.
     rw = RandomWalk(5000)
     rw.fill_walk()
 
-    # Set the size of the plotting window.
+# Set the size of the plotting window.
     plt.figure(dpi=128, figsize=(10, 6))
 
     point_numbers = list(range(rw.num_points))
     plt.plot(rw.x_values, rw.y_values, linewidth=1, zorder=1)
 
-    # Emphasize the first and last points.
+# Emphasize the first and last points.
     plt.scatter(0, 0, c='green', edgecolors='none', s=75, zorder=2)
     plt.scatter(rw.x_values[-1], rw.y_values[-1], c='red', edgecolors='none',
         s=75, zorder=2)
 
-    # Remove the axes.
+# Remove the axes.
     plt.axes().get_xaxis().set_visible(False)
     plt.axes().get_yaxis().set_visible(False)
 
@@ -187,7 +187,7 @@ Output:
 
 ![Random walk with 5000 points, connected by lines, with beginning and end points plotted on top of lines](../images/rw_molecular_zorder.png)
 
-[top](#)
+[top 🔝](#)
 
 15-5: Refactoring
 ---
@@ -213,7 +213,7 @@ class RandomWalk():
         """Initialize attributes of a walk."""
         self.num_points = num_points
 
-        # All walks start at (0, 0).
+    # All walks start at (0, 0).
         self.x_values = [0]
         self.y_values = [0]
 
@@ -227,18 +227,18 @@ class RandomWalk():
     def fill_walk(self):
         """Calculate all the points in the walk."""
 
-        # Keep taking steps until the walk reaches the desired length.
+    # Keep taking steps until the walk reaches the desired length.
         while len(self.x_values) < self.num_points:
 
-            # Decide which direction to go, and how far to go in that direction.
+        # Decide which direction to go, and how far to go in that direction.
             x_step = self.get_step()
             y_step = self.get_step()
 
-            # Reject moves that go nowhere.
+        # Reject moves that go nowhere.
             if x_step == 0 and y_step == 0:
                 continue
 
-            # Calculate the next x and y values.
+        # Calculate the next x and y values.
             next_x = self.x_values[-1] + x_step
             next_y = self.y_values[-1] + y_step
 
@@ -250,7 +250,7 @@ Output:
 
 ![Random walk with 50000 points](../images/rw_50000.png)
 
-[top](#)
+[top 🔝](#)
 
 15-6: Automatic Labels
 ---
@@ -317,7 +317,7 @@ hist.add('D6 + D6', frequencies)
 hist.render_to_file('dice_visual.svg')
 ```
 
-[top](#)
+[top 🔝](#)
 
 15-7: Two D8s
 ---
@@ -364,7 +364,7 @@ Output:
 
 ![Graph of results of rolling two D8 dice, one million times](../images/dice_visual_2d8.png)
 
-[top](#)
+[top 🔝](#)
 
 15-8: Three Dice
 ---
@@ -412,7 +412,7 @@ Output:
 
 ![Graph of results of rolling three D6 dice, one million times](../images/dice_visual_3d6.png)
 
-[top](#)
+[top 🔝](#)
 
 15-9: Multiplication
 ---
@@ -459,4 +459,4 @@ Output:
 
 ![Graph of results of multiplying two D6 dice, one million times](../images/dice_visual_2d6_multiplication.png)
 
-[top](#)
+[top 🔝](#)

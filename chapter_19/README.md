@@ -1,5 +1,12 @@
 ---
 layout: default
+title: User Accounts
+---
+
+# User Accounts
+
+---
+layout: default
 title: Chapter 19
 ---
 
@@ -53,7 +60,7 @@ The */users/urls.py* file should look like this:
 	    	auth_views.LoginView.as_view(template_name='users/login.html'),
 	    	name='login'),
 
-	    # Logout page.
+	# Logout page.
 	    path('logout/', auth_views.LogoutView.as_view(), name='logout'),
 	]
 
@@ -84,7 +91,7 @@ The new_topic URL pattern should look like this:
 
 	urlpatterns = [
 	    --snip--
-	    # Page for adding a new topic.
+	# Page for adding a new topic.
 	    path('new_topic/', views.new_topic, name='new_topic'),
 	]
 
@@ -102,7 +109,7 @@ The new_entry URL pattern should look like this:
 
 	urlpatterns = [
 	    --snip--
-	    # Page for adding a new entry.
+	# Page for adding a new entry.
 	    path('new_entry/<int:topic_id>/', views.new_entry, name='new_entry'),
 	]
 
@@ -112,7 +119,7 @@ The edit_entry URL pattern should look like this:
 
 	urlpatterns = [
 	    --snip--
-	    # Page for editing an entry.
+	# Page for editing an entry.
         path('edit_entry/<int:entry_id>/', views.edit_entry, name='edit_entry'),
 	]
 
@@ -144,7 +151,7 @@ The *users/urls.py* file should look like this:
 
 	app_name = 'users'
 	urlpatterns = [
-	    # Login page.
+	# Login page.
 	    path('login/', login, {'template_name': 'users/login.html'},
 	        name='login'),
 	]
@@ -157,7 +164,7 @@ The logout URL pattern should look like this:
 
 	urlpatterns = [
 	    --snip--    
-	    # Logout page.
+	# Logout page.
 	    path('logout/', views.logout_view, name='logout'),
 	]
 
@@ -173,7 +180,7 @@ The register URL should look like this:
 
 	urlpatterns = [
 	    --snip--    
-	    # Registration page.
+	# Registration page.
 	    path('register/', views.register, name='register'),
 	]
 

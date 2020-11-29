@@ -1,5 +1,12 @@
 ---
 layout: default
+title: Getting Started
+---
+
+# Getting Started
+
+---
+layout: default
 title: Chapter 1
 ---
 

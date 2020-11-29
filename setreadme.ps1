@@ -1,4 +1,4 @@
-$TESTING = $false
+$TESTING = $true
 
 $book = [System.IO.File]::ReadAllBytes("C:\Users\MavaddatJavid\Calibre Portable\Calibre Library\Eric Matthes\Python Crash Course_ A Hands-On, Pr (112)\Python Crash Course_ A Hands-On - Eric Matthes.epub")
 [System.Reflection.Assembly]::LoadWithPartialName('System.IO.Compression')
@@ -14,15 +14,37 @@ foreach($htmlFile in $htmlFiles){
     $HTML.write([ref]$chContentStr) | Out-Null
     $chNum = (Select-String -InputObject $htmlFile.Name -Pattern "(\d+)").Matches.Value
     $README_md = "chapter_$chNum\README.md"
+    # $chTitle has XPath //*[@id="ch$chNum"]/strong[2]
+    $chTitle = (Get-Culture).TextInfo.ToTitleCase($HTML.getElementById("ch$chNum").getElementsByTagName('strong')[1].innerHTML.ToLowerInvariant())
     $TryItYourselfs = $HTML.getElementsByClassName('sidebar')
     $i = 0
+    $outStr = Out-String -InputObject ("<H1>" + $chTitle + "</H1>`n" | pandoc @("--from=HTML", "--to=markdown_mmd+backtick_code_blocks+fenced_code_blocks+autolink_bare_uris"))
+    $outStr = @"
+    ---
+    layout: default
+    title: $chTitle
+    ---
+
+    $outStr
+
+"@
+
+    if(-not $TESTING){
+        Out-File -InputObject $outStr -FilePath  $README_md -Append -Encoding utf8
+    } else {
+        $tempFile = New-TemporaryFile
+        Out-File -InputObject $outStr -FilePath  $tempFile -Encoding utf8
+        Get-Content $README_md | Out-File -FilePath $tempFile -Append
+        
+        Move-Item -Path $tempFile -Destination $README_md -Force
+    }
     foreach($TryItYourself in $TryItYourselfs){
         $i++
         $outStr = Out-String -InputObject (("<BR/>" + (Out-String -InputObject $TryItYourself.innerHTML) -creplace '<STRONG>TRY IT YOURSELF</STRONG>',"<H2>TRY IT YOURSELF &#35;$i</H2>" -replace '<([^>\s]+)\s*class="?programs"?>([\s\S]+?)<\/\1>','<pre class="python"><code>$2</code></pre>' -replace '<span\s*class="?literal"?>([\s\S]+?)</span>','<code>$1</code>'| pandoc @("--from=HTML", "--to=markdown_mmd+backtick_code_blocks+fenced_code_blocks+autolink_bare_uris")) -replace 'ch(\d+)\.html','../chapter_$1/README.md')
 
         if($TESTING){
-            Out-Host -InputObject $outStr
-            pause
+            # Out-Host -InputObject $outStr
+            # pause
         } else{
             Out-File -InputObject $outStr -FilePath  $README_md -Append -Encoding utf8
         }

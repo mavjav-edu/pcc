@@ -1,4 +1,9 @@
+---
+layout: default
+title: Dictionaries
+---
 
+# Dictionaries
 
 TRY IT YOURSELF \#1
 -------------------
