@@ -5,11 +5,6 @@ title: A Ship That Fires Bullets
 
 # A Ship That Fires Bullets
 
----
-layout: default
-title: Chapter 12
----
-
 Restore Points
 ---
 

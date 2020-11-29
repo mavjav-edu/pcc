@@ -5,11 +5,6 @@ title: Getting Started
 
 # Getting Started
 
----
-layout: default
-title: Chapter 1
----
-
 Setting Up
 ---
 

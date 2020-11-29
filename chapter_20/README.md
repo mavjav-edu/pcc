@@ -5,11 +5,6 @@ title: Styling And Deploying An App
 
 # Styling And Deploying An App
 
----
-layout: default
-title: Chapter 20
----
-
 - [Deploying a Project to Heroku](#deploying-a-project-to-heroku)
   - [Making a Heroku Account](#making-a-heroku-account)
   - [Installing the Heroku Toolbelt](#installing-the-heroku-toolbelt)

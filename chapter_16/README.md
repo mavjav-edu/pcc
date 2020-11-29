@@ -5,11 +5,6 @@ title: Downloading Data
 
 # Downloading Data
 
----
-layout: default
-title: Chapter 16
----
-
 There's a slight change to [Exercise 16-1](#exercise-16-1-san-francisco).
 
 Pygal has been updated recently, which is a good thing; you're learning a library that's being steadily improved. If you're using the latest version of Pygal, you'll need to make some slight changes to the code in Chapter 16.

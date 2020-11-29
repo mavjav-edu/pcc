@@ -5,11 +5,6 @@ title: User Accounts
 
 # User Accounts
 
----
-layout: default
-title: Chapter 19
----
-
 Updates
 ---
 

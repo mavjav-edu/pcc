@@ -5,11 +5,6 @@ title: Generating Data
 
 # Generating Data
 
----
-layout: default
-title: Chapter 15
----
-
 - [Installing matplotlib](#installing-matplotlib)
   - [Checking if matplotlib is already installed](#checking-if-matplotlib-is-already-installed)
   - [Simple installation with pip](#simple-installation-with-pip)

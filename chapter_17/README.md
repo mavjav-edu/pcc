@@ -5,11 +5,6 @@ title: Working With Apis
 
 # Working With Apis
 
----
-layout: default
-title: Chapter 17
----
-
 The second part of Chapter 17 walks you through a visualization summarizing the most popular Python projects on GitHub. One of the projects has been removed, but the project is still included in the results when you make an API call requesting the most popular projects. The project's name and number of stars is included, but there's no description. This causes an error in Pygal, but we can add a little code to address this. Also, the settings for font sizes have moved from `config` to `style` in Pygal 2.0.0.
 
 This update affects the section *Visualizing Repositories Using Pygal*, which begins on page 384.
