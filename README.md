@@ -51,7 +51,7 @@ The book has several sections that reinforce learning through exercises. Practic
 
 - Downloading Data \([Chapter 16](/chapter_16/README.md#try-it-yourself-\#1)\)
 
-- Working With Apis \([Chapter 17](/chapter_17/README.md#try-it-yourself-\#1)\)
+- Working With API's \([Chapter 17](/chapter_17/README.md#try-it-yourself-\#1)\)
 
 - Getting Started With Django \([Chapter 18](/chapter_18/README.md#try-it-yourself-\#1)\)
 
