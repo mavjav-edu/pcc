@@ -14,7 +14,6 @@ title: Styling And Deploying An App
   - [Using WhiteNoise to manage static files](#using-whitenoise-to-manage-static-files)
 - [Resources](#resources)
 - [Questions](#questions)
-- [  
 
 <span id="page_466"></span>
 
