@@ -42,18 +42,10 @@ $outStr
         $i++
         $outStr = Out-String -InputObject (("<BR/>" + (Out-String -InputObject $TryItYourself.innerHTML) -creplace '<STRONG>TRY IT YOURSELF</STRONG>', "<H2>TRY IT YOURSELF &#35;$i</H2>" -replace '<([^>\s]+)\s*class="?programs"?>([\s\S]+?)<\/\1>', '<pre class="python"><code>$2</code></pre>' -replace '<span\s*class="?literal"?>([\s\S]+?)</span>', '<code>$1</code>' | pandoc @("--from=HTML", "--to=markdown_mmd+backtick_code_blocks+fenced_code_blocks+autolink_bare_uris")) -replace 'ch(\d+)\.html', '../chapter_$1/README.md')
 
-<<<<<<< HEAD
-        if ($TESTING) {
-            Out-Host -InputObject $outStr
-            Pause
-        }
-        else {
-=======
         if($TESTING){
             Out-Host -InputObject $outStr
             pause
         } else{
->>>>>>> c60addec2a71caa6bdfed6543f07a9241dd83261
             Out-File -InputObject $outStr -FilePath  $README_md -Append -Encoding utf8
         }
     }
