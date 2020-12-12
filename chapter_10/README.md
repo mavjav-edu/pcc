@@ -134,9 +134,8 @@ and prints the message, “I know your favorite number! It’s \_\_\_\_\_.”
 
 <span id="ch10exe12"></span>**10-12. Favorite Number Remembered:**
 Combine the two programs from [Exercise 10-11](#ch10exe11) into one
-file. If the number is already stored, report the favorite number to the
-user. If not, prompt for the user’s favorite number and store it in a
-file. Run the program twice to see that it works.
+script. If the specified number is already stored, report the favorite number to the
+user. If not, prompt for the user’s favorite number and store it by appending to the JSON file. Run the program twice to see that it works.
 
 <span id="ch10exe13"></span>**10-13. Verify User:** The final listing
 for *remember_me.py* assumes either that the user has already entered
