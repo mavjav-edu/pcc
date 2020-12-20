@@ -8,7 +8,7 @@ title: Files And Exceptions
 Updates
 ---
 
-Some of the text files from [Project Gutenberg](https://www.gutenberg.org/) are now encoded as utf-8. This can result in a `UnicodeDecodeError` when trying to open the file. This can be addressed by adding an argument when we call `open()`, which explicitly tells Python which encoding to use when opening the file.  For example, in the program *alice.py* on pages 203-204, the first lines of the program should look like this:
+Some of the text files from [Project Gutenberg](https://www.gutenberg.org/) are now encoded as utf-8. This can result in a `UnicodeDecodeError` when trying to open the file. This can be addressed by adding an argument when we call `open()`, which explicitly tells Python which encoding to use when opening the file.  For example, in the program [*alice.py*](.\alice.py) on pages 203-204, the first lines of the program should look like this:
 
 ```python
     filename = 'alice_new.txt'
@@ -18,7 +18,7 @@ Some of the text files from [Project Gutenberg](https://www.gutenberg.org/) are 
             contents = f_obj.read()
 ```
 
-The `encoding` argument should be added to the `open()` calls in *word_count.py* as well on pages 205-206.
+The `encoding` argument should be added to the `open()` calls in [*word_count.py*](.\word_count.py) as well on pages 205-206.
 
 <span id="page_197"></span>
 
@@ -138,7 +138,7 @@ script. If the specified number is already stored, report the favorite number to
 user. If not, prompt for the user’s favorite number and store it by appending to the JSON file. Run the program twice to see that it works.
 
 <span id="ch10exe13"></span>**10-13. Verify User:** The final listing
-for *remember_me.py* assumes either that the user has already entered
+for [*remember_me.py*](.\remember_me.py) assumes either that the user has already entered
 their username or that the program is running for the first time. We
 should modify it in case the current user is not the person who last
 used the program.

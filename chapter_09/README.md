@@ -93,7 +93,7 @@ instance as an attribute in the `Admin` class. Create a new instance of
 `Admin` and use your method to show its privileges.
 
 <span id="ch9exe9"></span>**9-9. Battery Upgrade:** Use the final
-version of *electric_car.py* from this section. Add a method to the
+version of [*electric_car.py*](.\electric_car.py) from this section. Add a method to the
 `Battery` class called `upgrade_battery()`. This method should check the
 battery size and set the capacity to 85 if it isn’t already. Make an
 electric car with a default battery size, call `get_range()` once, and

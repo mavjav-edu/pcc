@@ -195,7 +195,7 @@ Here's how to include the URLs for the `learning_logs` app:
 
 The `include()` function is now imported from the `django.urls` module. Since the new URL routing approach doesn't require regular expressions, we don't need to include a carat at the beginning of the URL string. We also don't need to include a `namespace` argument in the `include()` call; that will be specified in the app's *urls.py* in a moment.
 
-Here's what the *learning_logs/urls.py* file should look like:
+Here's what the [*learning_logs/urls.py*](.\urls.py) file should look like:
 
 	"""Defines url patterns for learning_logs."""
 
