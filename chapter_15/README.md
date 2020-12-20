@@ -169,7 +169,7 @@ TRY IT YOURSELF \#2
 -------------------
 
 <span id="ch15exe3"></span>**15-3. Molecular Motion:** Modify
-*rw_visual.py* by replacing `plt.scatter()` with `plt.plot()`. To
+[*rw_visual.py*](.\rw_visual.py) by replacing `plt.scatter()` with `plt.plot()`. To
 simulate the path of a pollen grain on the surface of a drop of water,
 pass in the `rw.x_values` and `rw.y_values`, and include a `linewidth`
 argument. Use 5000 instead of 50,000 points.
@@ -200,10 +200,10 @@ TRY IT YOURSELF \#3
 -------------------
 
 <span id="ch15exe6"></span>**15-6. Automatic Labels:** Modify *die.py*
-and *dice_visual.py* by replacing the list we used to set the value of
+and [*dice_visual.py*](.\dice_visual.py) by replacing the list we used to set the value of
 `hist.x_labels` with a loop to generate this list automatically. If
 you’re comfortable with list comprehensions, try replacing the other
-`for` loops in *die_visual.py* and *dice_visual.py* with comprehensions
+`for` loops in [*die_visual.py*](.\die_visual.py) and [*dice_visual.py*](.\die_visual.py) with comprehensions
 as well.
 
 <span id="ch15exe7"></span>**15-7. Two D8s:** Create a simulation

@@ -57,7 +57,7 @@ Page by page updates
 
 In the following sections, bold lines of code differ from the code that appears in the book:
 
-### p. 365, *countries.py* and *country_codes.py*
+### p. 365, [*countries.py*](.\countries.py) and *country_codes.py*
 
 Use **`from pygal.maps.world import COUNTRIES`** instead of `from pygal.i18n import COUNTRIES`.
 
