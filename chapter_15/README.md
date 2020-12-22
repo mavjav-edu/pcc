@@ -5,16 +5,20 @@ title: Generating Data
 
 # Generating Data
 
-- [Installing matplotlib](#installing-matplotlib)
-  - [Checking if matplotlib is already installed](#checking-if-matplotlib-is-already-installed)
-  - [Simple installation with pip](#simple-installation-with-pip)
-- [Installing matplotlib on Linux](#installing-matplotlib-on-linux)
-- [Installing matplotlib on OS X](#installing-matplotlib-on-os-x)
-- [Installing matplotlib on Windows](#installing-matplotlib-on-windows)
-- [Installing Pygal](#installing-pygal)
-  - [Running Pygal code exactly as it appears in the book](#running-pygal-code-exactly-as-it-appears-in-the-book)
-  - [Using the latest version of Pygal](#using-the-latest-version-of-pygal)
-- [Updates](#updates)
+- [Generating Data](#generating-data)
+  - [Installing matplotlib](#installing-matplotlib)
+    - [Checking if matplotlib is already installed](#checking-if-matplotlib-is-already-installed)
+    - [Simple installation with pip](#simple-installation-with-pip)
+  - [Installing matplotlib on Linux](#installing-matplotlib-on-linux)
+  - [Installing matplotlib on OS X](#installing-matplotlib-on-os-x)
+  - [Installing matplotlib on Windows](#installing-matplotlib-on-windows)
+  - [Installing Pygal](#installing-pygal)
+    - [Running Pygal code exactly as it appears in the book](#running-pygal-code-exactly-as-it-appears-in-the-book)
+    - [Using the latest version of Pygal](#using-the-latest-version-of-pygal)
+  - [Updates](#updates)
+  - [TRY IT YOURSELF \#1](#try-it-yourself-1)
+  - [TRY IT YOURSELF \#2](#try-it-yourself-2)
+  - [TRY IT YOURSELF \#3](#try-it-yourself-3)
 
 Installing matplotlib
 ---
