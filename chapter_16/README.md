@@ -36,7 +36,7 @@ On Windows, this is:
 
     $ python -m pip install --user pygal_maps_world
 
-### *countries.py*, *country_codes.py*
+### [*countries.py*](countries.py), [*country_codes.py*](country_codes.py)
 
 The dictionary `COUNTRIES` needs to be imported from `pygal_maps_world` now:
 
@@ -57,17 +57,17 @@ Page by page updates
 
 In the following sections, bold lines of code differ from the code that appears in the book:
 
-### p. 365, [*countries.py*](.\countries.py) and *country_codes.py*
+### p. 365, [*countries.py*](countries.py) and [*country_codes.py*](country_codes.py)
 
 Use **`from pygal.maps.world import COUNTRIES`** instead of `from pygal.i18n import COUNTRIES`.
 
-### p. 367, *americas.py*
+### p. 367, [*americas.py*](americas.py)
 
 Use **`from pygal.maps.world import World`** instead of `import pygal`.
 
 Use **`wm = World()`** instead of `wm = pygal.Worldmap()`.
 
-### p. 368, *na_populations.py*
+### p. 368, [*na_populations.py*](na_populations.py)
 
 Use **`from pygal.maps.world import World`** instead of `import pygal`.
 

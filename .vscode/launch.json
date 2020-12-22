@@ -5,6 +5,14 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "PowerShell Interactive Session",
+            "type": "PowerShell",
+            "request": "launch",
+            "createTemporaryIntegratedConsole": false,
+            "script": "${file}",
+            "cwd": ""
+        },
+        {
             "name": "PowerShell Attach to Host Process",
             "type": "PowerShell",
             "request": "attach",

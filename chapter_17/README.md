@@ -12,7 +12,7 @@ This update affects the section *Visualizing Repositories Using Pygal*, which be
 Updates
 ---
 
-### p. 386, *python_repos.py*
+### p. 386, [*python_repos.py*](python_repos.py)
 
 Here's the original code for styling the chart:
 
@@ -52,7 +52,7 @@ my_config.width = 1000
 chart = pygal.Bar(my_config, style=my_style)
 ```
 
-### p. 389, [*python_repos.py*](.\python_repos.py) 
+### p. 389, [*python_repos.py*](python_repos.py) 
 
 Here's the original code for generating the data that will be included on the chart:
 
@@ -89,7 +89,7 @@ for repo_dict in repo_dicts:
 
 We first try to pull the description from the dictionary `repo_dict`. Then we make sure a description was provided. If a description was not returned from the API call, we set a description ourselves. At the moment, the project [Shadowsocks](https://github.com/shadowsocks/shadowsocks) is missing a description, and if you run the code shown above you'll see *No description provided* for that project.
 
-### p. 390, *python_repos.py*
+### p. 390, [*python_repos.py*](python_repos.py)
 
 This also affects the code on page 390, which should now be:
 
@@ -111,9 +111,9 @@ for repo_dict in repo_dicts:
     plot_dicts.append(plot_dict)
 ```
 
-### Complete updated version of *python_repos.py*
+### Complete updated version of [*python_repos.py*](python_repos.py)
 
-Here's the complete, updated version of *python_repos.py*:
+Here's the complete, updated version of [*python_repos.py*](python_repos.py):
 
 ```python
 import requests
@@ -173,19 +173,19 @@ TRY IT YOURSELF \#1
 -------------------
 
 <span id="ch17exe1"></span>**17-1. Other Languages:** Modify the API
-call in [*python_repos.py*](.\python_repos.py) so it generates a chart showing the most
+call in [*python_repos.py*](python_repos.py) so it generates a chart showing the most
 popular projects in other languages. Try languages such as *JavaScript*,
 *Ruby*, *C*, *Java*, *Perl*, *Haskell*, and *Go*.
 
 <span id="ch17exe2"></span>**17-2. Active Discussions:** Using the data
-from *hn_submissions.py*, make a bar chart showing the most active
+from [*hn_submissions.py*](hn_submissions.py), make a bar chart showing the most active
 discussions currently happening on Hacker News. The height of each bar
 should correspond to the number of comments each submission has. The
 label for each bar should include the submission’s title, and each bar
 should act as a link to the discussion page for that submission.
 
-<span id="ch17exe3"></span>**17-3. Testing** ***python_repos.py*****:**
-In *python_repos.py*, we printed the value of `status_code` to make sure
+<span id="ch17exe3"></span>**17-3. Testing** [***python_repos.py*](python_repos.py)****:**
+In [*python_repos.py*](python_repos.py), we printed the value of `status_code` to make sure
 the API call was successful. Write a program called
 *test_python_repos.py*, which uses `unittest` to assert that the value
 of `status_code` is 200. Figure out some other assertions you can

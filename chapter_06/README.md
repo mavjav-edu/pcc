@@ -59,7 +59,7 @@ runs through Egypt*.
 dictionary.
 
 <span id="ch6exe6"></span>**6-6. Polling:** Use the code in
-[*favorite_languages.py*](.\favorite_languages.py) ([page 104](#page_104)).
+[*favorite_languages.py*](favorite_languages.py) ([page 104](#page_104)).
 
 • Make a list of people who should take the favorite languages poll.
 Include some names that are already in the dictionary and some that are

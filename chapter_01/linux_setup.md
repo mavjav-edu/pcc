@@ -69,7 +69,7 @@ If this doesn't work, you can see the instructions at [http://geany.org/Download
 
 If you use the simple command `python` to start a terminal session on your system, you shouldn't have to configure Geany at all. But if you use a command like `python3` or `python3.10`, you'll have to modify Geany slightly so it uses the correct version of Python to run your programs.
 
-Open an empty file and save it as *hello_world.py*. The file should have one line in it:
+Open an empty file and save it as [*hello_world.py*](hello_world.py). The file should have one line in it:
 
     print("Hello Python world!")
 

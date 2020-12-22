@@ -14,11 +14,11 @@ Updates
 Updates for Django 2.1
 ---
 
-In Django 2.1, there is a slight change to the way user authentication is handled. This affects the way URLs in the `users` app are structured, and it affects the [*/users/views.py*](.\views.py) file as well.
+In Django 2.1, there is a slight change to the way user authentication is handled. This affects the way URLs in the `users` app are structured, and it affects the [*/users/views.py*](views.py) file as well.
 
 ### p. 440, *The Login Page*
 
-The [*/users/urls.py*](.\urls.py) file should look like this:
+The [*/users/urls.py*](urls.py) file should look like this:
 
 	"""Defines url patterns for users."""
 
@@ -39,7 +39,7 @@ There are two differences here. We're importing a set of views from `django.cont
 
 ### p. 442, *The logout URL*
 
-The [*/users/urls.py*](.\urls.py) file should look like this:
+The [*/users/urls.py*](urls.py) file should look like this:
 
 	"""Defines url patterns for users."""
 
@@ -131,11 +131,11 @@ The line to include the URLs from the `users` app should look like this:
 	    path('', include('learning_logs.urls')),
 	]
 
-As we saw when including the URLs from `learning_logs`, we write a simple string for the base of the URL, `'users/'`. We leave out the `namespace` argument, because the namespace will be defined in the [*users/urls.py*](.\urls.py) file.
+As we saw when including the URLs from `learning_logs`, we write a simple string for the base of the URL, `'users/'`. We leave out the `namespace` argument, because the namespace will be defined in the [*users/urls.py*](urls.py) file.
 
 ### p. 440, *The Login Page*
 
-The [*users/urls.py*](.\urls.py) file should look like this:
+The [*users/urls.py*](urls.py) file should look like this:
 
 	"""Defines url patterns for users."""
 
@@ -165,7 +165,7 @@ The logout URL pattern should look like this:
 
 ### p. 442-3, *The `logout_view()` View Function*
 
-In *users/views.py*, the `reverse()` function needs to be imported from `django.urls`:
+In [*users/views.py*](users/views.py), the `reverse()` function needs to be imported from `django.urls`:
 
 	from django.urls import reverse
 
@@ -181,7 +181,7 @@ The register URL should look like this:
 
 ### p. 449, *Modifying the Topic Model*
 
-In *learning_logs/models.py*, the line that defines the foreign key relationship between topics and users should look like this:
+In [*learning_logs/models.py*](learning_logs/models.py), the line that defines the foreign key relationship between topics and users should look like this:
 
     owner = models.ForeignKey(User, on_delete=models.CASCADE)
 

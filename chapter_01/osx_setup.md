@@ -75,7 +75,7 @@ Find the path to your Python interpreter:
     $ type -a python3
     python3 is /usr/local/bin/python3
 
-Open an empty file in Sublime Text and save it as *hello_world.py*. The file should have one line in it:
+Open an empty file in Sublime Text and save it as [*hello_world.py*](hello_world.py). The file should have one line in it:
 
     print("Hello Python world!")
 
