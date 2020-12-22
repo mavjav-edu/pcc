@@ -52,7 +52,7 @@ my_config.width = 1000
 chart = pygal.Bar(my_config, style=my_style)
 ```
 
-### p. 389, [*python_repos.py*](.\python_repos.py) 
+### p. 389, [*python_repos.py*](python_repos.py) 
 
 Here's the original code for generating the data that will be included on the chart:
 
@@ -173,7 +173,7 @@ TRY IT YOURSELF \#1
 -------------------
 
 <span id="ch17exe1"></span>**17-1. Other Languages:** Modify the API
-call in [*python_repos.py*](.\python_repos.py) so it generates a chart showing the most
+call in [*python_repos.py*](python_repos.py) so it generates a chart showing the most
 popular projects in other languages. Try languages such as *JavaScript*,
 *Ruby*, *C*, *Java*, *Perl*, *Haskell*, and *Go*.
 
