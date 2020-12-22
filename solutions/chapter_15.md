@@ -109,7 +109,7 @@ Output:
 15-3: Molecular Motion
 ---
 
-Modify *rw_visual.py* by replacing `plt.scatter()` with `plt.plot()`. to simulate the path of a pollen grain on the surface of a drop of water, pass in the `rw.x_values` and `rw.y_values`, and include a `linewidth` argument. Use 5000 instead of 50,000 points.
+Modify [*rw_visual.py*](../chapter_15/rw_visual.py) by replacing `plt.scatter()` with `plt.plot()`. to simulate the path of a pollen grain on the surface of a drop of water, pass in the `rw.x_values` and `rw.y_values`, and include a `linewidth` argument. Use 5000 instead of 50,000 points.
 
 ```python
 import matplotlib.pyplot as plt
@@ -255,9 +255,9 @@ Output:
 15-6: Automatic Labels
 ---
 
-Modify *die.py* and *dice_visual.py* by replacing the list we used to set the value of `hist.x_labels` with a loop to generate this list automatically. If you're comfortable with list comprehensions, try replacing the other `for` loops in *die_visual.py* and *dice_visual.py* with comprehensions as well.
+Modify [*die.py*](../chapter_15/die.py) and [*dice_visual.py*](../chapter_15/die.py) by replacing the list we used to set the value of `hist.x_labels` with a loop to generate this list automatically. If you're comfortable with list comprehensions, try replacing the other `for` loops in [*die_visual.py*](../chapter_15/die.py) and [*dice_visual.py*](../chapter_15/die.py) with comprehensions as well.
 
-***Note:** This should say to modify die_visual.py, not die.py. This will be corrected in future printings.*
+***Note:** This should say to modify [die_visual.py](../chapter_15/die_visual.py), not [die.py](../chapter_15/die_visual.py). This will be corrected in future printings.*
 
 *die_visual.py:*
 

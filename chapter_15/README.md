@@ -5,16 +5,20 @@ title: Generating Data
 
 # Generating Data
 
-- [Installing matplotlib](#installing-matplotlib)
-  - [Checking if matplotlib is already installed](#checking-if-matplotlib-is-already-installed)
-  - [Simple installation with pip](#simple-installation-with-pip)
-- [Installing matplotlib on Linux](#installing-matplotlib-on-linux)
-- [Installing matplotlib on OS X](#installing-matplotlib-on-os-x)
-- [Installing matplotlib on Windows](#installing-matplotlib-on-windows)
-- [Installing Pygal](#installing-pygal)
-  - [Running Pygal code exactly as it appears in the book](#running-pygal-code-exactly-as-it-appears-in-the-book)
-  - [Using the latest version of Pygal](#using-the-latest-version-of-pygal)
-- [Updates](#updates)
+- [Generating Data](#generating-data)
+  - [Installing matplotlib](#installing-matplotlib)
+    - [Checking if matplotlib is already installed](#checking-if-matplotlib-is-already-installed)
+    - [Simple installation with pip](#simple-installation-with-pip)
+  - [Installing matplotlib on Linux](#installing-matplotlib-on-linux)
+  - [Installing matplotlib on OS X](#installing-matplotlib-on-os-x)
+  - [Installing matplotlib on Windows](#installing-matplotlib-on-windows)
+  - [Installing Pygal](#installing-pygal)
+    - [Running Pygal code exactly as it appears in the book](#running-pygal-code-exactly-as-it-appears-in-the-book)
+    - [Using the latest version of Pygal](#using-the-latest-version-of-pygal)
+  - [Updates](#updates)
+  - [TRY IT YOURSELF \#1](#try-it-yourself-1)
+  - [TRY IT YOURSELF \#2](#try-it-yourself-2)
+  - [TRY IT YOURSELF \#3](#try-it-yourself-3)
 
 Installing matplotlib
 ---
@@ -37,7 +41,7 @@ The matplotlib developers have been working hard to simplify the installation pr
 
     $ pip install --user matplotlib
 
-If you need help using pip, see the <a href="../chapter_12/installing_pip.html">instructions</a> in Chapter 12. If this doesn't work, try leaving off the `--user` flag.
+If you need help using pip, see the [instructions](../chapter_12/installing_pip.md) in Chapter 12. If this doesn't work, try leaving off the `--user` flag.
 
 If the installation seems to run without errors, try importing matplotlib:
 
@@ -67,7 +71,7 @@ Then use pip to install matplotlib:
 
     $ pip install --user matplotlib
 
-If you need help using pip, see the <a href="../chapter_12/installing_pip.html">instructions</a> in Chapter 12.
+If you need help using pip, see the [instructions](../chapter_12/installing_pip.md) in Chapter 12.
 
 [top 🔝](#)
 
@@ -80,7 +84,7 @@ If matplotlib is not already installed and you used Homebrew to install Python, 
 
     $ pip install --user matplotlib
 
-If you need help using pip, see the <a href="../chapter_12/installing_pip.html">instructions</a> in Chapter 12. If you have trouble installing matplotlib using pip, try leaving off the `--user` flag.
+If you need help using pip, see the [instructions](../chapter_12/installing_pip.md) in Chapter 12. If you have trouble installing matplotlib using pip, try leaving off the `--user` flag.
 
 [top 🔝](#)
 
@@ -98,7 +102,7 @@ Copy the *.whl* file to your project folder, open a command window, and navigate
     > cd python_work
     python_work> python -m pip install --user matplotlib-1.4.3-cp35-none-win32.whl
 
-If you need help using pip, see the <a href="../chapter_12/installing_pip.html">instructions</a> in Chapter 12.
+If you need help using pip, see the [instructions](../chapter_12/installing_pip.md) in Chapter 12.
 
 [top 🔝](#)
 

@@ -5,14 +5,14 @@ title: Solutions - Chapter 17
 
 - [17-1: Other Languages](#17-1-other-languages)
 - [17-2: Active Discussions](#17-2-active-discussions)
-- [17-3: Testing *python_repos.py*](#17-3-testing-pythonrepospy)
+- [17-3: Testing [*python_repos.py*](../chapter_17/python_repos.py)](#17-3-testing-pythonrepospy)
 
 Back to [solutions](README.html).
 
 17-1: Other Languages
 ---
 
-Modify the API call in *python_repos.py* so it generates a chart showing the most popular projects in other languages. Try languages such as *JavaScript*, *Ruby*, *C*, *Java*, *Perl*, *Haskell*, and *Go*.
+Modify the API call in [*python_repos.py*](../chapter_17/python_repos.py) so it generates a chart showing the most popular projects in other languages. Try languages such as *JavaScript*, *Ruby*, *C*, *Java*, *Perl*, *Haskell*, and *Go*.
 
 ***Note:** The code for this exercise includes an [update](../chapter_17/README.html) that keeps a project with an empty description from breaking the program, and moves the font size settings to `my_style`.*
 
@@ -82,7 +82,7 @@ Output:
 17-2: Active Discussions
 ---
 
-Using the data from *hn_submissions.py*, make a bar chart showing the most active discussions currently happening on Hacker News. The height of each bar should correspond to the number of comments each submission has. The label for each bar should include the submission's title, and each bar should act as a link to the discussion page for that submission.
+Using the data from [*hn_submissions.py*](../chapter_17/hn_submissions.py), make a bar chart showing the most active discussions currently happening on Hacker News. The height of each bar should correspond to the number of comments each submission has. The label for each bar should include the submission's title, and each bar should act as a link to the discussion page for that submission.
 
 ```python
 import requests
@@ -160,14 +160,14 @@ Output:
 
 [top 🔝](#)
 
-17-3: Testing *python_repos.py*
+17-3: Testing [*python_repos.py*](../chapter_17/python_repos.py)
 ---
 
-In *python_repos.py*, we printed the value of `status_code` to make sure the API call was successful. Write a program called *test_python_repos.py*, which uses `unittest` to assert that the value of `status_code` is 200. Figure out some other assertions you can make - for example, that the number of items returned is expected and that the total number of repositories is greater than a certain amount.
+In [*python_repos.py*](../chapter_17/python_repos.py), we printed the value of `status_code` to make sure the API call was successful. Write a program called [*test_python_repos.py*](../chapter_17/python_repos.py), which uses `unittest` to assert that the value of `status_code` is 200. Figure out some other assertions you can make - for example, that the number of items returned is expected and that the total number of repositories is greater than a certain amount.
 
 ***Note:** The code for this exercise includes an [update](../chapter_17/README.html) that keeps a project with an empty description from breaking the program, and moves the font size settings to `my_style`.*
 
-Writing tests pushes you to structure your code in a way that it can be tested. Here's a revised version of *python_repos.py*, with all of the work written as four functions:
+Writing tests pushes you to structure your code in a way that it can be tested. Here's a revised version of [*python_repos.py*](../chapter_17/python_repos.py), with all of the work written as four functions:
 
 ```python
 import requests
@@ -241,7 +241,7 @@ import unittest
 import python_repos_for_testing as pr
 
 class PythonReposTestCase(unittest.TestCase):
-    """Tests for python_repos.py."""
+    """Tests for [python_repos.py](../chapter_17/python_repos.py)."""
 
     def setUp(self):
         """Call all the functions here, and test elements separately."""

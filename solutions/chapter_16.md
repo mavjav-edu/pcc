@@ -322,7 +322,7 @@ import unittest
 from country_codes import get_country_code
 
 class CountryCodesTestCase(unittest.TestCase):
-    """Tests for country_codes.py."""
+    """Tests for [country_codes.py](../chapter_16/country_codes.py)."""
 
     def test_get_country_code(self):
         country_code = get_country_code('Andorra')

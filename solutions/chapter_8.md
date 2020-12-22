@@ -523,17 +523,17 @@ print(my_accord)
 
 Output:
 
-<pre>
+```python
 {'manufacturer': 'Subaru', 'color': 'blue', 'tow_package': True, 'model': 'Outback'}
 {'year': 1991, 'manufacturer': 'Honda', 'color': 'white', 'headlights': 'popup', 'model': 'Accord'}
-</pre>
+```
 
 [top 🔝](#)
 
 8-15: Printing Models
 ---
 
-Put the functions for the example *printing_models.py* in a separate file called *printing_functions.py*. Write an `import` statement at the top of *printing_models.py*, and modify the file to use the imported functions.
+Put the functions for the example [*printing_models.py*](../chapter_08/printing_models.py) in a separate file called [*printing_functions.py*](../chapter_08/printing_models.py). Write an `import` statement at the top of [*printing_models.py*](../chapter_08/printing_models.py), and modify the file to use the imported functions.
 
 ***Note:** The text refers to print_models.py, but it should say printing_models.py.*
 
