@@ -17,7 +17,7 @@ Twitter: [@ehmatthes](http://twitter.com/ehmatthes/)
 <a href="try_it_yourself"></a>Exercises ✍🏽
 ---
 The book has several sections that reinforce learning through exercises. Practice what you just read where you see:
-<img src="./tiy.svg"   width="188vw" alt="Try It Yourself in Adobe Dogma font"/>
+<img src="./images/tiy.svg"   width="188vw" alt="Try It Yourself in Adobe Dogma font"/>
 
 - Getting Started \([Chapter 1](/chapter_01/README.md#try-it-yourself-\#1)\)
 

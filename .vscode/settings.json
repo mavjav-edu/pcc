@@ -9,5 +9,6 @@
         "ehmatthes",
         "matplotlib",
         "whitenoise"
-    ]
+    ],
+    "svg.preview.background": "black"
 }
