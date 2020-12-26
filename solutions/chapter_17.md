@@ -5,7 +5,7 @@ title: Solutions - Chapter 17
 
 - [17-1: Other Languages](#17-1-other-languages)
 - [17-2: Active Discussions](#17-2-active-discussions)
-- [17-3: Testing [*python_repos.py*](../chapter_17/python_repos.py)](#17-3-testing-pythonrepospy)
+- [17-3: Testing *python_repos.py*](#17-3-testing-python_repospy)
 
 Back to [solutions](README.html).
 
@@ -14,7 +14,7 @@ Back to [solutions](README.html).
 
 Modify the API call in [*python_repos.py*](../chapter_17/python_repos.py) so it generates a chart showing the most popular projects in other languages. Try languages such as *JavaScript*, *Ruby*, *C*, *Java*, *Perl*, *Haskell*, and *Go*.
 
-***Note:** The code for this exercise includes an [update](../chapter_17/README.html) that keeps a project with an empty description from breaking the program, and moves the font size settings to `my_style`.*
+***Note:** The code for this exercise includes an [update](../chapter_17/README.md) that keeps a project with an empty description from breaking the program, and moves the font size settings to `my_style`.*
 
 ```python
 import requests
