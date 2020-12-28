@@ -8,3 +8,4 @@ notes/
 *_env/
 *_env*/
 pg_env_1.7/
+debug.log

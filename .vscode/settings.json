@@ -10,5 +10,6 @@
         "matplotlib",
         "whitenoise"
     ],
-    "svg.preview.background": "black"
+    "svg.preview.background": "black",
+    "cSpell.enabled": true
 }
