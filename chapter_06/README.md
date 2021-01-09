@@ -88,8 +88,10 @@ through your list and as you do print everything you know about each
 pet.
 
 <span id="ch6exe9"></span>**6-9. Favorite Places:** Make a dictionary
-called `favorite_places`. Think of three names to use as keys in the
-dictionary, and store one to three favorite places for each person. To
+called `favorite_places`. Think of three people's names to use as keys
+ in the dictionary, and store one to three favorite places for each
+person. What data type will you use to store the one to three
+favorite places? You could format the places as a [list](https://en.wikiversity.org/wiki/Python_Concepts/Lists), a [tuple](https://en.wikiversity.org/wiki/Python_Concepts/Tuples), or a [set](https://en.wikiversity.org/wiki/Python_Concepts/Sets). To
 make this exercise a bit more interesting, ask some friends to name a
 few of their favorite places. Loop through the dictionary, and print
 each person’s name and their favorite places.
