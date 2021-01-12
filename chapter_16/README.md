@@ -18,7 +18,7 @@ Updates
 
 ### Exercise 16-1: San Francisco
 
-You can still get historical weather data from Weather Underground in the CSV format, but the link to the CSV file is not visible on the screen. To get historical weather data, go to the [Weather Underground home page](wunderground.com), click on the Menu on the right side of the screen, and click on [Historical Weather](https://www.wunderground.com/history/). Enter a location, pick a starting date, and click Submit. A summary for this date will appear, with several tabs. Click on Custom, enter an end date on the next page, and click Get History.
+You can still get historical weather data from Weather Underground in the CSV format, but the link to the CSV file is not visible on the screen. To get historical weather data, go to the [Weather Underground home page](https://www.wunderground.com), click on the Menu on the right side of the screen, and click on [Historical Weather](https://www.wunderground.com/history/). Enter a location, pick a starting date, and click Submit. A summary for this date will appear, with several tabs. Click on Custom, enter an end date on the next page, and click Get History.
 
 If you scroll down you'll see the weather data for the range you requested, in a neatly formatted table. To get the CSV version of this data, append `&format=1` to the URL in your browser's address bar. You can do this by clicking in the address bar, pressing Ctrl-End, typing `&format=1`, and pressing Enter. Your URL should look something like this:
 
@@ -44,7 +44,7 @@ The dictionary `COUNTRIES` needs to be imported from `pygal_maps_world` now:
 
 ### *world_populations.py*, *americas.py*, *na_populations.py*
 
-Pygal's world map has been moved and renamed, so these progams need an additional import statement. This update also affects one other line of code. Add the following import statement near the top of the file:
+Pygal's world map has been moved and renamed, so these programs need an additional import statement. This update also affects one other line of code. Add the following import statement near the top of the file:
 
     from pygal.maps.world import World
 

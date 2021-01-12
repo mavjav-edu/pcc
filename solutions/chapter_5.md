@@ -13,7 +13,7 @@ title: Solutions - Chapter 5
 - [5-10: Checking Usernames](#5-10-checking-usernames)
 - [5-11: Ordinal Numbers](#5-11-ordinal-numbers)
 
-Back to [solutions](README.html).
+Back to [solutions](README.md).
 
 5-3: Alien Colors #1
 ---

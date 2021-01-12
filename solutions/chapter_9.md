@@ -18,7 +18,7 @@ title: Solutions - Chapter 9
 - [9-13: OrderedDict Rewrite](#9-13-ordereddict-rewrite)
 - [9-14: Dice](#9-14-dice)
 
-Back to [solutions](README.html).
+Back to [solutions](README.md).
 
 9-1: Restaurant
 ---

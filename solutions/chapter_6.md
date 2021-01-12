@@ -15,7 +15,7 @@ title: Solutions - Chapter 6
 - [6-10: Favorite Numbers](#6-10-favorite-numbers)
 - [6-11: Cities](#6-11-cities)
 
-Back to [solutions](README.html).
+Back to [solutions](README.md).
 
 6-1: Person
 ---

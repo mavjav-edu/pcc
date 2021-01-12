@@ -12,7 +12,7 @@ title: Solutions - Chapter 4
 - [4-11: My Pizzas, Your Pizzas](#4-11-my-pizzas-your-pizzas)
 - [4-13: Buffet](#4-13-buffet)
 
-Back to [solutions](README.html).
+Back to [solutions](README.md).
 
 4-1: Pizzas
 ---

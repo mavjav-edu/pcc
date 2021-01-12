@@ -12,7 +12,7 @@ title: Solutions - Chapter 15
 - [15-8: Three Dice](#15-8-three-dice)
 - [15-9: Multiplication](#15-9-multiplication)
 
-Back to [solutions](README.html).
+Back to [solutions](README.md).
 
 15-1: Cubes
 ---

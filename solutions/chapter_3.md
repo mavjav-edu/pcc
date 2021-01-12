@@ -11,7 +11,7 @@ title: Solutions - Chapter 3
 - [3-7: Shrinking Guest List](#3-7-shrinking-guest-list)
 - [3-8: Seeing the World](#3-8-seeing-the-world)
 
-Back to [solutions](README.html).
+Back to [solutions](README.md).
 
 3-1: Names
 ---

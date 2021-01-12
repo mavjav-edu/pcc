@@ -8,7 +8,7 @@ title: Solutions - Chapter 2
 - [2-7: Stripping Names](#2-7-stripping-names)
 - [2-9: Favorite Number](#2-9-favorite-number)
 
-Back to [solutions](README.html).
+Back to [solutions](README.md).
 
 2-2: Simple Messages
 ---

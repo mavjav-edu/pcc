@@ -7,7 +7,7 @@ title: Solutions - Chapter 17
 - [17-2: Active Discussions](#17-2-active-discussions)
 - [17-3: Testing *python_repos.py*](#17-3-testing-python_repospy)
 
-Back to [solutions](README.html).
+Back to [solutions](README.md).
 
 17-1: Other Languages
 ---

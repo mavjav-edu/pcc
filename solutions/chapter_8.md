@@ -18,7 +18,7 @@ title: Solutions - Chapter 8
 - [8-14: Cars](#8-14-cars)
 - [8-15: Printing Models](#8-15-printing-models)
 
-Back to [solutions](README.html).
+Back to [solutions](README.md).
 
 8-1: Message
 ---

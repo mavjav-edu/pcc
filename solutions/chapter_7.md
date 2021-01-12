@@ -12,7 +12,7 @@ title: Solutions - Chapter 7
 - [7-9: No Pastrami](#7-9-no-pastrami)
 - [7-10: Dream Vacation](#7-10-dream-vacation)
 
-Back to [solutions](README.html).
+Back to [solutions](README.md).
 
 ***Note:** Sublime Text doesn't run programs that prompt the user for input. You can use Sublime Text to write programs that prompt for input, but you'll need to run these programs from a terminal. See "Running Python Programs from a Terminal" on page 16.*
 

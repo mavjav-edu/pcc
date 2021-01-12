@@ -10,7 +10,7 @@ Restore Points
 
 As you work your way through the Alien Invasion project, you'll develop a number of files that work together to create a functioning game. If you make an error somewhere, it can be difficult to know exactly where things went wrong. There are several *restore points* available for this chapter. You can use these restore points in two ways:
 
-- **Compare your code to code that works:** You should try this first. Look at the code you have, and compare it to the corresonding restore point. You might be able to spot where your code differs, and simply correct your own code.
+- **Compare your code to code that works:** You should try this first. Look at the code you have, and compare it to the corresponding restore point. You might be able to spot where your code differs, and simply correct your own code.
 
 - **Start over from a restore point:** If you want to just start with code that works, you can make a copy of the project using a restore point and pick up from there. For example if you want to start from a working version that fires bullets, you can copy the files and directories from [restore_point_2_fires_bullets](https://github.com/ehmatthes/pcc/tree/master/chapter_12/restore_points/restore_point_2_fires_bullets) and go from there. This might be helpful if you get lost later in the project, or if you've been adding your own features and you want to go back to the book's version of the game.
 
@@ -25,13 +25,17 @@ Installing Pygame
 
 Pygame is usually straightforward to install, but it can get tricky depending on your operating system and the version of Python you have installed. These instructions can help you get Pygame installed quickly, so you can focus on building games.
 
-- [Restore Points](#restore-points)
-- [Installing Pygame](#installing-pygame)
-- [Pygame on Linux](#pygame-on-linux)
-  - [Python 2.7](#python-27)
-  - [Python 3](#python-3)
-- [<a href='pygame_osx'></a>Pygame on OS X](#pygame-on-os-x)
-- [<a href='pygame_windows'></a>Pygame on Windows](#pygame-on-windows)
+- [A Ship That Fires Bullets](#a-ship-that-fires-bullets)
+  - [Restore Points](#restore-points)
+  - [Installing Pygame](#installing-pygame)
+  - [Pygame on Linux](#pygame-on-linux)
+    - [Python 2.7](#python-27)
+    - [Python 3](#python-3)
+  - [<a href='pygame_osx'></a>Pygame on OS X](#pygame-on-os-x)
+  - [<a href='pygame_windows'></a>Pygame on Windows](#pygame-on-windows)
+  - [TRY IT YOURSELF \#1](#try-it-yourself-1)
+  - [TRY IT YOURSELF \#2](#try-it-yourself-2)
+  - [TRY IT YOURSELF \#3](#try-it-yourself-3)
 
 Pygame on Linux
 ---
@@ -65,7 +69,7 @@ If you want to enable some more advanced functionality in Pygame such as the abi
     $ sudo apt-get install libswscale-dev libsmpeg-dev libavformat-dev libavcodec-dev
     $ sudo apt-get install python-numpy
 
-You'll need pip for the next step; if you haven't set up pip yet, see the [instructions for seting up pip](installing_pip.html). Enter the following to install Pygame:
+You'll need pip for the next step; if you haven't set up pip yet, see the [instructions for setting up pip](installing_pip.md). Enter the following to install Pygame:
 
     $ pip install --user hg+http://bitbucket.org/pygame/pygame
 
@@ -90,7 +94,7 @@ This installs the minimum number of packages needed to run Alien Invasion. If yo
 
     $ brew install sdl_mixer portmidi
 
-You'll need [pip](installing_pip.html) to install Pygame. Once you have pip set up correctly, issue the following command:
+You'll need [pip](installing_pip.md) to install Pygame. Once you have pip set up correctly, issue the following command:
 
     $ pip3 install --user  hg+http://bitbucket.org/pygame/pygame
 
@@ -109,7 +113,7 @@ To install Pygame on your version of Windows, find a Windows installer at [https
 
 Once you've downloaded the appropriate file, run the installer if it's a *.exe* file.
 
-If you have a file ending in *.whl*, copy the file to your project directory. You'll need [pip](installing_pip.html) set up, so if you haven't done that yet do so now. Then open a command window, navigate to the folder that you copied the installer to, and use pip to run the installer:
+If you have a file ending in *.whl*, copy the file to your project directory. You'll need [pip](installing_pip.md) set up, so if you haven't done that yet do so now. Then open a command window, navigate to the folder that you copied the installer to, and use pip to run the installer:
 
     > python -m pip install --user pygame-1.9.2a0-cp35-none-win32.whl
 

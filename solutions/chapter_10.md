@@ -16,7 +16,7 @@ title: Solutions - Chapter 10
 - [10-12: Favorite Number Remembered](#10-12-favorite-number-remembered)
 - [10-13: Verify User](#10-13-verify-user)
 
-Back to [solutions](README.html).
+Back to [solutions](README.md).
 
 10-1: Learning Python
 ---

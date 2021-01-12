@@ -9,7 +9,7 @@ title: Solutions - Chapter 16
 - [16-6: Gross Domestic Product](#16-6-gross-domestic-product)
 - [16-8: Testing the `country_codes` Module](#16-8-testing-the-countrycodes-module)
 
-Back to [solutions](README.html).
+Back to [solutions](README.md).
 
 16-2: Sitka-Death Valley Comparison
 ---
