@@ -17,7 +17,7 @@ Python runs on all modern operating systems, but the setup process is slightly d
 TRY IT YOURSELF \#1
 -------------------
 
-The exercises in this chapter are exploratory in nature. Starting in
+The exercises in this chapter are exploratory. Starting in
 [Chapter 2](../chapter_02/README.md#ch02), the challenges you’ll solve will be based
 on what you’ve learned.
 
