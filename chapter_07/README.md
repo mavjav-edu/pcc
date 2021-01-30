@@ -5,6 +5,10 @@ title: User Input And While Loops
 
 # User Input And While Loops
 
+In **Chapter 7** you’ll learn how to accept input from
+users to make your programs interactive. You’ll also learn about `while` loops, which run blocks of code repeatedly
+as long as certain conditions remain true.
+
 TRY IT YOURSELF \#1
 -------------------
 

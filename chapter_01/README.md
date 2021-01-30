@@ -5,6 +5,14 @@ title: Getting Started
 
 # Getting Started
 
+Part I of this book teaches you the basic concepts you’ll need to write
+Python programs. Many of these concepts are common to all programming
+languages, so they’ll be useful throughout your life as a programmer.
+
+In **Chapter 1** you’ll install Python on your
+computer and run your first program, which prints the message *Hello
+world!* to the screen.
+
 Setting Up
 ---
 

@@ -5,6 +5,12 @@ title: Working With Lists
 
 # Working With Lists
 
+**[Chapters 3](../chapter_03/README.md)** introduced lists and **Chapter 4**
+dives deeper. Lists can store as much information as you want in one variable,
+allowing you to work with that data efficiently. You’ll be able to work
+with hundreds, thousands, and even millions of values in just a few
+lines of code.
+
 TRY IT YOURSELF \#1
 -------------------
 

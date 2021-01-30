@@ -5,9 +5,12 @@ title: If Statements
 
 # If Statements
 
-<span id="page_82"></span>
+In **Chapter 5** you’ll use `if` statements to write code that responds one way
+if certain conditions are true, and responds in a different way if those
+conditions are not true.
 
 <span id="page_82"></span>
+
 
 TRY IT YOURSELF \#1
 -------------------

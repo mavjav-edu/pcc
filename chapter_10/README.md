@@ -5,6 +5,13 @@ title: Files And Exceptions
 
 # Files And Exceptions
 
+**Chapter 10** shows you how to work with files and
+handle errors so your programs won’t crash unexpectedly. You’ll store
+data before your program closes, and read the data back in when the
+program runs again. You’ll learn about Python’s exceptions, which allow
+you to anticipate errors, and make your programs handle those errors
+gracefully.
+
 Updates
 ---
 

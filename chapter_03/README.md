@@ -5,6 +5,12 @@ title: Introducing Lists
 
 # Introducing Lists
 
+**Chapters 3** and **[4](../chapter_04/README.md)** introduce
+lists. Lists can store as much information as you want in one variable,
+allowing you to work with that data efficiently. You’ll be able to work
+with hundreds, thousands, and even millions of values in just a few
+lines of code.
+
 TRY IT YOURSELF \#1
 -------------------
 

@@ -5,7 +5,11 @@ title: Testing Your Code
 
 # Testing Your Code
 
-<span id="page_222"></span>
+In **Chapter 11** you’ll learn to write tests for your
+code to check that your programs work the way you intend them to. As a
+result, you’ll be able to expand your programs without worrying about
+introducing new bugs. Testing your code is one of the first skills that
+will help you transition from beginner to intermediate programmer.
 
 <span id="page_222"></span>
 

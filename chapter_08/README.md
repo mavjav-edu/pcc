@@ -5,6 +5,10 @@ title: Functions
 
 # Functions
 
+In **Chapter 8** you’ll write functions, which are
+named blocks of code that perform a specific task and can be run
+whenever you need them.
+
 TRY IT YOURSELF \#1
 -------------------
 

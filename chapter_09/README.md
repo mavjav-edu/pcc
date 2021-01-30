@@ -5,6 +5,11 @@ title: Classes
 
 # Classes
 
+**Chapter 9** introduces
+classes, which allow you to model real-world objects, such as dogs,
+cats, people, cars, rockets, and much more, so your code can represent
+anything real or abstract.
+
 TRY IT YOURSELF \#1
 -------------------
 

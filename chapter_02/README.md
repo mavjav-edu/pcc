@@ -5,6 +5,9 @@ title: Variables And Simple Data Types
 
 # Variables And Simple Data Types
 
+In **Chapter 2** you’ll learn to store information in
+variables and work with text and numerical values.
+
 TRY IT YOURSELF \#1
 -------------------
 

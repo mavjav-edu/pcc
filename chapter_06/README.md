@@ -5,6 +5,11 @@ title: Dictionaries
 
 # Dictionaries
 
+**Chapter 6** shows you how to use Python’s
+dictionaries, which let you make connections between different pieces of
+information. Like lists, dictionaries can contain as much information as
+you need to store.
+
 TRY IT YOURSELF \#1
 -------------------
 
