@@ -57,3 +57,6 @@ Write a test case for `Employee`. Write two test methods,
 `test_give_default_raise()` and `test_give_custom_raise()`. Use the
 `setUp()` method so you don’t have to create a new employee instance in
 each test method. Run your test case, and make sure both tests pass.
+
+<span style="float:right;"><a href='../chapter_12/README.md'>Next &#10095;</span></a>
+<a href='../chapter_10/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>

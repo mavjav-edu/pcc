@@ -5,6 +5,14 @@ title: Styling And Deploying An App
 
 # Styling And Deploying An App
 
+In this chapter we’ll style the project in a simple but professional manner and then deploy it to a live server so anyone in the world can make an account.
+
+For the styling we’ll use the Bootstrap library, a collection of tools for styling web applications so they look professional on all modern devices, from a large flat-screen monitor to a smartphone. To do this, we’ll use the django-bootstrap3 app, which will also give you practice using apps made by other Django developers.
+
+We’ll deploy Learning Log using Heroku, a site that lets you push your project to one of its servers, making it available to anyone with an Internet connection. We’ll also start using a version control system called Git to track changes to the project.
+
+<a id="page_456"></a>When you’re finished with Learning Log, you’ll be able to develop simple web applications, make them look good, and deploy them to a live server. You’ll also be able to use more advanced learning resources as you develop your skills.
+
 - [Deploying a Project to Heroku](#deploying-a-project-to-heroku)
   - [Making a Heroku Account](#making-a-heroku-account)
   - [Installing the Heroku Toolbelt](#installing-the-heroku-toolbelt)
@@ -56,3 +64,6 @@ project and revise *views.py* so any topic that’s public is visible to
 unauthenticated users as well. Remember to migrate the live database
 after you’ve pushed your changes to Heroku.
 
+
+<span style="float:right;"><a href='../chapter_21/README.md'>Next &#10095;</span></a>
+<a href='../chapter_19/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>

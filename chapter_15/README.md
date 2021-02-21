@@ -5,6 +5,10 @@ title: Generating Data
 
 # Generating Data
 
+In this chapter, we’ll use @matplotlib to make simple plots, such as line graphs and scatter plots. After which, we’ll create a more interesting data set based on the concept of a random walk—a visualization generated from a series of random decisions.
+
+We’ll also use a package called [Pygal](https://github.com/Kozea/pygal), which focuses on creating visualizations that work well on digital devices. You can use Pygal to emphasize and resize elements as the user interacts with your visualization, and you can easily resize the entire representation to fit on a tiny smartwatch or giant monitor. We’ll use Pygal to explore what happens when you roll dice in various ways.
+
 - [Generating Data](#generating-data)
   - [Installing matplotlib](#installing-matplotlib)
     - [Checking if matplotlib is already installed](#checking-if-matplotlib-is-already-installed)
@@ -229,3 +233,6 @@ instead.
 Try using matplotlib to make a die-rolling visualization, and use Pygal
 to make the visualization for a random walk.
 
+
+<span style="float:right;"><a href='../chapter_16/README.md'>Next &#10095;</span></a>
+<a href='../chapter_14/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>

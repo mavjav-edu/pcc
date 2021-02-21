@@ -5,6 +5,8 @@ title: Scoring
 
 # Scoring
 
+In this chapter we’ll finish the Alien Invasion game. We’ll add a Play button to start a game on demand or to restart a game once it ends. We’ll also change the game so it speeds up when the player moves up a level, and we’ll implement a scoring system. By the end of the chapter, you’ll know enough to start writing games that increase in difficulty as a player progresses and that show scores.
+
 TRY IT YOURSELF \#1
 -------------------
 
@@ -69,3 +71,6 @@ hide behind, which can be destroyed by bullets from either side. Or use
 something like the `pygame.mixer` module to add sound effects like
 explosions and shooting sounds.
 
+
+<span style="float:right;"><a href='../chapter_15/README.md'>Next &#10095;</span></a>
+<a href='../chapter_13/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>

@@ -5,6 +5,10 @@ title: Downloading Data
 
 # Downloading Data
 
+In this chapter we’ll download data sets from online sources and create working visualizations of that data. An incredible variety of data can be found online, much of which hasn’t been examined thoroughly. The ability to analyze this data allows you to discover patterns and connections that no one else has found.
+
+## Changes from the book
+
 There's a slight change to [Exercise 16-1](#exercise-16-1-san-francisco).
 
 Pygal has been updated recently, which is a good thing; you're learning a library that's being steadily improved. If you're using the latest version of Pygal, you'll need to make some slight changes to the code in Chapter 16.
@@ -158,3 +162,6 @@ statements to check whether the `get_country_code()` function worked.
 Write a proper test for this function using what you learned in [Chapter
 11](../chapter_11/README.md#ch11).
 
+
+<span style="float:right;"><a href='../chapter_17/README.md'>Next &#10095;</span></a>
+<a href='../chapter_15/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>

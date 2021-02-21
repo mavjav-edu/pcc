@@ -5,6 +5,12 @@ title: A Ship That Fires Bullets
 
 # A Ship That Fires Bullets
 
+[![GG Goode Game by @MatthewHenryDesign](gg-good-game-galaga-RtpmUzMbynBeCgEa5E.gif)](https://giphy.com/gifs/gg-good-game-galaga-RtpmUzMbynBeCgEa5E)
+
+Let’s build a game! We’ll use @Pygame, a collection of fun, powerful Python modules that manage graphics, animation, and even sound, making it easier for you to build sophisticated games. With Pygame handling tasks like drawing images to the screen, you can skip much of the tedious, difficult coding and focus on the higher-level logic of game dynamics.
+
+In this chapter, you’ll set up Pygame and then create a ship that moves right and left, and fires bullets in response to player input. In the next two chapters, you’ll create a fleet of aliens to destroy, and then continue to make refinements, such as setting limits on the number of ships you can use and adding a scoreboard.
+
 Restore Points
 ---
 
@@ -12,13 +18,13 @@ As you work your way through the Alien Invasion project, you'll develop a number
 
 - **Compare your code to code that works:** You should try this first. Look at the code you have, and compare it to the corresponding restore point. You might be able to spot where your code differs, and simply correct your own code.
 
-- **Start over from a restore point:** If you want to just start with code that works, you can make a copy of the project using a restore point and pick up from there. For example if you want to start from a working version that fires bullets, you can copy the files and directories from [restore_point_2_fires_bullets](https://github.com/ehmatthes/pcc/tree/master/chapter_12/restore_points/restore_point_2_fires_bullets) and go from there. This might be helpful if you get lost later in the project, or if you've been adding your own features and you want to go back to the book's version of the game.
+- **Start over from a restore point:** If you want to just start with code that works, you can make a copy of the project using a restore point and pick up from there. For example if you want to start from a working version that fires bullets, you can copy the files and directories from [restore_point_2_fires_bullets](restore_points/restore_point_2_fires_bullets) and go from there. This might be helpful if you get lost later in the project, or if you've been adding your own features and you want to go back to the book's version of the game.
 
-There are three [restore points](https://github.com/ehmatthes/pcc/tree/master/chapter_12/restore_points) available for Chapter 12:
+There are three [restore points](chapter_12/restore_points) available for Chapter 12:
 
-- The ship moves, which corresponds to the state of the game on page 257. This is [restore_point_1_ship_moves](https://github.com/ehmatthes/pcc/tree/master/chapter_12/restore_points/restore_point_1_ship_moves).
-- The ship fires bullets, which corresponds to the state of the game on page 261. This is [restore_point_2_fires_bullets](https://github.com/ehmatthes/pcc/tree/master/chapter_12/restore_points/restore_point_2_fires_bullets).
-- The ship fires only three bullets at a time, and the code has been refactored with `fire_bullets()`. This is [restore_point_3_end_chapter_12](https://github.com/ehmatthes/pcc/tree/master/chapter_12/restore_points/restore_point_3_end_chapter_12).
+- The ship moves, which corresponds to the state of the game on page 257. This is [restore_point_1_ship_moves](chapter_12/restore_points/restore_point_1_ship_moves).
+- The ship fires bullets, which corresponds to the state of the game on page 261. This is [restore_point_2_fires_bullets](chapter_12/restore_points/restore_point_2_fires_bullets).
+- The ship fires only three bullets at a time, and the code has been refactored with `fire_bullets()`. This is [restore_point_3_end_chapter_12](chapter_12/restore_points/restore_point_3_end_chapter_12).
 
 Installing Pygame
 ---
@@ -159,3 +165,6 @@ move the ship up and down. Make the ship fire a bullet that travels
 right across the screen when the player presses the spacebar. Make sure
 bullets are deleted once they disappear off the screen.
 
+
+<span style="float:right;"><a href='../chapter_13/README.md'>Next &#10095;</span></a>
+<a href='../chapter_11/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>

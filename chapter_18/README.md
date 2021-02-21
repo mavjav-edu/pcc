@@ -315,3 +315,6 @@ back to it when you’re working on your own projects.
 each pizza name to a page displaying the pizza’s toppings. Make sure you
 use template inheritance to build your pages efficiently.
 
+
+<span style="float:right;"><a href='../chapter_19/README.md'>Next &#10095;</span></a>
+<a href='../chapter_17/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>

@@ -198,3 +198,6 @@ might want to solve as your programming skills continue to improve.
 Consider games you might want to write, data sets you might want to
 explore, and web applications you’d like to create.
 
+
+<span style="float:right;"><a href='../chapter_06/README.md'>Next &#10095;</span></a>
+<a href='../chapter_04/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>

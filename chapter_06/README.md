@@ -23,7 +23,7 @@ information stored in your dictionary.
 store people’s favorite numbers. Think of five names, and use them as
 keys in your dictionary. Think of a favorite number for each person, and
 store each as a value in your dictionary. Print each person’s name and
-their favorite number. For even more fun, poll a few friends and get
+their favorite number. For even more fun, survey a few friends to get
 some actual data for your program.
 
 <span id="ch6exe3"></span>**6-3. Glossary:** A Python dictionary can be
@@ -120,3 +120,6 @@ of ways. Use one of the example programs from this chapter, and extend
 it by adding new keys and values, changing the context of the program or
 improving the formatting of the output.
 
+
+<span style="float:right;"><a href='../chapter_07/README.md'>Next &#10095;</span></a>
+<a href='../chapter_05/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>
