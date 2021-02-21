@@ -157,5 +157,5 @@ happen. Change an index in one of your programs to produce an index
 error. Make sure you correct the error before closing the program.
 
 
-<span style="float:right;"><a href='../chapter_04/README.md'>Next &#10095;</span></a>
-<a href='../chapter_02/README.md'><span style="float:left; clear:left;">&#10094; Prev</span></a>
+<span align="right"><a href='../chapter_04/README.md'>Next &#10095;</span></a>
+<a href='../chapter_02/README.md'><span align="left">&#10094; Prev</span></a>

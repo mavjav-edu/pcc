@@ -121,5 +121,5 @@ it by adding new keys and values, changing the context of the program or
 improving the formatting of the output.
 
 
-<span style="float:right;"><a href='../chapter_07/README.md'>Next &#10095;</span></a>
-<a href='../chapter_05/README.md'><span style="float:left; clear:left;">&#10094; Prev</span></a>
+<span align="right"><a href='../chapter_07/README.md'>Next &#10095;</span></a>
+<a href='../chapter_05/README.md'><span align="left">&#10094; Prev</span></a>

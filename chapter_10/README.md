@@ -155,5 +155,5 @@ if this is the correct username. If it’s not, call `get_new_username()`
 to get the correct username.
 
 
-<span style="float:right;"><a href='../chapter_11/README.md'>Next &#10095;</span></a>
-<a href='../chapter_09/README.md'><span style="float:left; clear:left;">&#10094; Prev</span></a>
+<span align="right"><a href='../chapter_11/README.md'>Next &#10095;</span></a>
+<a href='../chapter_09/README.md'><span align="left">&#10094; Prev</span></a>

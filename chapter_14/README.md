@@ -72,5 +72,5 @@ something like the `pygame.mixer` module to add sound effects like
 explosions and shooting sounds.
 
 
-<span style="float:right;"><a href='../chapter_15/README.md'>Next &#10095;</span></a>
-<a href='../chapter_13/README.md'><span style="float:left; clear:left;">&#10094; Prev</span></a>
+<span align="right"><a href='../chapter_15/README.md'>Next &#10095;</span></a>
+<a href='../chapter_13/README.md'><span align="left">&#10094; Prev</span></a>

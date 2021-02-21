@@ -238,5 +238,5 @@ edit their posts, make sure the user is editing their own post before
 processing the form.
 
 
-<span style="float:right;"><a href='../chapter_20/README.md'>Next &#10095;</span></a>
-<a href='../chapter_18/README.md'><span style="float:left; clear:left;">&#10094; Prev</span></a>
+<span align="right"><a href='../chapter_20/README.md'>Next &#10095;</span></a>
+<a href='../chapter_18/README.md'><span align="left">&#10094; Prev</span></a>

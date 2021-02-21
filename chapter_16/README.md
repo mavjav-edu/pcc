@@ -163,5 +163,5 @@ Write a proper test for this function using what you learned in [Chapter
 11](../chapter_11/README.md#ch11).
 
 
-<span style="float:right;"><a href='../chapter_17/README.md'>Next &#10095;</span></a>
-<a href='../chapter_15/README.md'><span style="float:left; clear:left;">&#10094; Prev</span></a>
+<span align="right"><a href='../chapter_17/README.md'>Next &#10095;</span></a>
+<a href='../chapter_15/README.md'><span align="left">&#10094; Prev</span></a>

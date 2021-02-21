@@ -65,5 +65,5 @@ unauthenticated users as well. Remember to migrate the live database
 after you’ve pushed your changes to Heroku.
 
 
-<span style="float:right;"><a href='../chapter_21/README.md'>Next &#10095;</span></a>
-<a href='../chapter_19/README.md'><span style="float:left; clear:left;">&#10094; Prev</span></a>
+<span align="right"><a href='../chapter_21/README.md'>Next &#10095;</span></a>
+<a href='../chapter_19/README.md'><span align="left">&#10094; Prev</span></a>

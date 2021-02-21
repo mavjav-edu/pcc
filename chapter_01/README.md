@@ -55,4 +55,4 @@ you can refer to whenever you want to start a new project. Take a few
 minutes now to describe three programs you’d like to create.
 
 
-<span style="float:right;"><a href='../chapter_02/README.md'>Next &#10095;</span></a>
+<span align="right"><a href='../chapter_02/README.md'>Next &#10095;</span></a>
