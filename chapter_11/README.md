@@ -59,4 +59,4 @@ Write a test case for `Employee`. Write two test methods,
 each test method. Run your test case, and make sure both tests pass.
 
 <span style="float:right;"><a href='../chapter_12/README.md'>Next &#10095;</span></a>
-<a href='../chapter_10/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>
+<a href='../chapter_10/README.md'><span style="float:left; clear:left;">&#10094; Prev</span></a>

@@ -163,4 +163,4 @@ and `random` modules.
 
 
 <span style="float:right;"><a href='../chapter_10/README.md'>Next &#10095;</span></a>
-<a href='../chapter_08/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>
+<a href='../chapter_08/README.md'><span style="float:left; clear:left;">&#10094; Prev</span></a>

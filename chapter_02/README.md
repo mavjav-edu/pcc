@@ -102,4 +102,4 @@ into a Python terminal session and skim through the additional
 principles.
 
 <span style="float:right;"><a href='../chapter_03/README.md'>Next &#10095;</span></a>
-<a href='../chapter_01/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>
+<a href='../chapter_01/README.md'><span style="float:left; clear:left;">&#10094; Prev</span></a>

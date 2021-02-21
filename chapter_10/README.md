@@ -156,4 +156,4 @@ to get the correct username.
 
 
 <span style="float:right;"><a href='../chapter_11/README.md'>Next &#10095;</span></a>
-<a href='../chapter_09/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>
+<a href='../chapter_09/README.md'><span style="float:left; clear:left;">&#10094; Prev</span></a>

@@ -239,4 +239,4 @@ processing the form.
 
 
 <span style="float:right;"><a href='../chapter_20/README.md'>Next &#10095;</span></a>
-<a href='../chapter_18/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>
+<a href='../chapter_18/README.md'><span style="float:left; clear:left;">&#10094; Prev</span></a>

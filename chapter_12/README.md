@@ -167,4 +167,4 @@ bullets are deleted once they disappear off the screen.
 
 
 <span style="float:right;"><a href='../chapter_13/README.md'>Next &#10095;</span></a>
-<a href='../chapter_11/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>
+<a href='../chapter_11/README.md'><span style="float:left; clear:left;">&#10094; Prev</span></a>
