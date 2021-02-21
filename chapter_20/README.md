@@ -67,4 +67,4 @@ after you’ve pushed your changes to Heroku.
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-<a href='../chapter_19/README.md'>&#10094; Prev</a>| &nbsp; | &nbsp; | &nbsp;</a>
+<a href='../chapter_19/README.md'>&#10094; Prev</a>| &nbsp; | &nbsp; | &nbsp;
