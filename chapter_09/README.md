@@ -162,5 +162,6 @@ you and read about it, or explore the documentation of the `collections`
 and `random` modules.
 
 
-<span align="right"><a href='../chapter_10/README.md'>Next &#10095;</span></a>
-<a href='../chapter_08/README.md'><span align="left">&#10094; Prev</span></a>
+&nbsp; | &nbsp; | &nbsp; | &nbsp;
+----|----|----|----
+<a href='../chapter_08/README.md'>&#10094; Prev</a>| &nbsp; | &nbsp; | &nbsp;<a href='../chapter_10/README.md'>Next &#10095;</a>

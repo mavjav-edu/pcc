@@ -234,5 +234,6 @@ Try using matplotlib to make a die-rolling visualization, and use Pygal
 to make the visualization for a random walk.
 
 
-<span align="right"><a href='../chapter_16/README.md'>Next &#10095;</span></a>
-<a href='../chapter_14/README.md'><span align="left">&#10094; Prev</span></a>
+&nbsp; | &nbsp; | &nbsp; | &nbsp;
+----|----|----|----
+<a href='../chapter_14/README.md'>&#10094; Prev</a>| &nbsp; | &nbsp; | &nbsp;<a href='../chapter_16/README.md'>Next &#10095;</a>

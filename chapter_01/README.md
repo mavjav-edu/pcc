@@ -54,5 +54,6 @@ you’d like to create. It’s a good habit to keep an “ideas” notebook that
 you can refer to whenever you want to start a new project. Take a few
 minutes now to describe three programs you’d like to create.
 
-
-<span align="right"><a href='../chapter_02/README.md'>Next &#10095;</span></a>
+&nbsp; | &nbsp; | &nbsp; | &nbsp;
+----|----|----|----
+&nbsp;| &nbsp; | &nbsp; | &nbsp;<a href='../chapter_02/README.md'>Next &#10095;</a>

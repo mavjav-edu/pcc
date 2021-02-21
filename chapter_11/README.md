@@ -58,5 +58,6 @@ Write a test case for `Employee`. Write two test methods,
 `setUp()` method so you don’t have to create a new employee instance in
 each test method. Run your test case, and make sure both tests pass.
 
-<span align="right"><a href='../chapter_12/README.md'>Next &#10095;</span></a>
-<a href='../chapter_10/README.md'><span align="left">&#10094; Prev</span></a>
+&nbsp; | &nbsp; | &nbsp; | &nbsp;
+----|----|----|----
+<a href='../chapter_10/README.md'>&#10094; Prev</a>| &nbsp; | &nbsp; | &nbsp;<a href='../chapter_12/README.md'>Next &#10095;</a>

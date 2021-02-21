@@ -79,5 +79,6 @@ that polls users about their dream vacation. Write a prompt similar to
 a block of code that prints the results of the poll.
 
 
-<span align="right"><a href='../chapter_08/README.md'>Next &#10095;</span></a>
-<a href='../chapter_06/README.md'><span align="left">&#10094; Prev</span></a>
+&nbsp; | &nbsp; | &nbsp; | &nbsp;
+----|----|----|----
+<a href='../chapter_06/README.md'>&#10094; Prev</a>| &nbsp; | &nbsp; | &nbsp;<a href='../chapter_08/README.md'>Next &#10095;</a>

@@ -199,5 +199,6 @@ Consider games you might want to write, data sets you might want to
 explore, and web applications you’d like to create.
 
 
-<span align="right"><a href='../chapter_06/README.md'>Next &#10095;</span></a>
-<a href='../chapter_04/README.md'><span align="left">&#10094; Prev</span></a>
+&nbsp; | &nbsp; | &nbsp; | &nbsp;
+----|----|----|----
+<a href='../chapter_04/README.md'>&#10094; Prev</a>| &nbsp; | &nbsp; | &nbsp;<a href='../chapter_06/README.md'>Next &#10095;</a>

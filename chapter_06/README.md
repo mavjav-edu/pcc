@@ -121,5 +121,6 @@ it by adding new keys and values, changing the context of the program or
 improving the formatting of the output.
 
 
-<span align="right"><a href='../chapter_07/README.md'>Next &#10095;</span></a>
-<a href='../chapter_05/README.md'><span align="left">&#10094; Prev</span></a>
+&nbsp; | &nbsp; | &nbsp; | &nbsp;
+----|----|----|----
+<a href='../chapter_05/README.md'>&#10094; Prev</a>| &nbsp; | &nbsp; | &nbsp;<a href='../chapter_07/README.md'>Next &#10095;</a>

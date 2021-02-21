@@ -166,5 +166,6 @@ right across the screen when the player presses the spacebar. Make sure
 bullets are deleted once they disappear off the screen.
 
 
-<span align="right"><a href='../chapter_13/README.md'>Next &#10095;</span></a>
-<a href='../chapter_11/README.md'><span align="left">&#10094; Prev</span></a>
+&nbsp; | &nbsp; | &nbsp; | &nbsp;
+----|----|----|----
+<a href='../chapter_11/README.md'>&#10094; Prev</a>| &nbsp; | &nbsp; | &nbsp;<a href='../chapter_13/README.md'>Next &#10095;</a>

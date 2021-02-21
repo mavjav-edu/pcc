@@ -195,5 +195,6 @@ make—for example, that the number of items returned is expected and that
 the total number of repositories is greater than a certain amount.
 
 
-<span align="right"><a href='../chapter_18/README.md'>Next &#10095;</span></a>
-<a href='../chapter_16/README.md'><span align="left">&#10094; Prev</span></a>
+&nbsp; | &nbsp; | &nbsp; | &nbsp;
+----|----|----|----
+<a href='../chapter_16/README.md'>&#10094; Prev</a>| &nbsp; | &nbsp; | &nbsp;<a href='../chapter_18/README.md'>Next &#10095;</a>
