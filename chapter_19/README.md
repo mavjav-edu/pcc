@@ -5,6 +5,10 @@ title: User Accounts
 
 # User Accounts
 
+In this chapter we’ll build forms so users can add their own topics and entries, and edit existing entries. We’ll also learn how Django guards against common attacks to form-based pages so you don’t have to spend too much time thinking about securing your apps.
+
+We’ll then implement a user authentication system. You’ll build a registration page for users to create accounts, and then restrict access to certain pages to logged-in users only. We’ll then modify some of the view functions so users can only see their own data. You’ll learn to keep your users’ data safe and secure.
+
 Updates
 ---
 
@@ -233,3 +237,6 @@ can add posts and edit existing posts. In the view that allows users to
 edit their posts, make sure the user is editing their own post before
 processing the form.
 
+
+<span style="float:right;"><a href='../chapter_20/README.md'>Next &#10095;</span></a>
+<a href='../chapter_18/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>

@@ -13,10 +13,14 @@ In **Chapter 1** you’ll install Python on your
 computer and run your first program, which prints the message *Hello
 world!* to the screen.
 
+![Ready! by @BTTF](ready.gif)
+
 Setting Up
 ---
 
-Python runs on all modern operating systems, but the setup process is slightly different on each operating system:
+The first task is to install Python (or make sure we have an up-to-date version).
+
+Python runs on all modern operating systems, but the setup process is slightly different on each operating system (OS). Please follow the link below based on your OS:
 
 - [Linux](linux_setup.md)
 - [OS X](osx_setup.md)
@@ -24,6 +28,8 @@ Python runs on all modern operating systems, but the setup process is slightly d
 
 TRY IT YOURSELF \#1
 -------------------
+
+![There is no Try](try.gif)
 
 The exercises in this chapter are exploratory. Starting in
 [Chapter 2](../chapter_02/README.md#ch02), the challenges you’ll solve will be based
@@ -48,3 +54,5 @@ you’d like to create. It’s a good habit to keep an “ideas” notebook that
 you can refer to whenever you want to start a new project. Take a few
 minutes now to describe three programs you’d like to create.
 
+
+<span style="float:right;"><a href='../chapter_02/README.md'>Next &#10095;</span></a>

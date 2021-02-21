@@ -1,9 +1,10 @@
 #Requires -PSEdition Core
-$TESTING = $false
-$MDs = Get-ChildItem -Filter *.md -Recurse
+$TESTING = $true
+$MDs = Get-ChildItem -Filter *.md -Recurse # Get all markdown files
+$PYFilesPattern = [regex]::new('(?<=[^\/\*\[\w\(])\*?([^\s\[\]]+\.py)\*?(?=[^\*\]\w\)])?') # Filters legitimate python script mentions
 foreach($MD in $MDs) {
     $MDcontent = Get-Content $MD
-    $mentionsPYfile = $MDcontent | Select-String -Pattern '(?<=[^\/\*\[\w\(])\*?([^\s\[\]]+\.py)\*?(?=[^\*\]\w\)])?' -AllMatches
+    $mentionsPYfile = $MDcontent | Select-String -Pattern $PYFilesPattern -AllMatches
     foreach ($mention in $mentionsPYfile) {
         $pathToPyPossible = Resolve-Path '.';
         if($MD.Name -like 'chapter_*.md') {
@@ -14,7 +15,7 @@ foreach($MD in $MDs) {
         }
         if(Test-Path $pathToPyPossible -ErrorAction SilentlyContinue) {
             Push-Location $MD.Directory
-            $relPathToPy = (Resolve-Path $pathToPyPossible -Relative) -replace '^\.\\','' -replace '\\','/'
+            $relPathToPy = (Resolve-Path $pathToPyPossible -Relative) -replace '^\.\\','' -replace '\\','/' # HTTP compatible path
             $changedLine = ($mention) -replace $mention.Pattern,"[`$0]($relPathToPy)"
             if($changedLine -ne  $MDcontent[($mention.LineNumber)-1]){
                 $MDcontent[($mention.LineNumber)-1] = $changedLine
@@ -28,4 +29,8 @@ foreach($MD in $MDs) {
             Pop-Location
         }
     }
+}
+$PYFiles = Get-ChildItem -Filter  *.py -Recurse
+foreach ($PYFile in $PYFiles) {
+    
 }

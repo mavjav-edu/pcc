@@ -8,6 +8,8 @@ title: Variables And Simple Data Types
 In **Chapter 2** you’ll learn to store information in
 variables and work with text and numerical values.
 
+![Hello World by @ninatsur](hello_world.gif)
+
 TRY IT YOURSELF \#1
 -------------------
 
@@ -99,3 +101,5 @@ TRY IT YOURSELF \#5
 into a Python terminal session and skim through the additional
 principles.
 
+<span style="float:right;"><a href='../chapter_03/README.md'>Next &#10095;</span></a>
+<a href='../chapter_01/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>

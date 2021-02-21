@@ -78,3 +78,6 @@ that polls users about their dream vacation. Write a prompt similar to
 *If you could visit one place in the world, where would you go?* Include
 a block of code that prints the results of the poll.
 
+
+<span style="float:right;"><a href='../chapter_08/README.md'>Next &#10095;</span></a>
+<a href='../chapter_06/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>

@@ -7,7 +7,9 @@ title: Aliens!
 
 <span id="page_276"></span>
 
-<span id="page_276"></span>
+In this chapter we’ll add aliens to Alien Invasion. First, we’ll add one alien near the top of the screen, and then we’ll generate a whole fleet of aliens. We’ll make the fleet advance sideways and down, and we’ll get rid of any aliens hit by a bullet. Finally, we’ll limit the number of ships a player has and end the game when the player runs out of ships.
+
+As you work through this chapter, you’ll learn more about Pygame and about managing a larger project. You’ll also learn to detect collisions between game objects, like bullets and aliens. Detecting collisions helps you define interactions between elements in your games: you can confine a character inside the walls of a maze or pass a ball between two characters. We’ll also continue to work from a plan that we revisit occasionally to maintain the focus of our code-writing sessions.
 
 TRY IT YOURSELF \#1
 -------------------
@@ -61,3 +63,6 @@ TRY IT YOURSELF \#4
 number of times the player misses the ball. When they’ve missed the ball
 three times, end the game.
 
+
+<span style="float:right;"><a href='../chapter_14/README.md'>Next &#10095;</span></a>
+<a href='../chapter_12/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>

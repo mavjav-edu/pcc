@@ -5,6 +5,8 @@ title: Working With Apis
 
 # Working With Apis
 
+In this chapter you’ll learn how to write a self-contained program to generate a visualization based on data that it retrieves. Your program will use a web **application programming interface (API)** to automatically request specific information from a website rather than entire pages. It will then use that information to generate a visualization. Because programs written like this will always use current data to generate a visualization, even when that data might be rapidly changing, it will always be up to date.
+
 The second part of Chapter 17 walks you through a visualization summarizing the most popular Python projects on GitHub. One of the projects has been removed, but the project is still included in the results when you make an API call requesting the most popular projects. The project's name and number of stars is included, but there's no description. This causes an error in Pygal, but we can add a little code to address this. Also, the settings for font sizes have moved from `config` to `style` in Pygal 2.0.0.
 
 This update affects the section *Visualizing Repositories Using Pygal*, which begins on page 384.
@@ -192,3 +194,6 @@ of `status_code` is 200. Figure out some other assertions you can
 make—for example, that the number of items returned is expected and that
 the total number of repositories is greater than a certain amount.
 
+
+<span style="float:right;"><a href='../chapter_18/README.md'>Next &#10095;</span></a>
+<a href='../chapter_16/README.md'><span style="float:left; clear:left;">&#10096; Prev</span></a>
