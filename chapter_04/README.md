@@ -6,10 +6,11 @@ title: Working With Lists
 # Working With Lists
 
 **[Chapters 3](../chapter_03/README.md)** introduced lists and **Chapter 4**
-dives deeper. Lists can store as much information as you want in one variable,
-allowing you to work with that data efficiently. You’ll be able to work
-with hundreds, thousands, and even millions of values in just a few
-lines of code.
+dives deeper. Python provides several **idioms** for constructing lists using
+very little code. The most powerful of these idioms is *list comprehension*.
+This technique harnesses the power of a for-loop in abbreviated list syntax.
+
+![List Comprehension](list-comprehension-condition.gif)
 
 TRY IT YOURSELF \#1
 -------------------
@@ -59,7 +60,7 @@ million numbers.
 
 <span id="ch4exe6"></span>**4-6. Odd Numbers:** Use the third argument
 of the `range()` function to make a list of the odd numbers from 1 to
-20. Use a `for` loop to print each number.
+1.  Use a `for` loop to print each number.
 
 <span id="ch4exe7"></span>**4-7. Threes:** Make a list of the multiples
 of 3 from 3 to 30. Use a `for` loop to print the numbers in your list.

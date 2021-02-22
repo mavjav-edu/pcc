@@ -29,8 +29,6 @@ Python runs on all modern operating systems, but the setup process is slightly d
 TRY IT YOURSELF \#1
 -------------------
 
-![There is no Try](try.gif)
-
 The exercises in this chapter are exploratory. Starting in
 [Chapter 2](../chapter_02/README.md#ch02), the challenges you’ll solve will be based
 on what you’ve learned.
@@ -53,6 +51,8 @@ for your new skills; now is a great time to draft descriptions of what
 you’d like to create. It’s a good habit to keep an “ideas” notebook that
 you can refer to whenever you want to start a new project. Take a few
 minutes now to describe three programs you’d like to create.
+
+![There is no Try](try.gif)
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
