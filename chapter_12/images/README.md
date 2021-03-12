@@ -11,35 +11,24 @@ This folder contains images you can use for your game.
 
 Here are some spaceship glyphs to choose from.
 
-![Spaceship #1](./spaceships/1.svg)
-![Spaceship #2](./spaceships/2.svg)
-![Spaceship #3](./spaceships/3.svg)
-![Spaceship #4](./spaceships/4.svg)
-![Spaceship #5](./spaceships/5.svg)
-![Spaceship #6](./spaceships/6.svg)
-![Spaceship #7](./spaceships/7.svg)
-![Spaceship #8](./spaceships/8.svg)
-![Spaceship #9](./spaceships/9.svg)
-![Spaceship #10](./spaceships/10.svg)
-![Spaceship #11](./spaceships/11.svg)
-![Spaceship #12](./spaceships/12.svg)
-![Spaceship #13](./spaceships/13.svg)
-![Spaceship #14](./spaceships/14.svg)
-![Spaceship #15](./spaceships/15.svg)
-![Spaceship #16](./spaceships/16.svg)
-![Spaceship #17](./spaceships/17.svg)
-![Spaceship #18](./spaceships/18.svg)
-![Spaceship #19](./spaceships/19.svg)
-![Spaceship #20](./spaceships/20.svg)
-![Spaceship #21](./spaceships/21.svg)
-![Spaceship #22](./spaceships/22.svg)
-![Spaceship #23](./spaceships/23.svg)
-![Spaceship #24](./spaceships/24.svg)
-![Spaceship #25](./spaceships/25.svg)
-![Spaceship #26](./spaceships/26.svg)
+|  Space	| Ships 	|
+|-	|-	|
+| <img src="./spaceships/1.svg" alt="Spaceship #1" width="66"> | <img src="./spaceships/2.svg" alt="Spaceship #2" width="66"> |
+| <img src="./spaceships/3.svg" alt="Spaceship #3" width="66"> | <img src="./spaceships/4.svg" alt="Spaceship #4" width="66"> |
+| <img src="./spaceships/5.svg" alt="Spaceship #5" width="66"> | <img src="./spaceships/6.svg" alt="Spaceship #6" width="66"> |
+| <img src="./spaceships/7.svg" alt="Spaceship #7" width="66"> | <img src="./spaceships/8.svg" alt="Spaceship #8" width="66"> |
+| <img src="./spaceships/9.svg" alt="Spaceship #9" width="66"> | <img src="./spaceships/10.svg" alt="Spaceship #10" width="66"> |
+| <img src="./spaceships/11.svg" alt="Spaceship #11" width="66"> | <img src="./spaceships/12.svg" alt="Spaceship #12" width="66"> |
+| <img src="./spaceships/13.svg" alt="Spaceship #13" width="66"> | <img src="./spaceships/14.svg" alt="Spaceship #14" width="66"> |
+| <img src="./spaceships/15.svg" alt="Spaceship #15" width="66"> | <img src="./spaceships/16.svg" alt="Spaceship #16" width="66"> |
+| <img src="./spaceships/17.svg" alt="Spaceship #17" width="66"> | <img src="./spaceships/18.svg" alt="Spaceship #18" width="66"> |
+| <img src="./spaceships/19.svg" alt="Spaceship #19" width="66"> | <img src="./spaceships/20.svg" alt="Spaceship #20" width="66"> |
+| <img src="./spaceships/21.svg" alt="Spaceship #21" width="66"> | <img src="./spaceships/22.svg" alt="Spaceship #22" width="66"> |
+| <img src="./spaceships/23.svg" alt="Spaceship #23" width="66"> | <img src="./spaceships/24.svg" alt="Spaceship #24" width="66"> |
+| <img src="./spaceships/25.svg" alt="Spaceship #25" width="66"> | <img src="./spaceships/26.svg" alt="Spaceship #26" width="66"> |
 
 ## Background
 
 Here is a background you can use:
 
-![Night Sky](./sky.svg)
+<img src="./sky.svg" alt="Night Sky" width="166">
