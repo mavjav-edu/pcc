@@ -1,1 +1,91 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 121.44 142.1"><defs><style>.a{fill:#6c6d6d;}.b{fill:#898989;}.c{fill:#3f4242;}.d,.l{fill:#0c0b0b;}.d,.k{opacity:0.3;}.e{fill:#e09010;}.f{fill:#89570e;}.g{fill:#edd918;}.h{fill:#a08f12;}.i{fill:#32687f;}.j{fill:#fff;opacity:0.2;}</style></defs><path class="a" d="M78.58,142.1H42.85a4.23,4.23,0,0,1-4.05-4.36l4.05-25.44a4.23,4.23,0,0,1,4-4.36H74.53a4.22,4.22,0,0,1,4,4.36l4,25.44A4.22,4.22,0,0,1,78.58,142.1Z"/><path class="b" d="M82.63,137.74a4.22,4.22,0,0,1-4,4.36H42.85a4.23,4.23,0,0,1-4.05-4.36Z"/><polygon class="c" points="12.58 66.9 33.71 78.56 36.17 91.73 12.58 70.88 12.58 66.9"/><polygon class="c" points="108.86 66.9 87.73 78.56 85.26 91.73 108.86 70.88 108.86 66.9"/><path class="d" d="M25.15,73.84a15.58,15.58,0,0,1,.53,8.62l-1.37-1.22Z"/><path class="d" d="M96.28,73.84a15.58,15.58,0,0,0-.53,8.62l1.37-1.22Z"/><path class="a" d="M20.64,104.48H4.51a1.84,1.84,0,0,1-1.83-1.83L4.51,92a1.83,1.83,0,0,1,1.83-1.83H18.81A1.83,1.83,0,0,1,20.64,92l1.83,10.67A1.84,1.84,0,0,1,20.64,104.48Z"/><path class="a" d="M100.79,104.48h16.14a1.84,1.84,0,0,0,1.83-1.83L116.93,92a1.84,1.84,0,0,0-1.83-1.83H102.62A1.84,1.84,0,0,0,100.79,92L99,102.65A1.84,1.84,0,0,0,100.79,104.48Z"/><path class="b" d="M2.68,102.65a1.84,1.84,0,0,0,1.83,1.83H20.64a1.84,1.84,0,0,0,1.83-1.83Z"/><path class="b" d="M99,102.65a1.84,1.84,0,0,0,1.83,1.83h16.14a1.84,1.84,0,0,0,1.83-1.83Z"/><path class="e" d="M1.78,93.11h21.6c.19-1,.35-2,.51-3H1.26C1.42,91.12,1.59,92.1,1.78,93.11Z"/><path class="f" d="M.84,87.34c.13.92.26,1.85.42,2.81H23.89c.16-1,.29-1.89.42-2.81Z"/><path class="e" d="M98.06,93.11h21.6c.19-1,.36-2,.52-3H97.54C97.7,91.12,97.87,92.1,98.06,93.11Z"/><path class="f" d="M97.13,87.34c.12.92.26,1.85.41,2.81h22.64c.15-1,.29-1.89.41-2.81Z"/><path class="e" d="M.84,87.34H24.31c2.53-18.59-1.06-30.68-4.91-37.88H5.76C1.9,56.66-1.68,68.75.84,87.34Z"/><path class="f" d="M12.58,40.68s-3.51,2.59-6.82,8.78H19.4C16.08,43.27,12.58,40.68,12.58,40.68Z"/><path class="e" d="M97.13,87.34h23.46c2.53-18.59-1.06-30.68-4.91-37.88H102C98.19,56.66,94.6,68.75,97.13,87.34Z"/><path class="f" d="M108.86,40.68s-3.51,2.59-6.82,8.78h13.64C112.37,43.27,108.86,40.68,108.86,40.68Z"/><polygon class="e" points="86.47 96.67 98.27 115.87 82.63 115.87 86.47 96.67"/><polygon class="e" points="34.62 96.67 22.82 115.87 38.46 115.87 34.62 96.67"/><path class="d" d="M34.23,97.31s-2.79,13.44,2,18.56v-9Z"/><path class="d" d="M87.2,97.31s2.79,13.44-1.94,18.56v-9Z"/><path class="f" d="M60.72,0s-4.61,3.73-10,12.35h20C65.33,3.73,60.72,0,60.72,0Z"/><polygon class="c" points="39.83 121.91 37.36 132.15 84.46 132.15 81.17 121.91 39.83 121.91"/><path class="g" d="M37.72,125h46c.12-.68.23-1.34.35-2H37.38C37.49,123.68,37.6,124.34,37.72,125Z"/><path class="f" d="M37,120.54c.13.81.27,1.64.42,2.47H84.06c.14-.83.28-1.66.41-2.47Z"/><path class="g" d="M37,120.54H84.47C88,98.67,88.41,80.31,87,65H34.45C33,80.31,33.42,98.67,37,120.54Z"/><path class="g" d="M70.74,12.35h-20C44.63,22,37.55,37.8,34.83,61.37H86.6C83.88,37.8,76.8,22,70.74,12.35Z"/><path class="f" d="M34.83,61.37c-.14,1.2-.27,2.41-.38,3.66H87c-.12-1.25-.25-2.46-.39-3.66Z"/><path class="h" d="M60.72,25.33s13.93,1.26,18.41,28.81h.64c-3.57-32.1-19-33.47-19-33.47S45.23,22,41.66,54.14h.65C46.78,26.59,60.72,25.33,60.72,25.33Z"/><path class="i" d="M73.07,35.6c-.54-.93-1.08-1.77-1.63-2.54-10,4.66-16.93,21.08-16.93,21.08H57S64.85,38.1,73.07,35.6Z"/><path class="i" d="M66.65,28.08a12.91,12.91,0,0,0-5.93-2.75S46.78,26.59,42.31,54.14h7A52.26,52.26,0,0,1,66.65,28.08Z"/><path class="i" d="M74.31,37.91A32.66,32.66,0,0,0,59.59,54.14H79.13A58.07,58.07,0,0,0,74.31,37.91Z"/><path class="i" d="M71.44,33.06a23,23,0,0,0-4.79-5,52.26,52.26,0,0,0-17.3,26.06h5.16S61.46,37.72,71.44,33.06Z"/><path class="j" d="M71.44,33.06a23,23,0,0,0-4.79-5,52.26,52.26,0,0,0-17.3,26.06h5.16S61.46,37.72,71.44,33.06Z"/><path class="i" d="M74.31,37.91c-.41-.83-.82-1.59-1.24-2.31-8.22,2.5-16,18.54-16,18.54h2.56A32.66,32.66,0,0,1,74.31,37.91Z"/><path class="j" d="M74.31,37.91c-.41-.83-.82-1.59-1.24-2.31-8.22,2.5-16,18.54-16,18.54h2.56A32.66,32.66,0,0,1,74.31,37.91Z"/><path class="d" d="M42.31,54.14s.57-.14,1.58-.32,2.44-.42,4.17-.62a106.08,106.08,0,0,1,12.66-.7,106,106,0,0,1,12.65.7c1.73.19,3.17.43,4.17.61s1.59.33,1.59.33Z"/><polygon class="e" points="60.4 97.31 57.03 115.87 60.4 115.87 63.76 115.87 60.4 97.31"/><g class="k"><polygon class="l" points="60.4 115.87 63.76 115.87 60.4 97.31 60.4 115.87"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 494 495"
+	 style="enable-background:new 0 0 494 495;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#B3B3B3;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#C9C9C9;}
+	.st2{fill:#C9C9C9;}
+	.st3{fill:#DADCDB;}
+	.st4{fill:#E8E8E8;}
+	.st5{fill:#24C3FF;}
+	.st6{fill:#0083B5;}
+	.st7{fill:#58D1FF;}
+	.st8{fill:#00ABEC;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview4" inkscape:current-layer="XMLID_49_" inkscape:cx="-153.312" inkscape:cy="320.34989" inkscape:pagecheckerboard="true" inkscape:pageopacity="0.6745098" inkscape:pageshadow="2" inkscape:window-height="1001" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:zoom="1" objecttolerance="10" pagecolor="#000000" showgrid="true">
+	<inkscape:grid  id="grid6199" type="xygrid"></inkscape:grid>
+</sodipodi:namedview>
+<g id="XMLID_49_" transform="translate(242.36077,35.197006)">
+	<polygon id="rect6003" class="st0" points="-92.8,71.6 -23.5,107.9 -22.4,233.4 -91.6,197.1 	"/>
+	<polygon id="rect6005" class="st0" points="82,79.3 12.7,115.5 11.6,241.1 80.8,204.8 	"/>
+	<rect id="rect6195" x="-103.9" y="353" class="st1" width="18.6" height="18.6"/>
+	<rect id="rect6197" x="93.6" y="352.4" class="st1" width="18.6" height="18.6"/>
+	<rect id="XMLID_12_" x="152.4" y="296.5" class="st2" width="22.6" height="21"/>
+	<rect id="XMLID_30_" x="192.6" y="280.1" class="st2" width="22.6" height="21"/>
+	<polygon id="XMLID_21_" class="st3" points="80.8,360.3 80.8,-23.1 119.8,5.1 136.2,17.1 136.2,338.3 120,360.3 	"/>
+	<polygon id="XMLID_20_" class="st3" points="136.2,142.5 193.8,142.5 251.6,270.5 145.4,314.5 136.2,318.3 	"/>
+	<polygon id="XMLID_15_" class="st2" points="61,226.5 80.8,238.7 80.8,300.7 44,282.3 61.6,228.7 	"/>
+	<polygon id="XMLID_17_" class="st2" points="145.4,142.5 145.4,314.5 136.2,318.3 136.2,142.5 	"/>
+	<polygon id="XMLID_14_" class="st4" points="119.8,26.3 136.2,38.1 136.2,338.3 120,360.3 119.8,360.3 	"/>
+	<polygon id="XMLID_8_" class="st2" points="141,302.3 140.4,300.7 227.8,263.1 193,180.5 194.6,179.9 230.2,264.1 	"/>
+	<rect id="XMLID_40_" x="95" y="175.3" class="st2" width="1.8" height="168"/>
+	<rect id="XMLID_42_" x="95" y="138.3" class="st2" width="1.8" height="24"/>
+	<circle id="XMLID_3_" class="st5" cx="211" cy="255.1" r="9.8"/>
+	<rect id="XMLID_9_" x="80.8" y="113.7" class="st5" width="55.4" height="15"/>
+	<rect id="XMLID_13_" x="80.8" y="98.1" class="st5" width="55.4" height="5.6"/>
+	<rect id="XMLID_57_" x="-166" y="296.5" class="st2" width="22.6" height="21"/>
+	<rect id="XMLID_54_" x="-206" y="280.1" class="st2" width="22.6" height="21"/>
+	<polygon id="XMLID_47_" class="st3" points="-71.8,360.3 -71.8,-23.1 -110.8,5.1 -127,17.1 -127,338.3 -111,360.3 	"/>
+	<polygon id="XMLID_46_" class="st3" points="-127,142.5 -184.8,142.5 -242.4,270.5 -136.2,314.5 -127,318.3 	"/>
+	<polygon id="XMLID_45_" class="st2" points="-52,226.5 -71.8,238.7 -71.8,300.7 -35,282.3 -52.6,228.7 	"/>
+	<polygon id="XMLID_44_" class="st2" points="-136.2,142.5 -136.2,314.5 -127,318.3 -127,142.5 	"/>
+	<polygon id="XMLID_43_" class="st4" points="-110.8,26.3 -127,38.1 -127,338.3 -111,360.3 -110.8,360.3 	"/>
+	<polygon id="XMLID_41_" class="st2" points="-132,302.3 -221,264.1 -185.6,179.9 -184,180.5 -218.6,263.1 -131.2,300.7 	"/>
+	<rect id="XMLID_65_" x="-87.8" y="175.3" class="st2" width="1.8" height="168"/>
+	<rect id="XMLID_71_" x="-87.8" y="138.3" class="st2" width="1.8" height="24"/>
+	<rect id="XMLID_36_" x="-127" y="113.7" class="st5" width="55.2" height="15"/>
+	<rect id="XMLID_31_" x="-127" y="98.1" class="st5" width="55.2" height="5.6"/>
+	<path id="XMLID_53_" inkscape:connector-curvature="0" class="st6" d="M-201.4,303.9c0,41.4,3,74.8,6.4,74.8s6.4-33.6,6.4-74.8
+		H-201.4z"/>
+	<path id="path6201" inkscape:connector-curvature="0" class="st7" d="M-198.4,303.8c0,22.1,1.6,40,3.4,40c1.8,0,3.4-18,3.4-40
+		H-198.4z"/>
+	<path id="XMLID_35_" inkscape:connector-curvature="0" class="st3" d="M-60.8,223.5l40.4-138c1.6-5.6,5-10.2,9.4-13.6
+		c4.4-3.2,9.8-5.2,15.6-5.2c11.6,0,21.8,7.6,25,18.6l40.4,138l-30.8,93.8h-69L-60.8,223.5z"/>
+	<path id="XMLID_33_" inkscape:connector-curvature="0" class="st4" d="M-60.8,223.5l40.4-138c1.6-5.6,5-10.2,9.4-13.6
+		c4.4-3.2,9.8-5.2,15.6-5.2v250.6H-30L-60.8,223.5z"/>
+	<rect id="XMLID_11_" x="-22.4" y="267.3" class="st5" width="54" height="6"/>
+	<rect id="XMLID_22_" x="-22.4" y="252.1" class="st5" width="54" height="6"/>
+	<path id="XMLID_35_-6" inkscape:connector-curvature="0" class="st5" d="M-41.1,208.1l28.6-97.6c1.1-4,3.5-7.2,6.6-9.6
+		c3.1-2.3,6.9-3.7,11-3.7c8.2,0,15.4,5.4,17.7,13.2L51.4,208l-21.8,66.3h-48.8L-41.1,208.1z"/>
+	<path id="XMLID_33_-9" inkscape:connector-curvature="0" class="st8" d="M51.4,208l-28.6-97.6c-1.1-4-3.5-7.2-6.6-9.6
+		c-3.1-2.3-6.9-3.7-11-3.7v177.2h24.5L51.4,208z"/>
+	<path id="XMLID_53_-4" inkscape:connector-curvature="0" class="st6" d="M-160.3,319.9c0,41.4,3,74.8,6.4,74.8s6.4-33.6,6.4-74.8
+		H-160.3z"/>
+	<path id="path6201-4" inkscape:connector-curvature="0" class="st7" d="M-157.4,319.9c0,22.1,1.6,40,3.4,40s3.4-18,3.4-40H-157.4z"
+		/>
+	<g id="g6573">
+		<path id="XMLID_53_-8" inkscape:connector-curvature="0" class="st6" d="M-101.2,373.9c0,41.4,3,74.8,6.4,74.8s6.4-33.6,6.4-74.8
+			H-101.2z"/>
+		<path id="path6201-9" inkscape:connector-curvature="0" class="st7" d="M-98.2,373.9c0,22.1,1.6,40,3.4,40c1.8,0,3.4-18,3.4-40
+			H-98.2z"/>
+	</g>
+	<path id="XMLID_53_-7" inkscape:connector-curvature="0" class="st6" d="M96.8,373.9c0,41.4,3,74.8,6.4,74.8s6.4-33.6,6.4-74.8
+		H96.8z"/>
+	<path id="path6201-1" inkscape:connector-curvature="0" class="st7" d="M99.8,373.9c0,22.1,1.6,40,3.4,40c1.8,0,3.4-18,3.4-40H99.8
+		z"/>
+	<path id="XMLID_53_-6" inkscape:connector-curvature="0" class="st6" d="M157.7,319.9c0,41.4,3,74.8,6.4,74.8s6.4-33.6,6.4-74.8
+		H157.7z"/>
+	<path id="path6201-6" inkscape:connector-curvature="0" class="st7" d="M160.6,319.9c0,22.1,1.6,40,3.4,40c1.8,0,3.4-18,3.4-40
+		H160.6z"/>
+	<g id="g6598">
+		<path id="XMLID_53_-9" inkscape:connector-curvature="0" class="st6" d="M197.7,303.9c0,41.4,3,74.8,6.4,74.8s6.4-33.6,6.4-74.8
+			H197.7z"/>
+		<path id="path6201-0" inkscape:connector-curvature="0" class="st7" d="M200.6,303.9c0,22.1,1.6,40,3.4,40c1.8,0,3.4-18,3.4-40
+			H200.6z"/>
+	</g>
+	<circle id="circle6448" class="st5" cx="-201.1" cy="257" r="9.8"/>
+</g>
+</svg>
