@@ -4,7 +4,7 @@ Python Crash Course
 A Hands-On, Project-Based Introduction to Programming
 ---
 
-This is a curriciulum for learning Python using [Python Crash Course](http://www.nostarch.com/pythoncrashcourse/), an introductory programming book from [No Starch Press](http://www.nostarch.com) by Eric Matthes. Click [here](https://mavaddat-javid-education.github.io/pcc/) for a tidier visual presentation of these online resources.
+This is a curriculum for learning Python using [Python Crash Course](http://www.nostarch.com/pythoncrashcourse/), an introductory programming book from [No Starch Press](http://www.nostarch.com) by Eric Matthes. Visit the [page](https://mavaddat-javid-education.github.io/pcc/) for the nicest visual presentation of these online resources.
 
 If you have any questions about Python Crash Course, please contact [Mavaddat](https://www.mavaddat.ca) or feel free to get in touch with the author:
 
